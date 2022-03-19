@@ -1,4 +1,8 @@
 {
+	"Language": {
+		"Ukrainian": "Українська (Ucraniano)",
+		"Hungarian": "Magyar (Húngaro)"
+	},
 	"Achievements": {
 		"SMASHING_POPPET_Description": "Usando explosivos ou seu fiel martelo, destrua uma Esfera das Sombras ou um Coração de Carmim nas partes maléficas do seu mundo.",
 		"STING_OPERATION_Description": "Derrote a Abelha Rainha, matriarca das colmeias da selva.",
