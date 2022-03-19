@@ -1,0 +1,86 @@
+{
+	"ArmorSetBonus": {
+		"Mining": "30% de aumento na velocidade de minéração",
+		"Shroomite": "Ficar parado deixa você em modo sorrateiro,\naumentando a sua habilidade em ataques à distância e reduzindo a chance dos inimigos usarem você como alvo",
+		"Vortex": "Pressione duas vezes {0} para entrar no modo sorrateiro,\naumentando a sua habilidade em ataques à distância e reduzindo a chance dos inimigos usarem você como alvo, mas desacelerando seus movimentos",
+		"Solar": "Escudos solares carregam com o tempo para proteger você. Eles também permitem que você faça uma investida\nUma carga é gasta para causar dano nos inimigos que você tocar\nCargas gastas explodem e causam dano nos inimigos",
+		"CrystalNinja": "Permite fazer uma investida\n10% de aumento no dano e na chance de acerto crítico"
+	},
+	"BuffDescription": {
+		"BabyFaceMonster": "Um monstro da face bebê está seguindo você",
+		"Mining": "Aumento de 25% na velocidade de mineração",
+		"BatOfLight": "O morcego sanguíneo vai lutar por você"
+	},
+	"BuffName": {
+		"AmmoReservation": "Reserva de Munição",
+		"Archery": "Arqueiro",
+		"BabyDinosaur": "Filhote de Dinossauro",
+		"BabyEater": "Devorador Bebê",
+		"BabyFaceMonster": "Monstro da Face Bebê",
+		"BabyPenguin": "Filhote de Pinguim",
+		"BabyTruffle": "Filhote de Trufa",
+		"BeetleEndurance1": "Resistência por Besouros",
+		"BeetleEndurance2": "Resistência por Besouros",
+		"BeetleEndurance3": "Resistência por Besouros",
+		"BeetleMight1": "Poder dos Besouros",
+		"BeetleMight2": "Poder dos Besouros",
+		"BeetleMight3": "Poder dos Besouros",
+		"BrokenArmor": "Armadura Quebrada",
+		"ChaosState": "Estado de Caos",
+		"CrimsonHeart": "Coração de Carmim",
+		"CursedInferno": "Inferno Amaldiçoado",
+		"Electrified": "Eletrificado",
+		"EyeballSpring": "Olho Saltitante",
+		"Featherfall": "Queda de Penas",
+		"Frostburn": "Queimadura de Gelo",
+		"HeartLamp": "Lâmpada do Coração",
+		"IceBarrier": "Barreira de Gelo",
+		"Ironskin": "Pele de Ferro",
+		"LeafCrystal": "Cristal de Folha",
+		"MagicPower": "Poder Mágico",
+		"ManaRegeneration": "Restauração de Mana",
+		"ManaSickness": "Enjoo por Mana",
+		"Merfolk": "Tritão",
+		"NightOwl": "Coruja da Noite",
+		"ObsidianSkin": "Pele Obsidiana",
+		"OnFire": "Em Chamas!",
+		"PetBunny": "Coelhinho de Estimação",
+		"PetParrot": "Papagaio de Estimação",
+		"PetSapling": "Plantinha de Estimação",
+		"PetSpider": "Aranha de Estimação",
+		"PetTurtle": "Tartaruga de Estimação",
+		"PotionSickness": "Enjoo por Poção",
+		"RapidHealing": "Cura Rápida",
+		"TheTongue": "A Língua",
+		"WeaponImbueConfetti": "Efeito da arma: Confetes",
+		"WeaponImbueCursedFlames": "Efeito da Arma: Chamas Amaldiçoadas",
+		"WeaponImbueFire": "Efeito da Arma: Fogo",
+		"WeaponImbueGold": "Efeito da Arma: Ouro",
+		"WeaponImbueIchor": "Efeito da Arma: Ichor",
+		"WeaponImbueNanites": "Efeito da Arma: Nanobôs",
+		"WeaponImbuePoison": "Efeito da Arma: Veneno",
+		"WellFed": "Bem Alimentado",
+		"BatOfLight": "Morcego Sanguíneo",
+		"CatBast": "A Defesa do Basto",
+		"CoolWhipPlayerBuff": "Reforço Gelado"
+	},
+	"MapObject": {
+		"CrimsonAltar": "Altar de Carmim",
+		"LivingWood": "Madeira Viva"
+	},
+	"Bestiary_ItemDropConditions": {
+		"SoulOfLight": "Surge no Sagrado Subterrâneo",
+		"SoulOfNight": "Surge no Carmim Subterrâneo ou na Corrupção Subterrânea"
+	},
+	"Bestiary_Biomes": {
+		"UndergroundCrimson": "Carmim Subterrâneo",
+		"UndergroundHallow": "Sagrado Subterrâneo"
+	},
+	"EmojiName": {
+		"TownBestiaryGirl": "zoologa",
+		"TownBestiaryGirlFox": "zoologaraposa"
+	},
+	"LoadingTips_Default": {
+		"56": "É possível destruir Esferas das Sombras e Corações de Carmim com um martelo ou com explosivos, mas se prepare para enfrentar as forças que isso libera."
+	}
+}

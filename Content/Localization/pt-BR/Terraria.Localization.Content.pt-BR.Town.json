@@ -1,0 +1,33 @@
+{
+	"DryadSpecialText": {
+		"WorldStatusAll": "{0} é {1}% consagrado, {2}% corrompido, e {3}% carmim.",
+		"WorldStatusHallowCrimson": "{0} é {1}% consagrado e {2}% carmim.",
+		"WorldStatusCorruptCrimson": "{0} é {1}% corrompido e {2}% carmim.",
+		"WorldStatusCrimson": "{0} é {1}% carmim."
+	},
+	"AnglerQuestText": {
+		"Quest_Ichorfish": "Você sabia que nas profundezas do carmim algumas daquelas criaturas criam esta coisa amarela nojenta? Ouvi uma estória maluca sobre uma piscina dessa coisa ter acumulado e formado um peixe, que nada e tudo mais! Pegue-o para mim, quero colocar ele na privada de alguém!\n\n(Capturada no Carmim)",
+		"Quest_BloodyManowar": "Oh! Não venha para perto de mim! Levei uma picada de uma Caravela Sangrenta! Se você não for inteligente o suficiente para saber do que estou falando, é a água-viva mais perigosa de todo o {WorldName}! Vá até o carmim apodrecido e pegue uma, se tiver coragem! \n\n(Capturada no Carmim)"
+	},
+	"BartenderChatter": {
+		"Chatter_16": "{?BloodMoon}Sabe, de onde eu venho, a Lua de Sangue é só uma desculpa para sair e tomar um ar fresco."
+	},
+	"BestiaryGirlChatter": {
+		"Chatter_6": "Para de puxar minha cauda, ela é real, tipo... dói muito quando você puxa!"
+	},
+	"BestiaryGirlLycantropeChatter": {
+		"Chatter_1": "Grrr! Longe. Fica. AGORA!"
+	},
+	"GolferChatter": {
+		"Chatter_14": "Evite obstáculos de água, por favor, opte pelos fairways e greens a que está habituado."
+	},
+	"TownNPCMood_ArmsDealer": {
+		"HateNPC": "Eu REALMENTE gostaria de usar {NPCName} como um alvo de alcance algum dia."
+	},
+	"TownNPCMood_BestiaryGirl": {
+		"LoveNPC": "Não consigo explicar. Eu tenho uma queda por {NPCName}. Será que é por causa da cauda?"
+	},
+	"TownNPCMood_Clothier": {
+		"LoveNPC": "Em toda a minha vida, nunca vi algo mais delicioso que {NPCName}."
+	}
+}

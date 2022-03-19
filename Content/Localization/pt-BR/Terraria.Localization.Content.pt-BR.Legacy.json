@@ -1,0 +1,59 @@
+{
+	"LegacyDialog": {
+		"14": "Você viu Chith...Shith.. Chat... O olho grande?",
+		"215": "A pedra de ébano na corrupção pode ser purificada utilizando-se pó de uma dríade, ou pode ser destruída com explosivos.",
+		"69": "Você tentou utilizar o pó de purificação na pedra de ébano da corrupção?"
+	},
+	"LegacyMenu": {
+		"125": "Cronometrada",
+		"126": "Ligada",
+		"155": "Gancho",
+		"157": "Efeito Rápido",
+		"220": "Ativar Bônus de Conjunto: Para Cima",
+		"221": "Ativar Bônus de Conjunto: Para Baixo",
+		"67": "Salvar Progresso Automaticamente: Ligado",
+		"68": "Salvar Progresso Automaticamente: Desligado",
+		"69": "Pausa Automática: Ligado",
+		"70": "Pausa Automática: Desligado",
+		"71": "Descrição de Itens Coletados Ligada",
+		"72": "Descrição de Itens Coletados Desligada",
+		"93": "Médio",
+		"31": "Personagens do modo Clássico largam dinheiro quando morrem."
+	},
+	"LegacyTooltip": {
+		"40": "% de velocidade de ataque",
+		"44": "% de velocidade do projétil"
+		"48": "Bônus de Conjunto:",
+	},
+	"LegacyMisc": {
+		"12": "Seu mundo foi abençoado com o Cobalto!",
+		"13": "Seu mundo foi abençoado com o Mithril!",
+		"14": "Seu mundo foi abençoado com a Adamantina!",
+		"21": "Seu mundo foi abençoado com o Paládio!",
+		"22": "Seu mundo foi abençoado com o Oricalco!",
+		"23": "Seu mundo foi abençoado com o Titânio!",
+		"33": "Gritos ecoam no calabouço...",
+		"41": "Os marcianos estão invadindo!",
+		"43": "Criaturas celestiais estão invadindo!",
+		"47": "O Senhor da Lua acordou!",
+		"48": "Os Gêmeos acordaram!",
+		"4": "A Legião Congelada foi derrotada!",
+		"5": "A Legião Congelada está se aproximando do oeste!",
+		"6": "A Legião Congelada está se aproximando do leste!",
+		"7": "A Legião Congelada chegou!"
+	},
+	"LegacyInterface": {
+		"100": "Número de Criaturas",
+		"101": "Número de Mortes",
+		"106": "Dano por Segundo",
+		"72": "Ligada",
+		"73": "Desligada",
+		"94": "Animal de Estimação Luminoso"
+	},
+	"LegacyChestType": {
+		"27": "Baú de Gelo Bloqueado"
+	},
+	"LegacyChestType2": {
+		"13": "{$ItemName.DungeonDesertChest} Bloqueado"
+	}
+}

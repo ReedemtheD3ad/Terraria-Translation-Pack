@@ -1,0 +1,141 @@
+{
+	"Achievements": {
+		"SMASHING_POPPET_Description": "Usando explosivos ou seu fiel martelo, destrua uma Esfera das Sombras ou um Coração de Carmim nas partes maléficas do seu mundo.",
+		"STING_OPERATION_Description": "Derrote a Abelha Rainha, matriarca das colmeias da selva.",
+		"DUNGEON_HEIST_Description": "Roube uma chave dos cidadãos mortos-vivos do calabouço e desbloqueie um de seus preciosos baús dourados."
+	},
+	"Game": {
+		"BallBounceResult": "{0} foi atingida {1} vezes antes de tocar no chão!",
+		"EnemiesDefeatedAnnouncement": "O {0}° {1} foi derrotado!",
+		"EnemiesDefeatedByAnnouncement": "{0} derrotou o(a) {1}° {2}!",
+		"NPCTitle": "{0} o(a) {1}"
+	},
+	"GameUI": {
+		"Clear": "Liberado",
+		"EastWind": " ({0} mph L)",
+		"NoDPS": "N/D",
+		"WestWind": " ({0} mph O)",
+		"LightingUpdateEveryFrameOff": "Iluminação Rápida Desligada",
+		"LightingUpdateEveryFrameOn": "Iluminação Rápida Ligada",
+		"HoverTextBoxesOff": "Caixas de Texto ao Passar o Mouse Desligadas",
+		"HoverTextBoxesOn": "Caixas de Texto ao Passar o Mouse Ligadas"
+	},
+	"Net": {
+		"ServerAutoShutdown": "O jogador local saiu do jogo. Iniciando fechamento automático."
+	},
+	"Social": {
+		"Joining": "Entrando...",
+		"JoiningFriend": "Entrando em {0}...",
+		"StatusJoining": "Entrando no jogo."
+	},
+	"UI": {
+		"WorldSizeMedium": "Médio",
+		"HoverControlSettingIsClick": "Controle para Pairar: Clicar",
+		"HoverControlSettingIsHold": "Controle para Pairar: Segurar",
+		"SmartDoorsDisabled": "Portas Inteligentes: Desativadas",
+		"SmartDoorsEnabled": "Portas Inteligentes: Ativadas",
+		"SmartDoorsGamepad": "Portas Inteligentes: Apenas no Gamepad",
+		"TilesSwayInWindOff": "Ambiente Ventoso: Desativado",
+		"TilesSwayInWindOn": "Ambiente Ventoso: Ativado",
+		"ToggleBank4VacuumIsOff": "Atração do Vazio: Desligada",
+		"ToggleBank4VacuumIsOn": "Atração do Vazio: Ligada"
+	},
+	"DeathSource": {
+		"Player": "{0} pelo(a) {2} de {1}."
+	},
+	"DeathText": {
+		"Lava_2": "{0} foi incinerado(a).",
+		"Petrified_1": "{0} foi despedaçado(a).",
+		"Petrified_3": "{0} precisa ser varrido(a).",
+		"Slain": "{0} morreu...",
+		"Stabbed": "{0} foi esfaqueado(a).",
+		"WasLicked": "{0} foi lambido(a)."
+	},
+	"DeathTextGeneric": {
+		"ArmTornOff": "{0} teve seus braços arrancados",
+		"Chopped": "{0} foi picotado(a)",
+		"Cut": "{0} foi cortado(a) ao meio",
+		"Decapitated": "{0} foi decapitado(a)",
+		"Destroyed": "{0} foi destruído(a)",
+		"Dissected": "{0} foi dissecado(a) brutalmente",
+		"EntrailsRippedOut": "As entranhas de {0} foram arrancadas",
+		"Eviscerated": "{0} foi estraçalhado(a)",
+		"ExtremitiesDetached": "{0} teve suas extremidades arrancadas",
+		"FaceTornOff": "{0} teve seu rosto arrancado",
+		"Flailing": "A agitação de {0} foi finalmente interrompida",
+		"HeadRemoved": "{0} teve a cabeça removida",
+		"Impaled": "{0} foi empalado(a)",
+		"InnardsBecameOutards": "{0} viu suas entranhas serem removidas",
+		"Mangled": "{0} teve seu corpo mutilado",
+		"Massacred": "{0} foi massacrado(a)",
+		"Murdered": "{0} foi assassinado(a)",
+		"PileOfFlesh": "{0} foi transformado(a) em uma pilha de carne",
+		"Removed": "{0} foi removido(a) de {1}",
+		"Ripped": "{0} teve sua carne arrancada dos ossos",
+		"Ruptured": "{0} teve seus órgãos vitais rasgados",
+		"SkullCrushed": "{0} teve seu crânio esmagado",
+		"Slain": "{0} foi morto(a)",
+		"Snapped": "{0} foi quebrado(a) ao meio",
+		"TornInHalf": "{0} foi cortado(a) ao meio",
+		"Plead": "{0} teve seu desejo de morte atendido"
+	},
+	"RandomWorldName_Composition": {
+		"6": "{Location} {Adjective}"
+	},
+	"RandomWorldName_Adjective": {
+		"Agile": "Ágil",
+		"Angry": "Raivoso",
+		"Annoying": "Irritante",
+		"Awful": "Terrível",
+		"Awkward": "Estranho",
+		"Broken": "Quebrado",
+		"Celestial": "Celestial",
+		"Damaged": "Danificado",
+		"Dangerous": "Perigoso",
+		"Demonic": "Demoníaco",
+		"Deranged": "Demente",
+		"Dull": "Fraco",
+		"Furious": "Furioso",
+		"Godly": "Divino",
+		"Ignorant": "Ignorante",
+		"Intense": "Intenso",
+		"Keen": "Disposto",
+		"Lazy": "Preguiçoso",
+		"Legendary": "Lendário",
+		"Massive": "Enorme",
+		"Menacing": "Ameaçador",
+		"Murderous": "Assassino",
+		"Mythical": "Mítico",
+		"Nasty": "Nojento",
+		"Nimble": "Ligeiro",
+		"Pointy": "Pontudo",
+		"Powerful": "Poderoso",
+		"Quick": "Rápido",
+		"Ruthless": "Implacável",
+		"Savage": "Bárbaro",
+		"Shameful": "Vergonhoso",
+		"Sharp": "Afiado",
+		"Shoddy": "Pobre",
+		"Sluggish": "Vagaroso",
+		"Staunch": "Convicto",
+		"Strong": "Forte",
+		"Superior": "Superior",
+		"Terrible": "Terrível",
+		"Tiny": "Minúsculo",
+		"Unhappy": "Infeliz",
+		"Unpleasant": "Desagradável",
+		"Unreal": "Surreal",
+		"Wild": "Selvagem",
+		"Zealous": "Zeloso"
+	},
+	"PirateNames": {
+		"Red Beard": "Barba Ruiva",
+		"Black Beard": "Barba Preta",
+		"Captain Morgan": "Capitão Morgan",
+		"Wet Beard": "Barba Molhada",
+		"James T. Beard": "James T. Barba",
+		"Gunpowder Garry": "Garry da Pólvora",
+		"Captain Stoney Dirt": "Capitão Terra Suja",
+		"Captain Bullywort": "Capitão Bullywort"
+	}
+}

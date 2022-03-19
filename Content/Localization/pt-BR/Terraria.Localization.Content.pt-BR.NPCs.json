@@ -1,0 +1,22 @@
+{
+	"NPCName": {
+		"Slimer": "Geleia Corrompida Alada",
+		"Arapaima": "Pirarucu",
+		"GlowingSnail": "Caracol Brilhante",
+		"DesertLamiaDark": "Lâmia",
+		"DesertLamiaLight": "Lâmia",
+		"DuneSplicerBody": "Verme das Dunas",
+		"DuneSplicerHead": "Verme das Dunas",
+		"DuneSplicerTail": "Verme das Dunas",
+		"BlackSlime": "Geleia Preta",
+		"GreenSlime": "Geleia Verde",
+		"PurpleSlime": "Geleia Roxa",
+		"RedSlime": "Geleia Vermelha",
+		"Slimer2": "Geleia Corrompida Alada",
+		"YellowSlime": "Geleia Amarela",
+		"EyeballFlyingFish": "Peixe de Olho Errante",
+		"BestiaryGirl": "Zoóloga",
+		"BloodNautilus": "Encouranáutilo",
+		"CrimsonGoldfish": "Peixe-dourado Terrível"
+	}
+}
