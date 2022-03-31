@@ -2,7 +2,7 @@
 	"GameTitle": {
 		"0": "Terraria: Grab, Arbeiter, grab!",
 		"1": "Terraria: Epischer Schmutz",
-		"10": "Terraria: Digger T' Blöcke",
+		"10": "Terraria: Digger T’ Blöcke",
 		"11": "Terraria: Es gibt keine Kuh-Schicht",
 		"12": "Terraria: Verdächtig aussehende Augäpfel",
 		"13": "Terraria: Lila Gras!",
@@ -19,9 +19,9 @@
 		"23": "Terraria: Aufstand des Schleims",
 		"24": "Terraria: Jetzt mit noch mehr Dingen, die dich töten!",
 		"25": "Terraria: Gerüchte über den Tod des Fremdenführers waren stark übertrieben",
-		"26": "Terraria: Ich habe Mitleid mit den Werkzeugen ...",
-		"27": "Terraria: Der Höhlenforscher sagt ‚Was‘?",
-		"28": "Terraria: Und dann sag ich: Irgendwas mit nem PC-Update ...",
+		"26": "Terraria: Ich habe Mitleid mit den Werkzeugen...",
+		"27": "Terraria: Der Höhlenforscher sagt „Was“?",
+		"28": "Terraria: Und dann sag ich: Irgendwas mit nem PC-Update...",
 		"29": "Terraria: Mögen die Blöcke mit dir sein",
 		"3": "Terraria: Sand ist zu stark",
 		"30": "Terraria: Besser als Leben",
@@ -56,7 +56,7 @@
 		"9": "Terraria: Kleine Blöcke, nicht für Kinder unter 5 Jahren geeignet",
 		"55": "Terraria: Sei still und grabe, Gaiden!",
 		"50": "Terraria: Probiere auch mal Breath of the Wild!",
-		"56": "Terraria: Probier auch mal Don't Starve!"
+		"56": "Terraria: Probier auch mal Don’t Starve!"
 	},
 	"Achievements": {
 		"ARCHAEOLOGIST_Description": "Töte Doktor Bones.",
@@ -137,7 +137,7 @@
 		"INTO_ORBIT_Description": "Von hier geht es nur noch runter!",
 		"INTO_ORBIT_Name": "In den Orbit",
 		"ITS_GETTING_HOT_IN_HERE_Description": "Geh tief genug auf Erkundungstour, um die geschmolzene Unterwelt zu erreichen.",
-		"ITS_GETTING_HOT_IN_HERE_Name": "It's Getting Hot in Here",
+		"ITS_GETTING_HOT_IN_HERE_Name": "It’s Getting Hot in Here",
 		"ITS_HARD_Description": "Entfessle die alten Geister von Licht und Dunkelheit in deiner Welt, so dass noch stärkere Gegner erscheinen und die Welt mit glitzernden Schätzen (und Regenbogen!) überziehen.",
 		"ITS_HARD_Name": "Das ist nicht leicht!",
 		"IT_CAN_TALK_Name": "Kann es sprechen?!",
@@ -218,7 +218,7 @@
 		"TEMPLE_RAIDER_Description": "Durchbrich die undurchdringlichen Wände des Dschungeltempels.",
 		"TEMPLE_RAIDER_Name": "Tempelräuber",
 		"THERE_ARE_SOME_WHO_CALL_HIM_Description": "Töte Tim.",
-		"THERE_ARE_SOME_WHO_CALL_HIM_Name": "Einige nennen ihn ...",
+		"THERE_ARE_SOME_WHO_CALL_HIM_Name": "Einige nennen ihn...",
 		"THE_CAVALRY_Description": "Rüste ein Reittier aus.",
 		"THE_CAVALRY_Name": "Die Kavallerie",
 		"THE_GREAT_SOUTHERN_PLANTKILL_Description": "Besiege Plantera, die überwachsene Monstrosität in den Tiefen des Dschungels.",
@@ -236,7 +236,7 @@
 		"TROUT_MONKEY_Name": "Forellenaffe",
 		"VEHICULAR_MANSLAUGHTER_Description": "Besiege einen Gegner, indem du ihn mit einer Lore überfährst.",
 		"VEHICULAR_MANSLAUGHTER_Name": "Fahrlässige Tötung",
-		"WALK_THE_PLANK_Description": "Triumphiere über eine Pirateninvasion, eine Gruppe Plünderer aus den Meeren, die deine Beute wollen ... und dein Leben!",
+		"WALK_THE_PLANK_Description": "Triumphiere über eine Pirateninvasion, eine Gruppe Plünderer aus den Meeren, die deine Beute wollen... und dein Leben!",
 		"WALK_THE_PLANK_Name": "Über die Planke gehen",
 		"WATCH_YOUR_STEP_Description": "Falle einer gemeinen Falle im Untergrund zum Opfer.",
 		"WATCH_YOUR_STEP_Name": "Vorsicht, wo du hintrittst!",
@@ -318,7 +318,7 @@
 		"Exit_Command": "verlassen",
 		"Exit_Description": "Schließt den Server und speichert.",
 		"FPS_Command": "fps",
-		"HelpHint": "Gib ‚hilfe‘ ein, um eine Liste mit Befehlen aufzurufen.",
+		"HelpHint": "Gib „hilfe“ ein, um eine Liste mit Befehlen aufzurufen.",
 		"Help_Command": "hilfe",
 		"Help_Description": "Zeigt eine Liste mit Befehlen an.",
 		"InvalidCommand": "Ungültiger Befehl.",
@@ -416,7 +416,7 @@
 		"ExceptionNormal": "   Normale Ausnahme: {0}",
 		"LaunchFromSteam": "Bitte starte das Spiel vom Steam-Client aus.",
 		"LoadFailed": "Laden fehlgeschlagen!",
-		"LoadFailedNoBackup": "Laden fehlgeschlagen!  Kein Backup gefunden.",
+		"LoadFailedNoBackup": "Laden fehlgeschlagen! Kein Backup gefunden.",
 		"NetMessageError": "Fehler bei Nachricht {0}",
 		"ServerCrash": "Serverabsturz: {0}\n{1}\nBitte schicke crashlog.txt an support@terraria.org",
 		"TriedToRunServerTwice": "Es wurde versucht, zwei Server auf dem gleichen PC laufen zu lassen",
@@ -424,7 +424,7 @@
 		"UnableToLoadWorld": "Welt konnte nicht geladen werden:",
 		"UnableToWritePreferences": "Datei konnte nicht geschrieben werden unter: {0}",
 		"InvalidLobbyFlag": "-lobby flag used without \"{0}\" or \"{1}\". Ignorier es einfach.",
-		"CaptureError": "Ein Fehler ist beim Speichern aufgetreten. Neuer Versuch ..."
+		"CaptureError": "Ein Fehler ist beim Speichern aufgetreten. Neuer Versuch..."
 	},
 	"Game": {
 		"Actuators": "Aktoren",
@@ -476,7 +476,7 @@
 		"BallBounceResultGolf_Plural": "{0} hat {1} in {2} Schlägen versenkt!",
 		"BallBounceResultGolf_Single": "{0} hat {1} in {2} Schlag versenkt!",
 		"ReservedForNPC": "Reserviert für {0}",
-		"DarknessDanger": "Es ist sehr dunkel ... Du fühlst dich bedroht ...",
+		"DarknessDanger": "Es ist sehr dunkel... Du fühlst dich bedroht...",
 		"DarknessSafe": "Die Gefahr der Dunkelheit ist gebannt."
 	},
 	"GameUI": {
@@ -492,9 +492,9 @@
 		"Clear": "Heiter",
 		"Cloudy": "Wolkig",
 		"CompassCenter": "Zentral",
-		"CompassEast": "{0}' Ost",
-		"CompassWest": "{0}' West",
-		"Depth": "{0}'",
+		"CompassEast": "{0}′ Ost",
+		"CompassWest": "{0}′ West",
+		"Depth": "{0}′",
 		"DepthLevel": "Level",
 		"Disabled": "Deaktiviert",
 		"DPS": "{0} Schaden pro Sekunde",
@@ -598,14 +598,14 @@
 		"WaterSettled": "Wasser hat sich abgesetzt.",
 		"CanBePlacedInVanity": "Kann in Modeslots ausgerüstet werden",
 		"CombatBookUsed": "Das Wissen des Buchs macht deine Bewohner stärker!",
-		"EndedVictoryHalloween": "Der Geist des Halloweens ruht ...",
-		"EndedVictoryXmas": "Der Geist von Weihnachten verblasst ...",
+		"EndedVictoryHalloween": "Der Geist des Halloweens ruht...",
+		"EndedVictoryXmas": "Der Geist von Weihnachten verblasst...",
 		"Fruit": "Frucht",
-		"LicenseBunnyUsed": "Die Lizenz teleportiert sich selbst zurück zum Hasenlieferdienst ...",
-		"LicenseCatUsed": "Die Lizenz teleportiert sich selbst zurück zum Katzenlieferdienst ...",
-		"LicenseDogUsed": "Die Lizenz teleportiert sich selbst zurück zum Hundelieferdienst ...",
-		"StartedVictoryHalloween": "Der Geist von Halloween liegt in der Luft ...",
-		"StartedVictoryXmas": "Der Geist von Weihnachten verbreitet Freude ...",
+		"LicenseBunnyUsed": "Die Lizenz teleportiert sich selbst zurück zum Hasenlieferdienst...",
+		"LicenseCatUsed": "Die Lizenz teleportiert sich selbst zurück zum Katzenlieferdienst...",
+		"LicenseDogUsed": "Die Lizenz teleportiert sich selbst zurück zum Hundelieferdienst...",
+		"StartedVictoryHalloween": "Der Geist von Halloween liegt in der Luft...",
+		"StartedVictoryXmas": "Der Geist von Weihnachten verbreitet Freude...",
 		"Crimstone": "Purpurstein",
 		"Ebonstone": "Ebenstein"
 	},
@@ -615,11 +615,11 @@
 		"CheatingProjectileSpam": "Betrugsversuch festgestellt: Gezielter Spam",
 		"CheatingTileRemovalSpam": "Betrugsversuch festgestellt: Feldspam entfernen",
 		"CheatingTileSpam": "Betrugsversuch festgestellt: Feldspam hinzufügen",
-		"ClientConnecting": "{0} stellt eine Verbindung her ...",
+		"ClientConnecting": "{0} stellt eine Verbindung her...",
 		"ClientPlaying": "({0}) {1} spielt",
 		"ClientRequestedWorldInfo": "({0}) {1} hat Informationen über die Welt angefordert",
 		"ClientsConnected": "{0} Clients verbunden.",
-		"ClientSendingData": "({0}) {1} schickt Spielerdaten ...",
+		"ClientSendingData": "({0}) {1} schickt Spielerdaten...",
 		"ClientStatusComplete": "({0}) {1} {2}: Fertig!",
 		"ConnectingTo": "Verbindung mit {0} wird hergestellt",
 		"EmptyName": "Leerer Name.",
@@ -632,8 +632,8 @@
 		"SendingPlayerData": "Spielerdaten werden verschickt",
 		"ServerAutoShutdown": "Lokaler Spieler ist gegangen. Automatischer Shutdown beginnt.",
 		"StatusComplete": "{0}: Fertig!",
-		"WaitingForClients": "Auf Clients warten ...",
-		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Uralte Mächte halten dich davon ab, diesen Ort zu betreten ...",
+		"WaitingForClients": "Auf Clients warten...",
+		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Uralte Mächte halten dich davon ab, diesen Ort zu betreten...",
 		"CannotTeleportToPylonBecauseNotEnoughNPCsAtCurrentPylon": "Es gibt nicht genug Bewohner in der Nähe des aktuellen Pylons",
 		"CannotTeleportToPylonBecauseNotMeetingBiomeRequirements": "Dieser Pylon ist nicht im richtigen Biom",
 		"CannotTeleportToPylonBecausePlayerIsNotNearAPylon": "Du bist nicht nah genug an einem Pylon, um dich über das Pylonnetzwerk zu teleportieren",
@@ -643,8 +643,8 @@
 		"PlayerIsNotCreativeAndWorldIsCreative": "Nur Reisecharaktere können einen Reiseserver betreten."
 	},
 	"Social": {
-		"Joining": "Beitreten ...",
-		"JoiningFriend": "{0} beitreten ...",
+		"Joining": "Beitreten...",
+		"JoiningFriend": "{0} beitreten...",
 		"StatusInGame": "Online spielen.",
 		"StatusJoining": "Spiel beitreten."
 	},
@@ -776,10 +776,10 @@
 		"Creative": "Reise",
 		"CreativeDescriptionPlayer": "Reisecharaktere starten mit mehr Ausrüstung. Kann nur in Reisewelten gespielt werden.",
 		"NormalDescription": "(Das Standarderlebnis für Terraria)",
-		"NormalDescriptionFlavor": "Dein Abenteuer beginnt ...",
+		"NormalDescriptionFlavor": "Dein Abenteuer beginnt...",
 		"WorldDescriptionCreative": "Mit großer Macht kommt große Verantwortung (Entfessle deine Kreativität)",
 		"WorldDescriptionMaster": "Game over, Mann, game over! (Brutal schwer, nur für die wahrhaft Tapferen)",
-		"WorldDescriptionNormal": "Dein Abenteuer beginnt ... (Das Standarderlebnis für Terraria)",
+		"WorldDescriptionNormal": "Dein Abenteuer beginnt... (Das Standarderlebnis für Terraria)",
 		"Normal": "Klassisch",
 		"PlayerIsCreativeAndWorldIsNotCreative": "Nur Nicht-Reisecharaktere können eine Nicht-Reisewelt betreten.",
 		"PlayerIsNotCreativeAndWorldIsCreative": "Nur Reisecharaktere können eine Reisewelt betreten.",
@@ -821,7 +821,7 @@
 		"Petrified_3": "{0} muss mit dem Besen aufgekehrt werden.",
 		"Petrified_4": "{0} ist zum Dreckhaufen verkommen.",
 		"Poisoned": "{0} konnte das Gegenmittel nicht finden.",
-		"Slain": "{0} wurde getötet ...",
+		"Slain": "{0} wurde getötet...",
 		"Stabbed": "{0} wurde erstochen.",
 		"Suffocated": "{0} konnte nicht atmen.",
 		"Teleport_1": "{0} wurde nicht materialisiert.",
@@ -863,7 +863,7 @@
 		"Plead": "{0}s Bitte um den Tod wurde erhört."
 	},
 	"DungeonDefenders2": {
-		"BartenderWarning": "Der Eternia-Kristall sträubt sich gegen dieses Gebiet und teleportiert sich sofort weg. Der Tavernenwirt hatte erwähnt, dass er in einem großen, flachen und offenen Gebiet aufgestellt werden sollte ...",
+		"BartenderWarning": "Der Eternia-Kristall sträubt sich gegen dieses Gebiet und teleportiert sich sofort weg. Der Tavernenwirt hatte erwähnt, dass er in einem großen, flachen und offenen Gebiet aufgestellt werden sollte...",
 		"CantSummonTower": "It doesn't seem to work without an Etheria Crystal nearby...",
 		"InvasionProgressTitle": "Armee des Alten",
 		"InvasionStart": "Die Armee des Alten nähert sich!",
@@ -896,8 +896,8 @@
 		"2": "{Adjective} {Location}-{Noun}"
 	},
 	"AssetRejections": {
-		"BadExtension": "Du kannst Texturen nur als .pgn oder .xnb hochladen.",
-		"BadSize": "Hochgeladene Texturen müssen zur Originalgröße passen. Du hast ({ActualWidth},{ActualHeight}) hochgeladen, es muss aber ({NeededWidth}, {NeededHeight}) sein."
+		"BadExtension": "Du kannst Texturen nur als „.png“ oder „.xnb“ hochladen.",
+		"BadSize": "Hochgeladene Texturen müssen zur Originalgröße passen. Du hast ({ActualWidth}, {ActualHeight}) hochgeladen, es muss aber ({NeededWidth}, {NeededHeight}) sein."
 	},
 	"Friends": {
 		"TownBunny": "Stadthase",
@@ -2953,7 +2953,7 @@
 		"OtherWorldsDescription": "Welten, die einen anderen Zweck erfüllen. Keine Verbindung zu Otherworlds!",
 		"FunSilly": "Lustig/Albern",
 		"OtherResourcePacks": "Andere",
-		"OtherResourcePacksDescription": "Ressourcenpakete, die einen anderen Zweck erfüllen. Wie ... ähm ... anders!"
+		"OtherResourcePacksDescription": "Ressourcenpakete, die einen anderen Zweck erfüllen. Wie... ähm... anders!"
 	},
 	"SpecialWorldName": {
 		"TheConstant": "Die Konstante"
