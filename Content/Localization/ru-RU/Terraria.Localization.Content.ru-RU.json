@@ -29,7 +29,9 @@
 		"Chinese": "简体中文 (Китайский упрощённый)",
 		"Portuguese": "Português brasileiro (Бразильский португальский)",
 		"German": "Deutsch (Немецкий)",
-		"Polish": "Polski (Польский)"
+		"Polish": "Polski (Польский)",
+		"Ukrainian": "Українська (Украинский)",
+		"Hungarian": "Magyar (Венгерский)"
 	},
 	"CLI": {
 		"Server": "Сервер Terraria {0}",
