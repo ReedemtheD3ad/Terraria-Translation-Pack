@@ -25,11 +25,13 @@
 		"Spanish": "Español (Іспанська)",
 		"French": "Français (Французька)",
 		"Italian": "Italiano (Італійська)",
-		"Russian": "Українська",
+		"Russian": "Русский (Російська)",
 		"Chinese": "简体中文 (Китайська спрощена)",
 		"Portuguese": "Português brasileiro (Бразильська португальська)",
 		"German": "Deutsch (Німецька)",
-		"Polish": "Polski (Польська)"
+		"Polish": "Polski (Польська)",
+		"Ukrainian": "Українська",
+		"Hungarian": "Magyar (Угорська)"
 	},
 	"CLI": {
 		"Server": "Сервер Terraria {0}",
