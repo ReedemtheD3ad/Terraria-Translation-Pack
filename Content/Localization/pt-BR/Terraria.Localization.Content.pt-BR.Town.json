@@ -21,6 +21,10 @@
 	"GolferChatter": {
 		"Chatter_14": "Evite obstáculos de água, por favor, opte pelos fairways e greens a que está habituado."
 	},
+	"TownNPCMood_Angler": {
+		"DislikeBiome": "Você bateu a cabeça? Não tem peixe n{BiomeName}!",
+		"HateBiome": "Ei, os peixes aqui n{BiomeName} estão tentando me matar.",
+	},
 	"TownNPCMood_ArmsDealer": {
 		"HateNPC": "Eu REALMENTE gostaria de usar {NPCName} como um alvo de alcance algum dia."
 	},
@@ -28,6 +32,93 @@
 		"LoveNPC": "Não consigo explicar. Eu tenho uma queda por {NPCName}. Será que é por causa da cauda?"
 	},
 	"TownNPCMood_Clothier": {
+		"DislikeBiome": "Não tem lugares escuros o bastante n{BiomeName}.",
+		"HateBiome": "Minha alma parece dividida quando estou n{BiomeName}, como se meu ser estivesse no meio de uma guerra entre o bem e o mal.",
+		"LikeBiome": "É preciso ver para crer, mas às vezes as coisas legais estão n{BiomeName}.",
 		"LoveNPC": "Em toda a minha vida, nunca vi algo mais delicioso que {NPCName}."
-	}
+	},
+	"TownNPCMood_Cyborg": {
+		"HateBiome": "Detectando um número muito grande de formas de vida hostis n{BiomeName}.",
+		"LikeBiome": "Minhas funções cibernéticas funcionam melhor nas temperaturas d{BiomeName}. Isto é benéfico.",
+	},
+	"TownNPCMood_DD2Bartender": {
+		"DislikeBiome": "Não sou muito fã d{BiomeName}.",
+	},
+	"TownNPCMood_Demolitionist": {
+		"HateBiome": "Só há cheiro de morte e malícia n{BiomeName}. Quero encher este lugar de crateras!",
+		"LikeBiome": "Os anões gostam naturalmente d{BiomeName}. Está no nosso sangue!",
+	},
+	"TownNPCMood_Dryad": {
+		"LikeBiome": "Beijei uma árvore n{BiomeName} e gostei.",
+	},
+	"TownNPCMood_DyeTrader": {
+		"LikeBiome": "Ah, é tão legal aqui n{BiomeName}. Este lugar me lembra minha terra natal, gosto muito!",
+	},
+	"TownNPCMood_GoblinTinkerer": {
+		"DislikeBiome": "Não gosto d{BiomeName}. É um lugar cheio de pestes irritantes e barulhentas que atrapalham meu trabalho.",
+	},
+	"TownNPCMood_Golfer": {
+		"DislikeBiome": "Diga-me uma coisa. Como vou jogar golfe n{BiomeName}?",
+		"LikeBiome": "Gosto d{BiomeName}. É um lugar ótimo para jogar golfe.",
+	},
+	"TownNPCMood_Guide": {
+		"DislikeBiome": "Não gosto muito d{BiomeName}. Não tem nada para fazer.",
+	},
+	"TownNPCMood_Mechanic": {
+		"DislikeBiome": "Não gosto d{BiomeName} porque me lembra uma experiência traumática.",
+		"HateBiome": "Fico extremamente desconfortável n{BiomeName}. É como se tivesse olhos me observando o tempo todo.",
+		"LikeBiome": "Gosto d{BiomeName}. Aqui, as máquinas não superaquecem e o fluxo de energia é eficiente.",
+	},
+	"TownNPCMood_Merchant": {
+		"HateBiome": "Não acho que eu consiga vender produtos para os monstros n{BiomeName}!",
+		"LikeBiome": "Gosto do visual n{BiomeName}. Uma bela vista atrai os clientes!",
+	},
+	"TownNPCMood_Nurse": {
+		"LikeBiome": "Eu gosto do fato de que {BiomeName} é um ótimo lugar para se exercitar todos os dias.",
+	},
+	"TownNPCMood_Painter": {
+		"DislikeBiome": "Por que eu não gosto d{BiomeName}? Porque é um lugar chato. Verde? Marrom? É isso?",
+		"DislikeCrowded": "Não gosto de tanta gente ao meu redor enquanto eu pinto.",
+		"LikeBiome": "Tem muitos ingredientes para tintas n{BiomeName}. A vista também não é nada mal!",
+	},
+	"TownNPCMood_PartyGirl": {
+		"LikeBiome": "Por que eu gosto d{BiomeName}? Porque tem ARCO-ÍRIS aqui!",
+	},
+	"TownNPCMood_Pirate": {
+		"DislikeBiome": "Um velho lobo do mar como eu diria que {BiomeName} é um lugar apertado demais!",
+		"HateBiome": "Andar n{BiomeName} é como andar no pior lugar de terra seca do mundo!",
+	},
+	"TownNPCMood_SantaClaus": {
+		"DislikeBiome": "Não gosto d{BiomeName}.",
+		"LikeBiome": "Eu gosto d{BiomeName}.",
+	},
+	"TownNPCMood_Steampunker": {
+		"DislikeBiome": "Toda a confusão d{BiomeName} não me cai bem!",
+		"HateBiome": "Não tem o que fazer n{BiomeName}, e ainda é um lugar feio e perigoso!",
+		"LikeBiome": "Eu gosto dos espaços abertos d{BiomeName}. É ótimo para passeios de jetpack.",
+	},
+	"TownNPCMood_Stylist": {
+		"DislikeBiome": "Não gosto d{BiomeName}. Como é possível deixar o cabelo de fora com tanto frio?",
+		"HateBiome": "Argh, meu cabelo fica muito danificado n{BiomeName}!",
+		"LikeBiome": "Há uma atmosfera calma em {BiomeName} perfeita para se cortar cabelos.",
+	},
+	"TownNPCMood_TaxCollector": {
+		"LikeBiome": "Morar n{BiomeName} faz com que as pessoas fiquem em casa e me deixem em paz. Gosto disso.",
+	},
+	"TownNPCMood_Truffle": {
+		"DislikeBiome": "Não gosto d{BiomeName}.",
+	},
+	"TownNPCMood_WitchDoctor": {
+		"DislikeBiome": "As magias d{BiomeName} são opressivas, não puras. Meu coração e minha alma ficam enfurecidos.",
+		"HateBiome": "Sinto uma maldade na terra e em todas as coisas vivas d{BiomeName}.",
+	},
+	"TownNPCMood_Wizard": {
+		"DislikeBiome": "Não gosto d{BiomeName}. A magia não flui em um lugar como este.",
+		"HateBiome": "As abominações que residem n{BiomeName} me assustam, como as formas mais sombrias de magia.",
+		"LikeBiome": "Como não gostar d{BiomeName}? Tem unicórnios e arco-íris aqui.",
+	},
+	"TownNPCMood_Princess": {
+		"DislikeBiome": "Não gosto d{BiomeName}.",
+
+	},
 }

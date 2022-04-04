@@ -8,6 +8,9 @@
 		"STING_OPERATION_Description": "Derrote a Abelha Rainha, matriarca das colmeias da selva.",
 		"DUNGEON_HEIST_Description": "Roube uma chave dos cidadãos mortos-vivos do calabouço e desbloqueie um de seus preciosos baús dourados."
 	},
+	"GameTitle": {
+		"56": "Terraria: Experimente também o Don't Starve!"
+	},
 	"Game": {
 		"BallBounceResult": "{0} foi atingida {1} vezes antes de tocar no chão!",
 		"EnemiesDefeatedAnnouncement": "O {0}° {1} foi derrotado!",
