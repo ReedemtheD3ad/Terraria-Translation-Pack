@@ -31,9 +31,9 @@
 		"ServerAutoShutdown": "O jogador local saiu do jogo. Iniciando fechamento automático."
 	},
 	"Social": {
-		"Joining": "Entrando...",
-		"JoiningFriend": "Entrando em {0}...",
-		"StatusJoining": "Entrando no jogo."
+		"Joining": "Juntando-se...",
+		"JoiningFriend": "Juntando-se a  {0}...",
+		"StatusJoining": "Juntando-se ao jogo."
 	},
 	"UI": {
 		"WorldSizeMedium": "Médio",
