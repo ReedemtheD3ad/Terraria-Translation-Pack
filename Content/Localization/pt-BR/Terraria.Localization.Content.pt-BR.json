@@ -37,6 +37,7 @@
 	},
 	"UI": {
 		"WorldSizeMedium": "Médio",
+		"EmoteCategoryTownNPCs": "Cidade",
 		"HoverControlSettingIsClick": "Controle para Pairar: Clicar",
 		"HoverControlSettingIsHold": "Controle para Pairar: Segurar",
 		"SmartDoorsDisabled": "Portas Inteligentes: Desativadas",
