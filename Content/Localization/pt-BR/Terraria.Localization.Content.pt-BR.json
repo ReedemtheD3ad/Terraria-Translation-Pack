@@ -800,7 +800,7 @@
 	},
 	"DeathSource": {
 		"NPC": "{0} por {1}.",
-		"Player": "{0} pelo(a) {2} de {1}."
+		"Player": "{0} pelo(a) {2} de {1}.",
 		"Projectile": "{0} por {1}."
 	},
 	"DeathText": {
@@ -836,7 +836,7 @@
 	},
 	"DeathTextGeneric": {
 		"ArmTornOff": "{0} teve seus braços arrancados",
-		"Chopped": "{0} foi picotado.",
+		"Chopped": "{0} foi picotado",
 		"Cut": "{0} foi cortado(a) ao meio",
 		"Decapitated": "{0} foi decapitado(a)",
 		"Destroyed": "{0} foi destruído(a)",
