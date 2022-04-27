@@ -839,7 +839,7 @@
 		"IsCorruption": "Surge na Corrupção",
 		"IsCrimson": "Surge no Carmim",
 		"IsItAHappyWindyDay": "Surge em Dias Ventosos",
-		"IsMasterMode": "Esta é a taxa de surgimento no Modo Mestre",
+		"IsMasterMode": "Esta é a taxa de espólio no Modo Mestre",
 		"JungleKeyCondition": "Surge na Selva no Modo Difícil",
 		"KOCannon": "Surge durante uma Lua de Sangue no Modo Difícil",
 		"LegacyHack_IsBossAndExpert": "Surge no Modo Perito",
@@ -855,12 +855,12 @@
 		"YoyosKraken": "Surge após derrotar Plantera",
 		"YoyosYelets": "Surge após derrotar qualquer Chefe mecanizado",
 		"FrozenKeyCondition": "Surge na Neve no Modo Difícil",
-		"IsExpert": "Esta é a taxa de surgimento no Modo Perito",
+		"IsExpert": "Esta é a taxa de espólio no Modo Perito",
 		"LivingFlames": "Surge no Submundo no Modo Difícil",
 		"PastWaveBasedDrop": "Só aparece na Onda {0} ou superior",
-		"WaveBasedDrop": "A taxa de surgimento varia conforme a Onda",
-		"Is10thAnniverary": "Esta é uma taxa de surgimento para Seed de Aniversário",
-		"IsDontStarve": "Esta é uma taxa de surgimento para Seed de Don't Starve"
+		"WaveBasedDrop": "A taxa de espólio varia conforme a Onda",
+		"Is10thAnniverary": "Esta é uma taxa de espólio para Seed de Aniversário",
+		"IsDontStarve": "Esta é uma taxa de espólio para Seed de Don't Starve"
 	},
 	"Bestiary_FlavorText": {
 		"npc_WanderingEye": "{$CommonBestiaryFlavor.DemonEye}",
