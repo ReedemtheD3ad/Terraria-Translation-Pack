@@ -883,7 +883,9 @@
 		"Russian": "Русский (Russo)",
 		"Chinese": "简体中文 (Chinês Simplificado)",
 		"Portuguese": "Português brasileiro",
-		"Polish": "Polski (Polonês)"
+		"Polish": "Polski (Polonês)",
+		"Ukrainian": "Українська (Ucraniano)",
+		"Hungarian": "Magyar (Húngaro)"
 	},
 	"RandomWorldName_Composition": {
 		"6": "{Location} {Adjective}"
