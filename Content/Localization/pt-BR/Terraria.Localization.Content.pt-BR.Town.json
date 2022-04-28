@@ -338,7 +338,7 @@
 		"Quest_Mudfish": "Cuidado por onde anda quando estiver atravessando as águas da selva! Por quê? Não, não é porque eu tenho medo que você seja devorado por piranhas. Eu tenho medo que você pise em um dos meus tipos de peixe favoritos, o Peixe de Lama! Também tenho medo que você esqueça de trazer um para mim!\n\n(Capturado na Selva)",
 		"Quest_TropicalBarracuda": "Piranhas e tubarões são feios! Tãaaao feio! Você sabia que existe um peixe que, além de ser bonito, é capaz de arrancar o seu rosto? Eu pagaria 2 platinas para ver isso acontecer... Mas voltando ao assunto, você vai pegar um para mim. Só traga ele antes que devore seu rosto!\n\n(Capturado na Superfície da Selva)",
 		"Quest_TundraTrout": "Você sabe por que os lagos na superfície das terras gélidas de {WorldName} nunca congelam? Eu não. Mas os peixes sabem! Um peixe feito de gelo seria uma ótima oferenda ao poderoso e incrível {Angler}! Vá, fiel servo, e traga-me rápido esta Truta da Tundra!\n\n(Capturado na Tundra da Superfície)",
-		"Quest_Slimefish": "As geleias da floresta são meio nojentas. Peixes-geleia são ainda mais! Não quero nadar com geleias, então capture um deles para mim.\n\n(Capturado na Floresta da Superfície)",
+		"Quest_Slimefish": "As geleias da floresta são meio nojentas. Peixes-geleia são ainda mais! Não quero nadar com geleias, então capture um deles para mim.\n\n(Capturado na Superfície da Floresta)",
 		"Quest_AmanitaFungifin": "Encontrei este lugar espetacular, repleto de cogumelos brilhantes! Tudo era azul! EU estava pegando alguns cogumelos que encontrei perto de um lago azul brilhante quando um dos cogumelos irritou-se comigo e foi embora! Eu quero que ele prove do próprio veneno, depois vou devorá-lo! O que eu quero dizer é, vá pegar ele para mim!\n\n(Capturado em Campos de Cogumelos Brilhantes)",
 		"Quest_Dirtfish": "Eu estava puxando o grandão quando apareceu um zumbi falante engraçado do lago na floresta, dizendo algo sobre uma espécie de peixe 'feroz', feito de lama! Ele disse que o peixe era capaz de sufocar dez caras do tamanho dele, ou algo parecido... Eu quero ele! AGORA!\n\n(Capturado na Superfície e no Subterrâneo)",
 		"Quest_ScarabFish": "Li uma história antiga sobre um peixe que parece um escaravelho mágico! Ou um “besouro” pra quem tem o vocabulário mais limitado, como você. Onde o encontrar? Onde você acha? No deserto, claro! Não me olhe assim... é verdade! Tem água lá! Eu até iria, mas não quero que meus olhos sejam devorados por abutres. Sendo assim... vá você!\n\n(Capturado no Deserto)",
@@ -413,10 +413,10 @@
 		"Chatter_1": "Eu ofereci fazer a barba do {Bartender}, mas ele recusou. Assim, eu poderia ter pelo menos arrumado seu bigode!"
 	},
 	"TownNPCHousingFailureReasons": {
-		"HoleInWallIsTooBig": "Esta sala está sem uma parede!",
+		"HoleInWallIsTooBig": "Esta sala está sem uma parede",
 		"RoomCheckStartedInASolidTile": "Isso é um bloco sólido!",
 		"RoomIsTooBig": "Esta sala é grande demais",
-		"RoomIsTooSmall": "Este valor é pequeno demais",
+		"RoomIsTooSmall": "Esta sala é pequena demais",
 		"TooCloseToWorldEdge": "Precisamos de um texto melhor para isso!!!"
 	},
 	"AnglerQuestChatter": {
@@ -1084,7 +1084,7 @@
 		"LikeNPC_Princess": "{NPCName}? Nós temos uma princesa? Fascinante, ela parece ser simpática."
 	},
 	"PrincessChatter": {
-		"Chatter_1": "Eu agradeço muito por tudo que você fez por nossas terras! Obrigado!",
+		"Chatter_1": "Eu agradeço muito por tudo que você fez por nossas terras! Obrigada!",
 		"Chatter_11": "Cor de rosa é a melhor cor do mundo! ",
 		"Chatter_13": "Mmm... a vida de princesa às vezes é bem rotineira, por isso eu tenho tantos hobbies! ",
 		"Chatter_14": "Fico muito feliz em finalmente poder viajar pelo mundo, conhecendo novas pessoas!",
