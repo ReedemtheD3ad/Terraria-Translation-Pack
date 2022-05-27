@@ -630,7 +630,7 @@
 		"RequestingTileData": "Requisitando dados sobre as peças",
 		"RequestingWorldInformation": "Requisitando informações sobre o mundo",
 		"SendingPlayerData": "Enviando dados do jogador...",
-		"ServerAutoShutdown": "O jogador local saiu do jogo. Iniciando fechamento automático."
+		"ServerAutoShutdown": "O jogador local saiu do jogo. Iniciando fechamento automático.",
 		"StatusComplete": "{0}: Concluído!",
 		"WaitingForClients": "Aguardando clientes...",
 		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Forças antigas impedem que você acesse este local...",
