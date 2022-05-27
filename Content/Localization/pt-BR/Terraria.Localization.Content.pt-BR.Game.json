@@ -66,7 +66,7 @@
 		"HallowedSummoner": "Fique imune depois de atacar um inimigo,\ne aumente o número máximo de lacaios que você pode ter em 2",
 		"Molten": "Adicional de 10% de dano por ataques físicos,\nNão pode ser incendiado",
 		"MythrilMelee": "10% de aumento na chance de ataque físico crítico",
-		"Nebula": "Danos mágicos têm chance de gerar impulsos de reforços,\npegue os impulsos para obter reforços que se acumulam",
+		"Nebula": "Danos mágicos têm chance de gerar reforços de impulso,\npegue os reforços para obter reforços que se acumulam",
 		"SpectreHealing": "Reduz o dano por magia em 40% e converte-o em força de cura\nO dano por magia causado a inimigos cura o jogador com menos vida restante",
 		"ObsidianOutlaw": "Aumenta o alcance do chicote em 50% e a velocidade em 35%,\nAumenta os danos causados por lacaios em 15%"
 	},
