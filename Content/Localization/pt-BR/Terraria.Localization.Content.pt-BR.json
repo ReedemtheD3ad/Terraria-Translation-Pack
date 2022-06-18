@@ -748,7 +748,7 @@
 		"TilesSwayInWindOff": "Ambiente Ventoso: Desativado",
 		"TilesSwayInWindOn": "Ambiente Ventoso: Ativado",
 		"ToggleBank4VacuumIsOff": "Atração do Vazio: Desligada",
-		"ToggleBank4VacuumIsOn": "Atração do Vazio: Ligada"
+		"ToggleBank4VacuumIsOn": "Atração do Vazio: Ligada",
 		"ToggleCreativeMenu": "Alternar poderes do modo Jornada",
 		"Version": "Version {0}",
 		"WorldCannotBeLoadedBecauseItHasAnInvalidGameMode": "Erro: este Mundo tem dados inválidos!",
