@@ -888,7 +888,7 @@
 		"Hungarian": "Magyar (Húngaro)"
 	},
 	"RandomWorldName_Composition": {
-		"6": "{Location} {Adjective}"
+		"6": "{Location} {Adjective}",
 		"1": "{Location} {Adjective} de {Noun}",
 		"3": "{Location} {Adjective} de {Noun}",
 		"4": "{Location} {Adjective} de {Noun}",
