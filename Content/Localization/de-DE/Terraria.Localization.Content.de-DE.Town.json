@@ -50,7 +50,7 @@
 		"Rain2": "Mach dir keine Sorgen, das ist nur Wasser. Ich habe von Fischen gehört, die beim Regen fliegen können!",
 		"Storm1": "Bei einem Gewitter ist es draußen gefährlich. Geh lieber in Deckung!",
 		"Storm2": "Blitze sollte man nicht unterschätzen. Mächtige Gegner kommen bei so einem Wetter heraus.",
-		"Windy1": "Lass dich nicht von den starken Winden wegpusten. Und pass auf die Monster auf, die sie nutzen!",
+		"Windy1": "Lass dich nicht von den starken Winden wegpusten. Und pass auf die Gegner auf, die sie nutzen!",
 		"Windy2": "Da draußen ist es windig! Ein guter Zeitpunkt, einen Drachen fliegen zu lassen.",
 		"Eclipse": "Hä?! Wo ist denn die Sonne? Warum ist es so dunkel? Wir haben wohl eine Sonnenfinsternis!",
 		"Lantern1": "Was für eine schöne Nacht! Nach deinem letzten Sieg scheint die Welt mehr Frieden gefunden zu haben. Diese Laternen beweisen das.",
@@ -115,7 +115,7 @@
 	},
 	"MechanicSpecialText": {
 		"Party": "Glaubst du, es würde jemanden stören, wenn ich einen Kuchen mit Glühbirnen statt mit Kerzen verzieren würde?",
-		"Graveyard1": "Ich sollte an diesem dunklen, gruseligen Ort mal Licht machen, um die Monster fernzuhalten.",
+		"Graveyard1": "Ich sollte an diesem dunklen, gruseligen Ort mal Licht machen, um die Gegner fernzuhalten.",
 		"Graveyard2": "Ich würde ja ein paar Kabel verlegen, aber die toten Gruseldinger sind mir im Weg!",
 		"Rain1": "Wenn der Regen nicht bald aufhört, rostet mein Schraubenschlüssel noch!",
 		"Rain2": "Ach, Mist! Schon wieder eine Sicherung durchgebrannt! Ich hasse dieses Wetter.",
@@ -387,7 +387,7 @@
 		"Help_5": "Du solltest den Eternia-Kristallständer auf einem offenen, flachen Gebiet aufstellen. Die vielen Mauern und das ganze Zeug machen es schwer, ihn zu beschützen!",
 		"Help_6": "Sobald der Ständer steht, musst du einfach nur mit einem Eternia-Kristall in der Hand damit interagieren und dich auf den Kampf vorbereiten!",
 		"Help_7": "Aber natürlich darfst du nicht zulassen, dass die Armee des Alten den Eternia-Kristall vernichtet! Das hätte schreckliche Konsequenzen für meine Heimatwelt Etheria!",
-		"Help_8": "Du kannst für 10 etherische Mana Verteidigungen aufstellen. Sobald die stehen, gibt der Eternia-Kristall etwas von seinem Mana ab. Oder du kannst einfach Feinde besiegen, um mehr davon zu erhalten.",
+		"Help_8": "Du kannst für 10 etherische Mana Verteidigungen aufstellen. Sobald die stehen, gibt der Eternia-Kristall etwas von seinem Mana ab. Oder du kannst einfach Gegner besiegen, um mehr davon zu erhalten.",
 		"Help_9": "Mit der Hilfe der Verteidigung musst du mehrere Wellen der Eindringlinge abhalten, denn sie wollen dich und den Kristall vernichten."
 	},
 	"CyborgChatter": {
@@ -513,7 +513,7 @@
 		"Help_1111": "In letzter Zeit sind ganz schön viele Leute eingezogen, was? Wenn es hier noch voller wird, zieht sicherlich auch ein Partygirl ein!",
 		"Help_1112": "Halte immer die Augen nach Fremden in Not auf! Du weißt nie, wann du mal auf jemanden neuen triffst, der deine Hilfe braucht.",
 		"Help_1113": "Wenn du kein Interesse an den Waren von {Merchant} hast, dann kommt hier auch manchmal ein Handelsreisender vorbei, der exotischere Sachen verkauft.",
-		"Help_1114": "Nicht alle untoten Monster sind dir feindlich gesinnt. Eines soll angeblich im Untergrund Waren verkaufen.",
+		"Help_1114": "Nicht alle untoten Gegner sind dir feindlich gesinnt. Einer soll angeblich im Untergrund Waren verkaufen.",
 		"Help_1115": "Die Welt steckt voller spannender und gefährlicher Wesen, die es zu entdecken gilt. Es gibt Experten, die dich dafür belohnen, wenn du dein Wissen mit ihnen teilst.",
 		"Help_1120": "Falls du dachtest, dass Regentage trübe sind, dann warte nur ab, bis du Schleimregen siehst!",
 		"Help_1121": "Nicht oft, aber manchmal, verdeckt der Mond die Sonne. Dann kommen viele gruselige Monster raus!",
@@ -547,7 +547,7 @@
 		"Help_1155": "Die uralten Prophezeiungen sprechen von einer Möglichkeit, die monströsen Horden von Halloween durch Medaillons zu beschwören, die aus Kürbissen bestehen.",
 		"Help_1156": "Legenden sprechen von einem verfluchten Geschenk, das selbst die festlichste aller Nächte in eine Invasion des Schreckens verwandeln kann!",
 		"Help_1157": "Außerhalb des Verlieses lungern seltsame Menschen in Umhängen herum. Vielleicht solltest du dir das mal ansehen?",
-		"Help_1158": "Wo zum Teufel kommen diese Säulen her?! Du solltest die Monster in ihrer Nähe lieber beseitigen!",
+		"Help_1158": "Wo zum Teufel kommen diese Säulen her?! Du solltest die Gegner in ihrer Nähe lieber beseitigen!",
 		"Help_1140": "Als Nächstes solltest du die Höhlen des Purpur erkunden. Finde und vernichte alle Purpurherzen, die du findest.",
 		"Help_1160": "Mitten in der Nacht an verschneiten Abenden ist aus der Wildnis ein angsteinflößendes Brüllen zu hören! Irgendetwas ist da draußen!"
 	},
@@ -885,7 +885,7 @@
 		"DislikeCrowded": "Die Anzahl meiner Nachbarn überfordert mich etwas.",
 		"DislikeNPC": "Ich mag {NPCName} nicht. Immer am Sparen und kauft nie was von mir.",
 		"FarFromHome": "Mensch, ich muss zurück zu meinen Waren!",
-		"HateBiome": "Ich glaube nicht, dass ich den Monstern in {BiomeName} Dinge verkaufen kann!",
+		"HateBiome": "Ich glaube nicht, dass ich den Gegnern in {BiomeName} Dinge verkaufen kann!",
 		"HateCrowded": "Ich hasse es, wie viele Leute hier rumhängen. Keiner davon kauft etwas!",
 		"HateNPC": "Ich hasse {NPCName}! Schrecklicher Charakter!",
 		"LikeBiome": "Ich mag den Ausblick in {BiomeName}! Eine gute Aussicht lockt Kunden an!",
