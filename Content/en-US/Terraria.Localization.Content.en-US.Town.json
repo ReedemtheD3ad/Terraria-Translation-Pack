@@ -4,508 +4,1021 @@
 		"RoomIsTooBig" : "This room is too big",
 		"RoomIsTooSmall" : "This room is too small",
 		"HoleInWallIsTooBig" : "This room is missing a wall",
-		"RoomCheckStartedInASolidTile" : "This is a solid block!"
+		"RoomCheckStartedInASolidTile" : "This is a solid block!",
+		"RoomHasAStinkbug" : "This room is infested by a stinkbug!",
+		"RoomHasAnEchoStinkbug" : "This room is infested by a ghostly stinkbug!"
 	},
 
 	"MerchantNames": {
+
 		"Alfred": "Alfred",
+
 		"Barney": "Barney",
+
 		"Calvin": "Calvin",
+
 		"Edmund": "Edmund",
+
 		"Edwin": "Edwin",
+
 		"Eugene": "Eugene",
+
 		"Frank": "Frank",
+
 		"Frederick": "Frederick",
+
 		"Gilbert": "Gilbert",
+
 		"Gus": "Gus",
+
 		"Wilbur": "Wilbur",
+
 		"Seymour": "Seymour",
+
 		"Louis": "Louis",
+
 		"Humphrey": "Humphrey",
+
 		"Harold": "Harold",
+
 		"Milton": "Milton",
+
 		"Mortimer": "Mortimer",
+
 		"Howard": "Howard",
+
 		"Walter": "Walter",
+
 		"Isaac": "Isaac",
+
 		"Joseph": "Joseph",
+
 		"Kristian": "Kristian",
+
 		"Ralph": "Ralph"
+
 	},
+
 	"NurseNames": {
+
 		"Molly": "Molly",
+
 		"Amy": "Amy",
+
 		"Claire": "Claire",
+
 		"Emily": "Emily",
+
 		"Katie": "Katie",
+
 		"Madeline": "Madeline",
+
 		"Katelyn": "Katelyn",
+
 		"Emma": "Emma",
+
 		"Abigail": "Abigail",
+
 		"Carly": "Carly",
+
 		"Jenna": "Jenna",
+
 		"Heather": "Heather",
+
 		"Katherine": "Katherine",
+
 		"Caitlin": "Caitlin",
+
 		"Kaitlin": "Kaitlin",
+
 		"Holly": "Holly",
+
 		"Kaitlyn": "Kaitlyn",
+
 		"Hannah": "Hannah",
+
 		"Kathryn": "Kathryn",
+
 		"Lorraine": "Lorraine",
+
 		"Helen": "Helen",
+
 		"Kayla": "Kayla",
+
 		"Lisa": "Lisa",
+
 		"Allison": "Allison"
+
 	},
+
 	"ArmsDealerNames": {
+
 		"DeShawn": "DeShawn",
+
 		"DeAndre": "DeAndre",
+
 		"Marquis": "Marquis",
+
 		"Darnell": "Darnell",
+
 		"Terrell": "Terrell",
+
 		"Malik": "Malik",
+
 		"Trevon": "Trevon",
+
 		"Tyrone": "Tyrone",
+
 		"Willie": "Willie",
+
 		"Dominique": "Dominique",
+
 		"Demetrius": "Demetrius",
+
 		"Reginald": "Reginald",
+
 		"Jamal": "Jamal",
+
 		"Maurice": "Maurice",
+
 		"Jalen": "Jalen",
+
 		"Darius": "Darius",
+
 		"Xavier": "Xavier",
+
 		"Terrance": "Terrance",
+
 		"Andre": "Andre",
+
 		"Dante": "Dante",
+
 		"Brimst": "Brimst",
+
 		"Bronson": "Bronson",
+
 		"Tony": "Tony",
+
 		"Darryl": "Darryl"
+
 	},
+
 	"DryadNames": {
+
 		"Alalia": "Alalia",
+
 		"Alura": "Alura",
+
 		"Ariella": "Ariella",
+
 		"Caelia": "Caelia",
+
 		"Calista": "Calista",
+
 		"Chryseis": "Chryseis",
+
 		"Emerenta": "Emerenta",
+
 		"Elysia": "Elysia",
+
 		"Evvie": "Evvie",
+
 		"Faye": "Faye",
+
 		"Felicitae": "Felicitae",
+
 		"Lunette": "Lunette",
+
 		"Nata": "Nata",
+
 		"Nissa": "Nissa",
+
 		"Tatiana": "Tatiana",
+
 		"Rosalva": "Rosalva",
+
 		"Shea": "Shea",
+
 		"Tania": "Tania",
+
 		"Isis": "Isis",
+
 		"Celestia": "Celestia",
+
 		"Xylia": "Xylia"
+
 	},
+
 	"GuideNames": {
+
 		"Joe": "Joe",
+
 		"Connor": "Connor",
+
 		"Tanner": "Tanner",
+
 		"Wyatt": "Wyatt",
+
 		"Cody": "Cody",
+
 		"Levi": "Levi",
+
 		"Luke": "Luke",
+
 		"Jack": "Jack",
+
 		"Scott": "Scott",
+
 		"Logan": "Logan",
+
 		"Cole": "Cole",
+
 		"Asher": "Asher",
+
 		"Bradley": "Bradley",
+
 		"Jacob": "Jacob",
+
 		"Garrett": "Garrett",
+
 		"Dylan": "Dylan",
+
 		"Maxwell": "Maxwell",
+
 		"Steve": "Steve",
+
 		"Brett": "Brett",
+
 		"Andrew": "Andrew",
+
 		"Harley": "Harley",
+
 		"Kyle": "Kyle",
+
 		"Jake": "Jake",
+
 		"Ryan": "Ryan",
+
 		"Jeffrey": "Jeffrey",
+
 		"Seth": "Seth",
+
 		"Marty": "Marty",
+
 		"Brandon": "Brandon",
+
 		"Zach": "Zach",
+
 		"Jeff": "Jeff",
+
 		"Daniel": "Daniel",
+
 		"Trent": "Trent",
+
 		"Kevin": "Kevin",
+
 		"Brian": "Brian",
-		"Colin": "Colin"
+
+		"Colin": "Colin",
+
+		"Jan": "Jan"
+
 	},
+
 	"DemolitionistNames": {
+
 		"Dolbere": "Dolbere",
+
 		"Bazdin": "Bazdin",
+
 		"Durim": "Durim",
+
 		"Tordak": "Tordak",
+
 		"Garval": "Garval",
+
 		"Morthal": "Morthal",
+
 		"Oten": "Oten",
+
 		"Dolgen": "Dolgen",
+
 		"Gimli": "Gimli",
+
 		"Gimut": "Gimut",
+
 		"Duerthen": "Duerthen",
+
 		"Beldin": "Beldin",
+
 		"Jarut": "Jarut",
+
 		"Ovbere": "Ovbere",
+
 		"Norkas": "Norkas",
+
 		"Dolgrim": "Dolgrim",
+
 		"Boften": "Boften",
+
 		"Norsun": "Norsun",
+
 		"Dias": "Dias",
+
 		"Fikod": "Fikod",
+
 		"Urist": "Urist",
+
 		"Darur": "Darur"
+
 	},
+
 	"ClothierNames": {
+
 		"Sebastian": "Sebastian",
+
 		"Rupert": "Rupert",
+
 		"Clive": "Clive",
+
 		"Nigel": "Nigel",
+
 		"Mervyn": "Mervyn",
+
 		"Cedric": "Cedric",
+
 		"Pip": "Pip",
+
 		"Cyril": "Cyril",
+
 		"Fitz": "Fitz",
+
 		"Arthur": "Arthur",
+
 		"Rodney": "Rodney",
+
 		"Graham": "Graham",
+
 		"Edward": "Edward",
+
 		"Alfred": "Alfred",
+
 		"Edmund": "Edmund",
+
 		"Henry": "Henry",
+
 		"Herald": "Herald",
+
 		"Roland": "Roland",
+
 		"Lincoln": "Lincoln",
+
 		"Lloyd": "Lloyd",
+
 		"Edgar": "Edgar",
+
 		"Eustace": "Eustace",
+
 		"Benjamin": "Benjamin",
+
 		"James": "James",
+
 		"Rodrick": "Rodrick"
+
 	},
+
 	"GoblinTinkererNames": {
+
 		"Grodax": "Grodax",
+
 		"Sarx": "Sarx",
+
 		"Xon": "Xon",
+
 		"Mrunok": "Mrunok",
+
 		"Nuxatk": "Nuxatk",
+
 		"Tgerd": "Tgerd",
+
 		"Darz": "Darz",
+
 		"Smador": "Smador",
+
 		"Stazen": "Stazen",
+
 		"Mobart": "Mobart",
+
 		"Knogs": "Knogs",
+
 		"Tkanus": "Tkanus",
+
 		"Negurk": "Negurk",
+
 		"Nort": "Nort",
+
 		"Durnok": "Durnok",
+
 		"Trogem": "Trogem",
+
 		"Stezom": "Stezom",
+
 		"Gnudar": "Gnudar",
+
 		"Ragz": "Ragz",
+
 		"Fahd": "Fahd",
+
 		"Xanos": "Xanos",
+
 		"Arback": "Arback",
+
 		"Fjell": "Fjell",
+
 		"Dalek": "Dalek",
+
 		"Knub": "Knub"
+
 	},
+
 	"WizardNames": {
+
 		"Dalamar": "Dalamar",
+
 		"Dulais": "Dulais",
+
 		"Elric": "Elric",
+
 		"Arddun": "Arddun",
+
 		"Maelor": "Maelor",
+
 		"Leomund": "Leomund",
+
 		"Hirael": "Hirael",
+
 		"Gwentor": "Gwentor",
+
 		"Greum": "Greum",
+
 		"Gearroid": "Gearroid",
+
 		"Fizban": "Fizban",
+
 		"Ningauble": "Ningauble",
+
 		"Seonag": "Seonag",
+
 		"Sargon": "Sargon",
+
 		"Merlyn": "Merlyn",
+
 		"Magius": "Magius",
+
 		"Berwyn": "Berwyn",
+
 		"Arwyn": "Arwyn",
+
 		"Alasdair": "Alasdair",
+
 		"Tagar": "Tagar",
+
 		"Abram": "Abram",
+
 		"Xanadu": "Xanadu"
+
 	},
+
 	"MechanicNames": {
+
 		"Shayna": "Shayna",
+
 		"Korrie": "Korrie",
+
 		"Ginger": "Ginger",
+
 		"Brooke": "Brooke",
+
 		"Jenny": "Jenny",
+
 		"Autumn": "Autumn",
+
 		"Nancy": "Nancy",
+
 		"Ella": "Ella",
+
 		"Kayla": "Kayla",
+
 		"Selah": "Selah",
+
 		"Sophia": "Sophia",
+
 		"Marshanna": "Marshanna",
+
 		"Lauren": "Lauren",
+
 		"Trisha": "Trisha",
+
 		"Shirlena": "Shirlena",
+
 		"Sheena": "Sheena",
+
 		"Ellen": "Ellen",
+
 		"Amy": "Amy",
+
 		"Dawn": "Dawn",
+
 		"Susana": "Susana",
+
 		"Meredith": "Meredith",
+
 		"Selene": "Selene",
+
 		"Terra": "Terra",
+
 		"Sally": "Sally"
+
 	},
+
 	"TruffleNames": {
+
 		"Reishi": "Reishi",
+
 		"Maitake": "Maitake",
+
 		"Chanterelle": "Chanterelle",
+
 		"Porcini": "Porcini",
+
 		"Shimeji": "Shimeji",
+
 		"Amanita": "Amanita",
+
 		"Muscaria": "Muscaria",
+
 		"Agaric": "Agaric",
+
 		"Cremini": "Cremini",
+
 		"Morel": "Morel",
+
 		"Enoki": "Enoki",
-		"Shiitake": "Shiitake"
+
+		"Shiitake": "Shiitake",
+
+		"Leinspores": "Leinspores"
+
 	},
+
 	"SteampunkerNames": {
+
 		"Whitney": "Whitney",
+
 		"Verity": "Verity",
+
 		"Ada": "Ada",
+
 		"Cornelia": "Cornelia",
+
 		"Lydia": "Lydia",
+
 		"Leila": "Leila",
+
 		"Minerva": "Minerva",
+
 		"Emeline": "Emeline",
+
 		"Cynthia": "Cynthia",
+
 		"Fidelia": "Fidelia",
+
 		"Lilly": "Lilly",
+
 		"Phoebe": "Phoebe",
+
 		"Zylphia": "Zylphia",
+
 		"Zelda": "Zelda",
+
 		"Selina": "Selina",
+
 		"Hope": "Hope",
+
 		"Isabella": "Isabella",
+
 		"Judith": "Judith",
+
 		"Savannah": "Savannah",
+
 		"Vivian": "Vivian"
+
 	},
+
 	"DyeTraderNames": {
+
 		"Abdosir": "Abdosir",
+
 		"Akbar": "Akbar",
+
 		"Bodashtart": "Bodashtart",
+
 		"Danel": "Danel",
+
 		"Hanno": "Hanno",
+
 		"Hiram": "Hiram",
+
 		"Kanmi": "Kanmi",
+
 		"Philosir": "Philosir",
+
 		"Tabnit": "Tabnit",
+
 		"Yutpan": "Yutpan",
+
 		"Ahirom": "Ahirom",
+
 		"Batnoam": "Batnoam",
+
 		"Sikarbaal": "Sikarbaal",
+
 		"Hannibal": "Hannibal",
+
 		"Yehomilk": "Yehomilk",
+
 		"Ahinadab": "Ahinadab"
+
 	},
+
 	"PartyGirlNames": {
+
 		"Candy": "Candy",
+
 		"Isis": "Isis",
+
 		"Trixy": "Trixy",
+
 		"Destiny": "Destiny",
+
 		"Lexus": "Lexus",
+
 		"Bambi": "Bambi",
+
 		"Bailey": "Bailey",
+
 		"Glitter": "Glitter",
+
 		"Sparkle": "Sparkle",
+
 		"Paris": "Paris",
+
 		"Dazzle": "Dazzle",
+
 		"Fantasy": "Fantasy",
+
 		"Bunny": "Bunny",
+
 		"Sugar": "Sugar",
+
 		"Fantasia": "Fantasia",
+
 		"Star": "Star",
-		"Cherry": "Cherry"
+
+		"Cherry": "Cherry",
+
+		"Amanda": "Amanda"
+
 	},
+
 	"CyborgNames": {
+
 		"Alpha": "Alpha",
+
 		"Beta": "Beta",
+
 		"Delta": "Delta",
+
 		"Omega": "Omega",
+
 		"Gamma": "Gamma",
+
 		"Theta": "Theta",
+
 		"Kappa": "Kappa",
+
 		"Omicron": "Omicron",
+
 		"Sigma": "Sigma",
+
 		"Upsilon": "Upsilon",
+
 		"Zeta": "Zeta",
+
 		"Lambda": "Lambda",
+
 		"Nu": "Nu",
+
 		"Ci": "Ci",
+
 		"Rho": "Rho",
+
 		"Phi": "Phi",
+
 		"Fender": "Fender",
+
 		"T-3E0": "T-3E0",
+
 		"Niner-7": "Niner-7",
+
 		"A.N.D.Y.": "A.N.D.Y.",
+
 		"Syn-X": "Syn-X",
-		"Mu": "Mu"
+
+		"Mu": "Mu",
+
+		"Raynbro": "Raynbro"
+
 	},
+
 	"PainterNames": {
+
 		"Marco": "Marco",
+
 		"Guido": "Guido",
+
 		"Enzo": "Enzo",
+
 		"Martino": "Martino",
+
 		"Mauro": "Mauro",
+
 		"Lorenzo": "Lorenzo",
+
 		"Ludo": "Ludo",
+
 		"Luciano": "Luciano",
+
 		"Carlo": "Carlo",
+
 		"Bruno": "Bruno",
+
 		"Mario": "Mario",
+
 		"Leonardo": "Leonardo",
+
 		"Raphael": "Raphael",
+
 		"Luigi": "Luigi",
+
 		"Luca": "Luca",
+
 		"Darren": "Darren",
+
 		"Esreadel": "Esreadel",
-		"Stefano": "Stefano"
+
+		"Stefano": "Stefano",
+
+		"Jim": "Jim"
+
 	},
+
 	"WitchDoctorNames": {
+
 		"Abibe": "Abibe",
+
 		"Jamundi": "Jamundi",
+
 		"U'wa": "U'wa",
+
 		"Tairona": "Tairona",
+
 		"Xirigua": "Xirigua",
+
 		"Zop'a": "Zop'a",
+
 		"Opuni": "Opuni",
+
 		"Kogi-ghi": "Kogi-ghi",
+
 		"Konah": "Konah",
+
 		"Gboto": "Gboto"
+
 	},
+
 	"PirateNames": {
+
 		"David": "David",
+
 		"Red Beard": "Red Beard",
+
 		"Jack": "Jack",
+
 		"Black Beard": "Black Beard",
+
 		"Captain Morgan": "Captain Morgan",
+
 		"Wet Beard": "Wet Beard",
+
 		"James T. Beard": "James T. Beard",
+
 		"Gunpowder Garry": "Gunpowder Garry",
+
 		"Captain Stoney Dirt": "Captain Stoney Dirt",
+
 		"Jake": "Jake",
+
 		"Captain Bullywort": "Captain Bullywort"
+
 	},
+
 	"StylistNames": {
+
 		"Bri": "Bri",
+
 		"Brianne": "Brianne",
+
 		"Flora": "Flora",
+
 		"Iris": "Iris",
+
 		"Scarlett": "Scarlett",
+
 		"Lola": "Lola",
+
 		"Hazel": "Hazel",
+
 		"Stella": "Stella",
+
 		"Pearl": "Pearl",
+
 		"Tallulah": "Tallulah",
+
 		"Ruby": "Ruby",
+
 		"Esmeralda": "Esmeralda",
+
 		"Kylie": "Kylie",
+
 		"Kati": "Kati",
+
 		"Biah": "Biah",
+
 		"Meliyah": "Meliyah",
+
 		"Petra": "Petra",
+
 		"Rox": "Rox",
+
 		"Roxanne": "Roxanne",
+
 		"Annabel": "Annabel"
+
 	},
+
 	"TravelingMerchantNames": {
+
 		"Abraham": "Abraham",
+
 		"Bohemas": "Bohemas",
+
 		"Eladon": "Eladon",
+
 		"Aphraim": "Aphraim",
+
 		"Gallius": "Gallius",
+
 		"Llewellyn": "Llewellyn",
+
 		"Riley": "Riley",
+
 		"Rawleigh": "Rawleigh",
+
 		"Shipton": "Shipton",
+
 		"Romeo": "Romeo",
+
 		"Aedan": "Aedan",
+
 		"Mercer": "Mercer",
+
 		"Willy": "Willy"
+
 	},
+
 	"AnglerNames": {
+
 		"Bobby": "Bobby",
+
 		"Sammy": "Sammy",
+
 		"Jimmy": "Jimmy",
+
 		"Danny": "Danny",
+
 		"Timmy": "Timmy",
+
 		"Simon": "Simon",
+
 		"Johnny": "Johnny",
+
 		"Billy": "Billy",
+
 		"Matty": "Matty",
+
 		"Bart": "Bart",
+
 		"Phillip": "Phillip",
+
 		"Spencer": "Spencer",
+
 		"Nathan": "Nathan",
+
 		"Grayson": "Grayson",
+
 		"Miles": "Miles",
+
 		"Charles": "Charles",
+
 		"Adam": "Adam",
+
 		"Tyler": "Tyler",
+
 		"Jey": "Jey",
+
 		"Ivan": "Ivan",
+
 		"Izzy": "Izzy"
+
 	},
+
 	"SkeletonMerchantNames": {
+
 		"Skellington": "Skellington",
+
 		"Bones McGee": "Bones McGee",
+
 		"Gloomy Mays": "Gloomy Mays",
+
 		"Jack Sellington": "Jack Sellington",
+
 		"Billy Marrows": "Billy Marrows",
+
 		"Tom": "Tom",
+
 		"Rattles Magoo": "Rattles Magoo",
+
 		"Mandible Calavera": "Mandible Calavera",
+
 		"Mika": "Mika",
-		"No-Eyed Wiley": "No-Eyed Wiley"
+
+		"No-Eyed Wiley": "No-Eyed Wiley",
+
+		"Victor": "Victor"
+
 	},
+
 	"TaxCollectorNames": {
+
 		"McKinly": "McKinly",
+
 		"Millard": "Millard",
+
 		"Fillmore": "Fillmore",
+
 		"Rutherford": "Rutherford",
+
 		"Chester": "Chester",
+
 		"Grover": "Grover",
+
 		"Cleveland": "Cleveland",
+
 		"Theodore": "Theodore",
+
 		"Herbert": "Herbert",
+
 		"Warren": "Warren",
+
 		"Lyndon": "Lyndon",
+
 		"Ronald": "Ronald",
+
 		"Harrison": "Harrison",
+
 		"Woodrow": "Woodrow",
+
 		"Tweed": "Tweed",
+
 		"Blanton": "Blanton",
+
 		"Dwyer": "Dwyer",
+
 		"Carroll": "Carroll",
+
 		"Agnew": "Agnew"
+
 	},
 	"BartenderNames": {
 		"Name_1": "Ted",
@@ -555,328 +1068,1030 @@
 		"Name_17": "Mollie",
 		"Name_18": "Lizzy",
 		"Name_19": "Daphne",
-		"Name_20": "Ellen"
+		"Name_20": "Ellen",
+		"Name_21": "Lilith"
 	},
 	"PrincessNames": {
 		"Ai": "Ai",
+
 		"Hime": "Hime",
+
 		"Emilia": "Emilia",
+
 		"Alice": "Alice",
+
 		"Belle": "Belle",
+
 		"Sophia": "Sophia",
+
 		"Hikari": "Hikari",
+
 		"Faye": "Faye",
+
 		"Christina": "Christina",
+
 		"Flora": "Flora",
+
 		"Liselotte": "Liselotte",
+
 		"Aria": "Aria",
+
 		"Yuuki": "Yuuki",
+
 		"Theresa": "Theresa",
+
 		"Elitia": "Elitia",
+
 		"Lucia": "Lucia",
+
 		"Ariel": "Ariel",
+
 		"Momo": "Momo",
+
 		"Charlotte": "Charlotte",
+
 		"Tiara": "Tiara",
+
 		"Yorai": "Yorai",
+
 		"Rosetta": "Rosetta"
 	},
 	"CatNames_Siamese": {
 		"Zen": "Zen",
+
 		"Callie": "Callie",
+
 		"Rainha": "Rainha",
+
 		"Nust": "Nust",
+
 		"Bandit": "Bandit",
+
 		"Goliath": "Goliath",
+
 		"Valerie": "Valerie",
+
 		"Socks": "Socks",
+
 		"Iris": "Iris",
+
 		"Sekhmet": "Sekhmet",
+
 		"Cleo": "Cleo",
+
 		"Sappho": "Sappho"
 	},
 	"CatNames_Black": {
 		"Luna": "Luna",
+
 		"Figment": "Figment",
+
 		"Ember": "Ember",
+
 		"Damien": "Damien",
+
 		"Snowball": "Snowball",
+
 		"Night": "Night",
+
 		"Misu": "Misu",
+
 		"Magic": "Magic",
+
 		"Tonic": "Tonic",
+
 		"Violet": "Violet",
+
 		"Jaspers": "Jaspers",
+
 		"Gargoyle": "Gargoyle",
+
 		"Lilith": "Lilith",
+
 		"Salem": "Salem",
+
 		"Rascal": "Rascal",
+
 		"Bella": "Bella",
+
 		"Odin": "Odin",
+
 		"Jiji": "Jiji",
+
 		"Morgan": "Morgan",
+
 		"Arbus": "Arbus",
+
 		"Max": "Max",
+
 		"George": "George",
 		"Esper": "Esper"
 	},
 	"CatNames_OrangeTabby": {
 		"Linkle": "Linkle",
+
 		"Remy": "Remy",
+
 		"Lux": "Lux",
+
 		"Sunny": "Sunny",
+
 		"Tigger": "Tigger",
+
 		"Callie": "Callie",
+
 		"Sassy": "Sassy",
+
 		"Bob": "Bob",
+
 		"Leo": "Leo",
+
 		"Tiger": "Tiger",
+
 		"Caramel": "Caramel",
+
 		"Tony": "Tony",
+
 		"Garfield": "Garfield",
+
 		"Hobbes": "Hobbes",
+
 		"Charlie": "Charlie",
+
 		"Rascal": "Rascal",
+
 		"Critter": "Critter",
+
 		"Adol": "Adol"
 	},
 	"CatNames_RussianBlue": {
 		"Alexi": "Alexi",
+
 		"Ruby": "Ruby",
+
 		"Bubbles": "Bubbles",
+
 		"Lexi": "Lexi",
+
 		"Prissy": "Prissy",
+
 		"Valery": "Valery",
+
 		"Lucy": "Lucy",
+
 		"Pete": "Pete",
+
 		"Jocelyn": "Jocelyn",
+
 		"Light": "Light",
+
 		"Lily": "Lily",
+
 		"Starlight": "Starlight",
+
 		"Cobalt": "Cobalt",
+
 		"Tilly": "Tilly",
+
 		"Rion": "Rion",
-		"Momo": "Momo"
+
+		"Momo": "Momo",
+		"Tarzan": "Tarzan"
 	},
 	"CatNames_Silver": {
 		"Roo": "Roo",
+
 		"Blaze": "Blaze",
+
 		"Rebus": "Rebus",
+
 		"Polo": "Polo",
+
 		"Kelly": "Kelly",
+
 		"Kiva": "Kiva",
+
 		"Sooty": "Sooty",
+
 		"By-Tor": "By-Tor",
+
 		"Merlin": "Merlin",
+
 		"Trudy": "Trudy",
+
 		"Nana": "Nana",
+
 		"Ange": "Ange",
+
 		"Kanako": "Kanako",
+
 		"Freya": "Freya",
+
 		"Cloud": "Cloud",
+
 		"Cutie": "Cutie",
-		"Renne": "Renne"
+
+		"Renne": "Renne",
+		"Miette": "Miette",
+		"Tula": "Tula"
 	},
 	"CatNames_White": {
 		"Misty": "Misty",
+
 		"Storm": "Storm",
+
 		"Angel": "Angel",
+
 		"Vincent": "Vincent",
+
 		"MrCat": "Mr. Cat",
+
 		"Holly": "Holly",
+
 		"Sam": "Sam",
+
 		"Rory": "Rory",
+
 		"Ichibi": "Ichibi",
+
 		"Belle": "Belle",
+
 		"Yuki": "Yuki",
+
 		"Ater": "Ater",
+
 		"Snowdrop": "Snowdrop",
+
 		"Snowball": "Snowball",
-		"Reah": "Reah"
+
+		"Reah": "Reah",
+		"Gemma": "Gemma"
 	},
 	"DogNames_Labrador": {
 		"Penny": "Penny",
+
 		"Pebbles": "Pebbles",
+
 		"Puppy": "Puppy",
+
 		"Monroe": "Monroe",
+
 		"Kittie": "Kittie",
+
 		"Buddy": "Buddy",
+
 		"Charlie": "Charlie",
+
 		"Trulte": "Trulte",
+
 		"Daisy": "Daisy",
+
 		"Calvin": "Calvin",
+
 		"Willow": "Willow",
+
 		"Arthur": "Arthur",
+
 		"John": "John",
+
 		"Bitsy": "Bitsy",
+
 		"Mike": "Mike",
+
 		"Sparky": "Sparky",
+
 		"Lucky": "Lucky"
 	},
 	"DogNames_PitBull": {
 		"Max": "Max",
+
 		"Dexter": "Dexter",
+
 		"Chomps": "Chomps",
+
 		"Bubba": "Bubba",
+
 		"Sampson": "Sampson",
+
 		"Spike": "Spike",
+
 		"Ginger": "Ginger",
+
 		"Kona": "Kona",
+
 		"Keith": "Keith",
+
 		"Jazzy": "Jazzy",
+
 		"Rex": "Rex",
+
 		"Toshiro": "Toshiro",
+
 		"Buster": "Buster",
+
 		"Doug": "Doug"
 	},
 
 	"DogNames_Beagle": {
 		"Zelda": "Zelda",
+
 		"Navi": "Navi",
+
 		"Ali": "Ali",
+
 		"Fred": "Fred",
+
 		"Roxie": "Roxie",
+
 		"Milo": "Milo",
+
 		"Copper": "Copper",
+
 		"Darwin": "Darwin",
+
 		"Lieselotte": "Lieselotte",
+
 		"Wilma": "Wilma",
+
 		"Odie": "Odie",
-		"Feena": "Feena"
+
+		"Feena": "Feena",
+		"Pete": "Pete"
 	},
 	"DogNames_Corgi": {
 		"Bella": "Bella",
+
 		"Ellie": "Ellie",
+
 		"Baxter": "Baxter",
+
 		"Oliver": "Oliver",
+
 		"Maya": "Maya",
+
 		"Titus": "Titus",
+
 		"Shino": "Shino",
+
 		"Elizabeth": "Elizabeth",
+
 		"Victoria": "Victoria",
+
 		"Yona": "Yona",
+
 		"Ammy": "Ammy",
+
 		"Charles": "Charles",
+
 		"Estelle": "Estelle",
+
 		"Astro": "Astro"
 	},
 	"DogNames_Dalmation": {
 		"Spot": "Spot",
+
 		"Suzy": "Suzy",
+
 		"Lucky": "Lucky",
+
 		"Marshall": "Marshall",
+
 		"Dotty": "Dotty",
+
 		"Pongo": "Pongo",
+
 		"Sapphire": "Sapphire",
+
 		"Splat": "Splat",
+
 		"Aurora": "Aurora",
+
 		"Akane": "Akane",
+
 		"Firebug": "Firebug",
+
 		"Polka": "Polka",
+
 		"Mizore": "Mizore"
 	},
 	"DogNames_Husky": {
 		"Rosalie": "Rosalie",
+
 		"Balto": "Balto",
+
 		"Miska": "Miska",
+
 		"Sky": "Sky",
+
 		"Sasha": "Sasha",
+
 		"Zoey": "Zoey",
+
 		"Toya": "Toya",
+
 		"Snowdog": "Snowdog",
+
 		"Kayla": "Kayla",
+
 		"Hachiko": "Hachiko",
+
 		"Indiana": "Indiana",
+
 		"Sven": "Sven",
+
 		"Bullet": "Bullet",
+
 		"Comet": "Comet",
+
 		"Ingrid": "Ingrid",
+
 		"Dogi": "Dogi"
 	},
 	"BunnyNames_White": {
 		"Bunnicula": "Bunnicula",
+
 		"Ben": "Ben",
+
 		"Roger": "Roger",
+
 		"Skippy": "Skippy",
+
 		"Donnie": "Donnie",
+
 		"Alice": "Alice",
+
 		"Presto": "Presto",
+
 		"Shion": "Shion",
+
 		"Lisette": "Lisette",
+
 		"Lily": "Lily",
+
 		"Inaba": "Inaba",
+
 		"Shirayuki": "Shirayuki",
+
 		"Lilia": "Lilia",
 		"Ears": "Ears"
 	},
 	"BunnyNames_Angora": {
 		"Breadbuns": "Breadbuns",
+
 		"Loaf": "Loaf",
+
 		"Babs": "Babs",
+
 		"BigB": "Big B",
+
 		"Greg": "Greg",
+
 		"Fluffy": "Fluffy",
+
 		"Pom": "Pom",
+
 		"Muffin": "Muffin",
+
 		"Maximus": "Maximus",
+
 		"Donald": "Donald"
 	},
 	"BunnyNames_Dutch": {
 		"Oreo": "Oreo",
+
 		"Olaf": "Olaf",
+
 		"Domino": "Domino",
+
 		"Oz": "Oz",
+
 		"Yin": "Yin",
+
 		"Yang": "Yang",
+
 		"Pow": "Pow",
+
 		"Kaguya": "Kaguya",
+
 		"Mono": "Mono",
+
 		"Panda": "Panda",
+
 		"Orin": "Orin"
 	},
 	"BunnyNames_Flemish": {
 		"Thumper": "Thumper",
+
 		"Cinnabun": "Cinnabun",
+
 		"Peter": "Peter",
+
 		"Hazel": "Hazel",
+
 		"Loki": "Loki",
+
 		"Sunflower": "Sunflower",
+
 		"Toby": "Toby",
+
 		"Daisy": "Daisy",
+
 		"Dusty": "Dusty",
+
 		"Jazz": "Jazz",
+
 		"Russell": "Russell",
+
 		"Honeycomb": "Honeycomb"
 	},
 	"BunnyNames_Lop": {
 		"Bunbun": "Bunbun",
+
 		"Lola": "Lola",
+
 		"Max": "Max",
+
 		"Tyler": "Tyler",
+
 		"Flops": "Flops",
+
 		"Flappie": "Flappie",
+
 		"Caerbannog": "Caerbannog",
+
 		"Mochi": "Mochi",
+
 		"Dandy": "Dandy",
+
 		"Puff": "Puff",
+
 		"Youp": "Youp",
+
 		"Boof": "Boof",
+
 		"Veidra": "Veidra"
 	},
 	"BunnyNames_Silver": {
 		"Bugz": "Bugz",
+
 		"Buster": "Buster",
+
 		"Silvine": "Silvine",
+
 		"Bunstar": "Bunstar",
+
 		"Lord": "Lord",
+
 		"Bunnykins": "Bunnykins",
+
 		"Crystal": "Crystal",
+
 		"Chrome": "Chrome",
+
 		"Vincent": "Vincent",
+
 		"Zach": "Zach",
+
 		"Joshua": "Joshua",
+
 		"Dustbunny": "Dustbunny",
+
 		"Dusty": "Dusty"
+	},
+
+	"SlimeNames_Blue": {
+		"Steve": "Steve",
+
+		"Seymour": "Seymour",
+
+		"Simon": "Simon",
+
+		"Sheldon": "Sheldon",
+
+		"Sam": "Sam",
+
+		"Samson": "Samson",
+
+		"Sid": "Sid",
+
+		"Sigvard": "Sigvard",
+
+		"Stein": "Stein",
+
+		"Sean": "Sean",
+
+		"Samwise": "Samwise",
+
+		"Snoot": "Snoot",
+
+		"Swotty": "Swotty",
+
+		"Stuart": "Stuart",
+
+		"Stratford": "Stratford",
+
+		"Saliva": "Saliva",
+
+		"Sherman": "Sherman",
+
+		"Stiltskin": "Stiltskin",
+
+		"Shibboleet": "Shibboleet",
+
+		"Sine": "Sine",
+
+		"Spock": "Spock",
+
+		"Smarty": "Smarty",
+
+		"Sonic": "Sonic",
+
+		"Sputnik": "Sputnik",
+
+		"Smoof": "Smoof",
+
+		"Spetch": "Spetch",
+
+		"Stevenson": "Stevenson"
+	},
+	"SlimeNames_Green": {
+		"Sylvester": "Sylvester",
+
+		"Slimer": "Slimer",
+
+		"Seth": "Seth",
+
+		"Shane": "Shane",
+
+		"Sully": "Sully",
+
+		"Scooter": "Scooter",
+
+		"Scotty": "Scotty",
+
+		"Spike": "Spike",
+
+		"Slachi": "Slachi",
+
+		"Spinach": "Spinach",
+
+		"Slick": "Slick",
+
+		"Slippy": "Slippy",
+
+		"Speedy": "Speedy",
+
+		"Slurm": "Slurm",
+
+		"School": "School",
+
+		"Swag": "Swag",
+
+		"SwiggitySwooty": "Swiggity Swooty",
+
+		"Slackin": "Slackin",
+
+		"Switch": "Switch",
+
+		"Sport": "Sport",
+
+		"Squash": "Squash",
+
+		"Skeeter": "Skeeter",
+
+		"Scutiger": "Scutiger",
+
+		"Softball": "Softball",
+
+		"Spazzy": "Spazzy"
+	},
+	"SlimeNames_Old": {
+		"Stooge": "Stooge",
+
+		"SirSlushington": "Sir Slushington III",
+
+		"Santiago": "Santiago",
+
+		"Sebastian": "Sebastian",
+
+		"Samuel": "Samuel",
+
+		"Seamus": "Seamus",
+
+		"Sage": "Sage",
+
+		"Sinclair": "Sinclair",
+
+		"Stanford": "Stanford",
+
+		"Septimus": "Septimus",
+
+		"Stinky": "Stinky",
+
+		"Spiffy": "Spiffy",
+
+		"Spruce": "Spruce",
+
+		"Swanky": "Swanky",
+
+		"Soggy": "Soggy",
+
+		"Scooby": "Scooby",
+
+		"Sigmund": "Sigmund",
+
+		"Smithers": "Smithers",
+
+		"Sassafras": "Sassafras",
+
+		"Slumbledore": "Slumbledore",
+
+		"Slimdalf": "Slimdalf",
+
+		"Schartzmugel": "Schartzmugel",
+
+		"Scion": "Scion",
+
+		"Scrooge": "Scrooge",
+
+		"Stonks": "Stonks",
+
+		"Swanson": "Swanson",
+
+		"Spinkerton": "Spinkerton"
+	},
+	"SlimeNames_Purple": {
+		"Stewy": "Stewy",
+
+		"Sue": "Sue",
+
+		"Spencer": "Spencer",
+
+		"Sidney": "Sidney",
+
+		"Stefan": "Stefan",
+
+		"Sonnie": "Sonnie",
+
+		"Sacco": "Sacco",
+
+		"Sunset": "Sunset",
+
+		"Snafu": "Snafu",
+
+		"Stumble": "Stumble",
+
+		"Spaghetti": "Spaghetti",
+
+		"Shoggy": "Shoggy",
+
+		"Slimefors": "Slimefors",
+
+		"Shirley": "Shirley",
+
+		"Sara": "Sara",
+
+		"Sharon": "Sharon",
+
+		"Sludge": "Sludge",
+
+		"Snuggle": "Snuggle",
+
+		"Sloppy": "Sloppy",
+
+		"Slimeora": "Slimeora",
+
+		"Sylph": "Sylph",
+
+		"Spew": "Spew",
+
+		"Shemp": "Shemp",
+
+		"Spanky": "Spanky",
+
+		"Spork": "Spork"
+	},
+	"SlimeNames_Rainbow": {
+		"Sylvia": "Sylvia",
+
+		"Skye": "Skye",
+
+		"Stephanie": "Stephanie",
+
+		"Sophia": "Sophia",
+
+		"Shanna": "Shanna",
+
+		"Serenity": "Serenity",
+
+		"Shian": "Shian",
+
+		"Slimestar": "Slimestar",
+
+		"Shimmer": "Shimmer",
+
+		"Surai": "Surai",
+
+		"Stella": "Stella",
+
+		"Sasha": "Sasha",
+
+		"Sweety": "Sweety",
+
+		"Sparkle": "Sparkle",
+
+		"Sapphire": "Sapphire",
+
+		"Seraph": "Seraph",
+
+		"Starry": "Starry",
+
+		"Sprinkes": "Sprinkes",
+
+		"Sherbet": "Sherbet",
+
+		"Sugar": "Sugar",
+
+		"Stardew": "Stardew",
+
+		"Sheena": "Sheena",
+
+		"Sveta": "Sveta",
+
+		"Shampoo": "Shampoo",
+
+		"Sproink": "Sproink",
+
+		"Secreta": "Secreta",
+
+		"Sponsa": "Sponsa",
+
+		"Skyler": "Skyler",
+
+		"Sorai": "Sorai"
+	},
+	"SlimeNames_Red": {
+		"Sparky": "Sparky",
+
+		"Sourpuss": "Sourpuss",
+
+		"Steamer": "Steamer",
+
+		"Sizzle": "Sizzle",
+
+		"Shaka": "Shaka",
+
+		"SlipperySal": "Slippery Sal",
+
+		"Sirius": "Sirius",
+
+		"Sven": "Sven",
+
+		"Sly": "Sly",
+
+		"Smeagol": "Smeagol",
+
+		"Scuff": "Scuff",
+
+		"Shifty": "Shifty",
+
+		"Sassy": "Sassy",
+
+		"Scorpius": "Scorpius",
+
+		"Snotty": "Snotty",
+
+		"Sleepy": "Sleepy",
+
+		"Stressball": "Stressball",
+
+		"Slurpee": "Slurpee",
+
+		"Squeezo": "Squeezo",
+
+		"Sapo": "Sapo",
+
+		"Snart": "Snart",
+
+		"Skiprat": "Skiprat",
+
+		"Sully": "Sully",
+
+		"Sharkey": "Sharkey",
+
+		"Scarface": "Scarface",
+
+		"Slickfather": "Slickfather",
+
+		"Slimeballa": "Slimeballa"
+	},
+	"SlimeNames_Yellow": {
+		"Sandy": "Sandy",
+
+		"Saoirse": "Saoirse",
+
+		"Selena": "Selena",
+
+		"Sienna": "Sienna",
+
+		"Samara": "Samara",
+
+		"Simone": "Simone",
+
+		"Siobhan": "Siobhan",
+
+		"Sabrina": "Sabrina",
+
+		"Sunny": "Sunny",
+
+		"Savannah": "Savannah",
+
+		"Spirit": "Spirit",
+
+		"Sinead": "Sinead",
+
+		"Saraid": "Saraid",
+
+		"Siofra": "Siofra",
+
+		"Sorcha": "Sorcha",
+
+		"Salem": "Salem",
+
+		"Soleil": "Soleil",
+
+		"Salvo": "Salvo",
+
+		"Sahara": "Sahara",
+
+		"Shanoa": "Shanoa",
+
+		"Sybil": "Sybil",
+
+		"Salome": "Salome",
+
+		"Summer": "Summer",
+
+		"Swirl": "Swirl",
+
+		"Saga": "Saga",
+
+		"Silva": "Silva",
+
+		"Striga": "Striga"
+	},
+	"SlimeNames_Copper": {
+		"Solomon": "Solomon",
+
+		"ShortswordSaxon": "Shortsword Saxon",
+
+		"Steele": "Steele",
+
+		"Sigfried": "Sigfried",
+
+		"Sterling": "Sterling",
+
+		"SenioreSlash": "Seniore Slash",
+
+		"Stabby": "Stabby",
+
+		"Spunky": "Spunky",
+
+		"Sharpie": "Sharpie",
+
+		"Scout": "Scout",
+
+		"Scrappy": "Scrappy",
+
+		"Slade": "Slade",
+
+		"Samsara": "Samsara",
+
+		"SixSwingSerge": "Six-Swing Serge",
+
+		"Scorch": "Scorch",
+
+		"Sabin": "Sabin",
+
+		"Stryker": "Stryker",
+
+		"Slayer": "Slayer",
+
+		"Slival": "Slival",
+
+		"Sting": "Sting",
+
+		"Sabaton": "Sabaton",
+
+		"SemperSerus": "Semper Serus",
+
+		"Scrimshank": "Scrimshank",
+
+		"Scavager": "Scavager",
+
+		"Selmy": "Selmy",
+
+		"Shortie": "Shortie"
 	},
 
 
@@ -973,6 +2188,46 @@
 	"BunnyChatter": {
 		"Chatter_1": "*Rabbit noises*",
 		"Chatter_2": "*Bunny noises*"
+	},
+	"SlimeBlueChatter": {
+		"Chatter_1": "Burble bubble? Hrm!",
+		"Chatter_2": "Babble babble blub... gulp!",
+		"Chatter_3": "Kaplunk! Hmm... bleb. Uh-huh."
+	},
+	"SlimeGreenChatter": {
+		"Chatter_1": "Drip!",
+		"Chatter_2": "Sizzle fo shizzle!",
+		"Chatter_3": "Yo, slurp glurp!"
+	},
+	"SlimeOldChatter": {
+		"Chatter_1": "Hrumble grumble!",
+		"Chatter_2": "Poot... ahem!",
+		"Chatter_3": "Glug glug? Pshaw!"
+	},
+	"SlimeRainbowChatter": {
+		"Chatter_1": "Dribble bleam!",
+		"Chatter_2": "Sprinkle, tinkle!",
+		"Chatter_3": "Ripple? Blip blop!"
+	},
+	"SlimePurpleChatter": {
+		"Chatter_1": "Berp.",
+		"Chatter_2": "*Awkward Silence*",
+		"Chatter_3": "Plop. Pop... splat."
+	},
+	"SlimeRedChatter": {
+		"Chatter_1": "Murble burble... glup!!!",
+		"Chatter_2": "Hiss! Gargle! Grrrrr...",
+		"Chatter_3": "Burp... heh."
+	},
+	"SlimeYellowChatter": {
+		"Chatter_1": "Bubble bubble! Boil glubble!",
+		"Chatter_2": "Blobra kaslobra!",
+		"Chatter_3": "Kasploosh!"
+	},
+	"SlimeCopperChatter": {
+		"Chatter_1": "Blip blop, huzzah!",
+		"Chatter_2": "Kerslash! Kersplish!",
+		"Chatter_3": "Squish 'n sploink!"
 	},
 	"BestiaryGirlSpecialText": {
 		"Party": "So, uh, I can't wear the hat. Sorry. I'm still here for the party, no worries!",
@@ -1086,8 +2341,8 @@
 		"Quest_Jewelfish": "Oooooohhh, I'm going to be SO rich! Deep in the caverns, there is a fish made out of gemstones! Don't ask me how, I don't know, all I know is that this fish is totally awesome and you're going to catch it for me!\n\n(Caught in Underground & Caverns)",
 		"Quest_MirageFish": "There's some interesting critters to be found in the deeper Hallows, I tell you! They glow this crazy purple color and it messes with my eyes! It's totally wild, so I want you to catch a fish like that for me!\n\n(Caught in Underground Hallow)",
 		"Quest_MutantFlinxfin": "What's white and tan and fluffy and lives in a frozen underground lake? A mutant flinxfin! I wasn't telling a joke, you know, there really is a mutated variety of Flinx that is more adapted to an aquatic lifestyle! I want it to adapt to my fishbowl, so make sure that happens!\n\n(Caught in Underground Tundra)",
-		"Quest_Pengfish": "It's a whale! It's a dolphin! No, it's a penguin fish! Oh, and look, it's you! You get to bring me one! You do know they only like cold water, right?\n\n(Caught in Tundra)",
-		"Quest_Pixiefish": "There's a really really rare type of pixie that's born with so many wings that it can't actually fly! It swims with the fishes in the lakes surrounded by that blue colored grass. My fish tank needs a lamp, so I want you to catch me that pixie!\n\n(Caught in Hallow)",
+		"Quest_Pengfish": "It's a whale! It's a dolphin! No, it's a penguin fish! Oh, and look, it's you! You get to bring me one! You do know they only like cold water, right?\n\n(Caught in Surface Tundra)",
+		"Quest_Pixiefish": "There's a really really rare type of pixie that's born with so many wings that it can't actually fly! It swims with the fishes in the lakes surrounded by that blue colored grass. My fish tank needs a lamp, so I want you to catch me that pixie!\n\n(Caught in Surface Hallow)",
 		"Quest_Spiderfish": "I saw a fish that had eight legs! Nope! Not happening! You're fishing it for me, so it's not alive when I hold it! That's the last time I go fishing so deep in the cavern!\n\n(Caught in Underground & Caverns)",
 		"Quest_UnicornFish": "Unicorns and rainbows are absolutely great! They're everywhere, even in the water. No, really, I actually saw a unicorn fish in the Hallowed lake! Your job is to reel it up and let me have it as a pet!\n\n(Caught in Hallow)",
 		"Quest_GuideVoodooFish": "Those demons in the underworld really like voodoo dolls, but I think there's a doll out there who was blasted with way too much magic! It turned into a fish and it does stuff on its own. I dare you to go down and get me one! I'd watch out for the boiling lava, because it burns you to death and that won't get me my fish!\n\n(Caught in Caverns)",
@@ -1132,14 +2387,23 @@
 	},
 	"AnglerChatter": {
 		"Chatter_1": "How come {Bartender} won't sell me any ale? I want to try some! What a grouch!",
+
 		"Chatter_2": "Whaaaat?! Can't you see I'm winding up fishing line??",
+
 		"Chatter_3": "I have enough fish! I don't need your help right now!",
+
 		"Chatter_4": "There's no chefs in all of {WorldName}, so I have to cook all this fish myself! ",
+
 		"Chatter_5": "Hey! Watch it! I'm setting up traps for my biggest prank ever! No one will see it coming! Don't you dare tell anyone!",
+
 		"Chatter_6": "Let a kid give you some advice, never touch your tongue to an ice block! Wait, forget what I said, I totally want to see you do it!",
+
 		"Chatter_7": "Ever heard of a barking fish?! I haven't, I'm just wondering if you did!",
+
 		"Chatter_8": "{WorldName} is filled to the brim with the most outlandish kinds of fish!",
+
 		"Chatter_9": "I'm bummed out! There's probably been fish that have gone extinct before I even was born, and that's not fair!",
+
 		"Chatter_10": "I don't have a mommy or a daddy, but I have a lot of fish! It's close enough!"
 	},
 	"GoblinTinkererChatter": {
@@ -1165,7 +2429,10 @@
 		"Storm1": "I do not perform shock therapy, just go stand outside under a tree!",
 		"Storm2": "Just stay inside! I've already treated too many electrocuted patients today.",
 		"Rain1": "If you stay out there too long, you'll catch a cold!",
-		"Rain2": "Great! Now my uniform is all wet. Stop staring!"
+		"Rain2": "Great! Now my uniform is all wet. Stop staring!",
+		"DeathCountLow": "What, you again?! Feels like I see you a lot, let me check your chart... Yep, you've been slain {TotalDeathsCount} times.",
+		"DeathCountMedium": "The monsters of {WorldName} have slain you {TotalDeathsCount} times already? I wonder which one picked up your banner...",
+		"DeathCountHigh": "Wow, you have been defeated {TotalDeathsCount} times? Have you ever considered a change of profession? Maybe take up farming?"
 	},
 	"ArmsDealerSpecialText": {
 		"Party": "Parties are great for getting people to come out of their shell, just like with bullets.",
@@ -1417,6 +2684,7 @@
 		"Rain1": "Yes! It's raining! Now I can watch you get soaking wet while you fish for me!",
 		"Rain2": "I always go fishing in the rain! It's why I wear this hat!",
 		"BloodMoonFishing1": "You know, super scary things lurk in the water during a Blood Moon! You should totally go try it! I'll watch from here!",
+
 		"BloodMoonFishing2": "You should try fishing when the water is all bloody! It's to die for!"
 	},
 	"TaxCollectorSpecialText": {
@@ -1974,18 +3242,31 @@
 	},
 	"TownNPCMood_BestiaryGirlTransformed": {
         "Content": "Rrrr... feel fine.",
+
         "NoHome": "GRAH! Need HOME! NOW!",
+
         "FarFromHome": "Grrawr... home! far FAR! CANNOT TRACK.",
+
         "DislikeCrowded": "Rawgh! PEOPLE. TOO MANY. Irritate!",
+
         "HateCrowded": "Snarrrrrll... CANNOT. STAND. CROWDING!",
+
         "LoveSpace": "Rrrrr... open space. HAPPY.",
+
         "LikeBiome": "In {BiomeName}... Good RUN! PLAY! HUNT! Yee!",
+
         "LoveBiome": "FAVORITE LAND... {BiomeName}. DELIGHT.",
+
         "DislikeBiome": "Mrrrr... {BiomeName}. NO SMELL GOOD.",
+
         "HateBiome": "Gughhh, {BiomeName}... I LOATHE. BAD SCENERY.",
+
         "LikeNPC": "{NPCName}. Rrr... GOOD. FEEL.",
+
         "LoveNPC": "LOVE. STRONG... {NPCName}. Yeeyee!",
+
         "DislikeNPC": "{NPCName}.... VIBES. BAD! Grrl",
+
         "HateNPC": "Arghl! NO {NPCName}. HATE. FURY. DISGUST!!",
 		"LikeNPC_Princess": "{NPCName}... PINK. GOOD."
 	},
@@ -2008,30 +3289,54 @@
 		"LoveNPC_Nurse": "{NPCName} always makes me feel better when I'm hurt!",
 		"LoveNPC_Merchant": "{NPCName} always provides what I need, free of charge!",
 		"LoveNPC_Dryad": "{NPCName} is so in touch with nature, I love it!",
+
 		"LoveNPC_ArmsDealer": "{NPCName} is such a softie at heart!",
+
 		"LoveNPC_Demolitionist": "{NPCName} is just 'da bomb', heehee!",
+
 		"LoveNPC_Clothier": "{NPCName} seems so sad sometimes, but he's very nice to me!",
 		"LoveNPC_Wizard": "{NPCName} is so wise, I trust his judgement completely!",
+
 		"LoveNPC_GoblinTinkerer": "{NPCName} makes just the niftiest gizmos!",
+
 		"LoveNPC_Mechanic": "{NPCName} can fix up just about anything, I admire her!",
+
 		"LoveNPC_SantaClaus": "{NPCName} is so jolly, I just want to give him a gift!",
+
 		"LoveNPC_Truffle": "{NPCName} is a really fun guy!",
+
 		"LoveNPC_Steampunker": "{NPCName} is my favorite tea time partner!",
+
 		"LoveNPC_DyeTrader": "{NPCName} always helps me choose the best color dresses!",
+
 		"LoveNPC_PartyGirl": "{NPCName} is always the life of the party!",
 		"LoveNPC_Cyborg": "{NPCName} is so cool, he seems to know everything!",
+
 		"LoveNPC_Painter": "{NPCName} really brightens up this place with his art!",
+
 		"LoveNPC_WitchDoctor": "{NPCName} offers such unique insights, it really makes me think!",
+
 		"LoveNPC_Pirate": "{NPCName} is always good for an exciting pirate story!",
+
 		"LoveNPC_Stylist": "{NPCName} has the best hair advice, she's great to talk to!",
+
 		"LoveNPC_Angler": "{NPCName} is such a nice boy, always offering to take me fishing!",
+
 		"LoveNPC_TaxCollector": "{NPCName} is terribly misunderstood, he's very kind to me!",
 		"LoveNPC_DD2Bartender": "{NPCName} is from an entirely different world, that's so interesting!",
+
 		"LoveNPC_Golfer": "{NPCName}'s passion for golf inspires me!",
+
 		"LoveNPC_BestiaryGirl": "{NPCName} always lets me play with her pets, its so nice!",
+
 		"LoveNPC_Princess": "{NPCName} is a little unsettling to be around, but terribly cute!",
+
 		"LoveNPC_TownCat": "{NPCName} is really adorable!",
+
 		"LoveNPC_TownDog": "{NPCName} is really adorable!",
-		"LoveNPC_TownBunny": "{NPCName} is really adorable!"
+
+		"LoveNPC_TownBunny": "{NPCName} is really adorable!",
+
+		"LoveNPC_TownSlime": "{NPCName} is really adorable!"
 	}
 }
