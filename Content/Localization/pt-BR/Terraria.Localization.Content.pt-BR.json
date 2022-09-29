@@ -456,7 +456,7 @@
 		"InvasionWave_Type7": "{0}: {1}, {2}, {3}, {4}, {5}, {6}, e {7}",
 		"InvasionWave_Type8": "{0}: {1}, {2}, {3}, {4}, {5}, {6}, {7}, e {8}",
 		"JoinGreeting": "Jogadores no momento: {0}.",
-		"NPCTitle": "{0} o(a) {1}",
+		"NPCTitle": "{1} {0}",
 		"PlayerDeathTime": "{0} morreu {1} atrás",
 		"PvPFlag": "(JvJ)",
 		"RedWires": "Fios Vermelhos",
