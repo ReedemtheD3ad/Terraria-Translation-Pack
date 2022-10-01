@@ -6183,7 +6183,7 @@
 		"UnholyTrident": "Summons the Devil's trident",
 		"FrostHelmet": "16% increased melee and ranged damage",
 		"FrostBreastplate": "11% increased melee and ranged critical strike chance",
-		"FrostLeggings": "8% increased movement speed\n10% increased melee attack speed",
+		"FrostLeggings": "8% increased movement speed\n10% increased melee speed",
 		"WormFood": "Summons the Eater of Worlds",
 		"TinWatch": "Tells the time",
 		"TungstenWatch": "Tells the time",
@@ -7051,7 +7051,7 @@
 		"SquireGreatHelm": "Increases your max number of sentries by 1 and increases your life regeneration",
 		"SquirePlating": "15% increased summon and melee damage",
 		"SquireGreaves": "15% increased summon damage, 15% increased melee critical strike chance and movement speed",
-		"MonkBrows": "Increases your max number of sentries by 1 and increases melee attack speed by 20%",
+		"MonkBrows": "Increases your max number of sentries by 1 and increases melee speed by 20%",
 		"MonkShirt": "20% increased summon and melee damage",
 		"MonkPants": "10% increased summon damage,\n15% increased melee critical strike chance and 20% increased movement speed",
 		"HuntressWig": "Increases your max number of sentries by 1 and increases ranged critical strike chance by 10%",
@@ -7924,6 +7924,7 @@
 		"Fertilizer": "Causes saplings to instantly grow into trees",
 		"WaffleIron": "'It's Waffle Time!'",
 		"JimsDrone": "Rotate Left/Right to steer & Press Up to accelerate\n'First rule of Flight Club, we don't talk about Flight Club'",
-		"JimsDroneVisor": "Allows wearer to see through their drone camera\n'Chonky Fishron RC Systems'"
+		"JimsDroneVisor": "Allows wearer to see through their drone camera\n'Chonky Fishron RC Systems'",
+		"ShimmerCampfire": "Life regen is increased when near a campfire"
 	}
 }
