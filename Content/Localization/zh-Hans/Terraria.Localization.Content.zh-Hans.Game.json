@@ -16,7 +16,7 @@
 		"10": "水会打断你的掉落。",
 		"11": "火把和荧光棒可以为你在一片漆黑的地方照明。火把不能在水下使用，但荧光棒可以。",
 		"12": "没喝黑曜石皮药水可别掉进熔岩中！",
-		"13": "如果有幸运马掌，你就不会受到掉落伤害。在地下宝箱中寻找幸运马掌。",
+		"13": "如果有幸运马掌，你就不会受到掉落伤害。在漂浮岛上的宝箱中寻找幸运马掌。",
 		"14": "走在狱石和陨石上会灼伤你！装备上黑曜石骷髅头或类似配饰来保护你自己。",
 		"15": "生命水晶藏在世界各地。使用生命水晶来增加你的生命值。",
 		"16": "制作火把需要木头和凝胶。凝胶可以通过打败史莱姆获得。",
@@ -149,16 +149,24 @@
 		"Emoji_0": "\/emoji",
 		"Emoji_1": "\/e",
 		"Help": "\/help",
-		"RPS": "\/rps"
+		"RPS": "\/rps",
+		"Death": "\/death",
+		"PVPDeath": "\/pvpdeath",
+		"AllDeath": "\/alldeath",
+		"AllPVPDeath": "\/allpvpdeath"
 	},
 	"ChatCommandDescription": {
 		"Party": "{$ChatCommand.Party} 消息：向你的队伍成员发送消息",
 		"Emote": "{$ChatCommand.Emote} 消息：以第三人称视角发送消息",
 		"Playing": "{$ChatCommand.Playing_0}：列出服务器上所有玩家名字",
 		"Roll": "{$ChatCommand.Roll}：摇出一个1到100的数字",
-		"Emoji": "{$ChatCommand.Emoji_1}：显示你的表情符号",
+		"Emoji": "{$ChatCommand.Emoji_1} #：显示表情符号",
 		"Help": "{$ChatCommand.Help}：列出所有可用命令",
-		"RPS": "{$ChatCommand.RPS}：随机使用石头、剪刀、布的表情符号"
+		"RPS": "{$ChatCommand.RPS}：随机使用石头、剪刀、布的表情符号",
+		"Death": "{$ChatCommand.Death}：显示你的死亡次数",
+		"PVPDeath": "{$ChatCommand.PVPDeath}：显示你的PvP死亡次数",
+		"AllDeath": "{$ChatCommand.AllDeath}：显示每个人的死亡次数",
+		"AllPVPDeath": "{$ChatCommand.AllPVPDeath}：显示每个人的PvP死亡次数"
 	},
 	"EmojiCommand": {
 		"EmotionLove": "\/{$EmojiName.EmotionLove}",
@@ -517,7 +525,8 @@
 		"Chlorophyte": "叶绿",
 		"Turret": "炮塔",
 		"Rocket": "火箭",
-		"SiltExtractinator": "泥沙提炼机",
+		"SiltExtractinator": "提炼机",
+		"ChlorophyteExtractinator": "叶绿提炼机",
 		"Palladium": "钯金",
 		"Orichalcum": "山铜",
 		"Titanium": "钛金",
@@ -583,7 +592,7 @@
 		"Werewolf": "狼人",
 		"Clairvoyance": "灵视",
 		"Bleeding": "流血",
-		"Confused": "困惑",
+		"Confused": "迷惑的",
 		"Slow": "缓慢",
 		"Weak": "软弱",
 		"Merfolk": "人鱼",
@@ -632,6 +641,7 @@
 		"CursedSapling": "诅咒树苗",
 		"WaterCandle": "水蜡烛",
 		"PeaceCandle": "和平蜡烛",
+		"ShadowCandle": "暗影蜡烛",
 		"Campfire": "温馨之火",
 		"ChaosState": "混沌状态",
 		"HeartLamp": "心灯",
@@ -873,7 +883,7 @@
 		"Frostburn2": "冻伤",
 		"FlinxMinion": "小雪怪",
 		"NeutralHunger": "稍饿",
-		"Hunger": "饥饿",
+		"Hunger": "饥饿的",
 		"Starving": "极饿",
 		"BerniePet": "伯尼",
 		"GlommerPet": "咕噜咪",
@@ -881,9 +891,25 @@
 		"PigPet": "猪",
 		"ChesterPet": "切斯特",
 		"AbigailMinion": "阿比盖尔",
-		"HeartyMeal": "丰盛大餐"
+		"HeartyMeal": "丰盛大餐",
+		"DualSlimePet": "皇家史莱姆",
 		
+		"JunimoPet": "祝尼魔",
+		"BloodButcherer": "血腥屠刀",
+		"FartMinecartRight": "放屁车",
+		"FartMinecartLeft": "{$BuffName.FartMinecartRight}",
 
+		"BiomeSight": "Biome Sight",
+
+		"TerraFartMinecartRight": "泰拉放屁车",
+		"TerraFartMinecartLeft": "{$BuffName.TerraFartMinecartRight}",
+		"WarTable": "战略家",
+		"BlueChickenPet": "蓝鸡",
+		"WolfMount": "月亮祝福",
+		"Spiffo": "Spiffo",
+		"CavelingGardener": "洞穴园丁", 
+		"Shimmer": "微光闪烁",
+		"DirtiestBlock": "最土的块"
 	},
 	"BuffDescription": {
 		"ObsidianSkin": "对熔岩免疫",
@@ -893,17 +919,17 @@
 		"Ironskin": "防御力增加8点",
 		"ManaRegeneration": "魔力再生速度提高",
 		"MagicPower": "魔法伤害提高20%",
-		"Featherfall": "按UP或DOWN来控制下降速度",
+		"Featherfall": "按向上键或向下键来控制下降速度",
 		"Spelunker": "显示宝藏和矿石的位置",
 		"Invisibility": "隐身",
 		"Shine": "发光",
 		"NightOwl": "夜视能力提升",
 		"Battle": "敌人生成速度提高",
 		"Thorns": "攻击者也会受到伤害",
-		"WaterWalking": "按DOWN进入水中",
-		"Archery": "箭的伤害和速度各提高20%",
+		"WaterWalking": "按向下键进入水中",
+		"Archery": "弓伤害增加10%，箭速度提高20%",
 		"Hunter": "显示敌人位置",
-		"Gravitation": "按UP可逆转重力",
+		"Gravitation": "按向上键可逆转重力",
 		"ShadowOrb": "提供照明的魔法珠",
 		"Poisoned": "缓慢损失生命值",
 		"PotionSickness": "不能再使用治疗物品",
@@ -964,6 +990,7 @@
 		"CursedSapling": "诅咒树苗正跟着你",
 		"WaterCandle": "怪物生成速度提高",
 		"PeaceCandle": "怪物生成速度降低",
+		"ShadowCandle": "驱散城镇的宁静",
 		"Campfire": "生命再生速度略有提高",
 		"ChaosState": "使用混沌传送杖会夺走生命值",
 		"HeartLamp": "生命再生速度提高",
@@ -981,7 +1008,7 @@
 		"FairyRed": "仙灵正跟着你",
 		"FairyGreen": "仙灵正跟着你",
 		"Wet": "你在滴水",
-		"Mining": "挖矿速度提高25%",
+		"Mining": "采矿速度提高25%",
 		"Heartreach": "心的拾取范围扩大",
 		"Calm": "敌人生成速度降低",
 		"Builder": "放置速度提高、放置范围扩大",
@@ -1188,9 +1215,9 @@
 		"PogoStickMount": "咔咝唏嗑！咔咝唏嗑！咔咝唏嗑！",
 		"TitaniumStorm": "防御碎片环绕着你",
 		"QueenSlimePet": "她就是上级",
-		"ThornWhipPlayerBuff": "近战速度提高",
-		"SwordWhipPlayerBuff": "近战速度提高",
-		"ScytheWhipPlayerBuff": "近战速度提高",
+		"ThornWhipPlayerBuff": "鞭的速度提高",
+		"SwordWhipPlayerBuff": "鞭的速度提高",
+		"ScytheWhipPlayerBuff": "鞭的速度提高",
 		"CoolWhipPlayerBuff": "召唤雪花来为你作战",
 		"Smolstar": "千刀万剐",
 		"QueenSlimeMount": "啵嘤扑扑啵嘤！",
@@ -1213,8 +1240,22 @@
 		"PigPet": "行走的培根！",
 		"ChesterPet": "奥特·冯·切斯特菲尔德先生",
 		"AbigailMinion": "阿比盖尔会为了保护你而战",
-		"HeartyMeal": "生命再生速度提高"
-
+		"HeartyMeal": "生命再生速度提高",
+		"DualSlimePet": "最终的权威，他们将统一王国！",
+		"FartMinecartRight": "{$BuffDescription.MinecartRight}",
+		"FartMinecartLeft": "{$BuffDescription.MinecartLeft}",
+		"BiomeSight": "显示感染物块的位置",
+		"BloodButcherer": "迅速出血",
+		"JunimoPet": "森林守护者",
+		"TerraFartMinecartRight": "{$BuffDescription.MinecartRight}",
+		"TerraFartMinecartLeft": "{$BuffDescription.MinecartLeft}",
+		"WarTable": "哨兵数量上限提高",
+		"BlueChickenPet": "名牌上写着“谢恩”",
+		"WolfMount": "你变成了狼！",
+		"Spiffo": "“你就是这样没命的”",
+		"CavelingGardener": "哈嘿啊忒！", 
+		"Shimmer": "你虚化了！",
+		"DirtiestBlock": "你可以从这些额外的土看出来"
 	},
 	"ArmorSetBonus": {
 		"SquireTier3": "提高哨兵数量上限\n大幅提升弩车效力",
@@ -1237,11 +1278,11 @@
 		"TitaniumCaster": "魔力消耗减少19%",
 		"TitaniumMelee": "近战和移动速度各提高18%",
 		"TitaniumRanged": "25%的几率不消耗弹药",
-		"ShadowScale": "移动速度提高15%",
+		"ShadowScale": "移动速度和加速度提高",
 		"Wood": "1点防御力",
 		"Crimson": "大大提高生命再生速度",
 		"Frost": "近战和远程攻击会造成霜冻\n近战和远程伤害各增加10%",
-		"Tiki": "提高仆从数量上限",
+		"Tiki": "仆从数量上限提高\n鞭子范围增加20%",
 		"Palladium": "攻击敌人后大大提高生命再生速度",
 		"Orichalcum": "花瓣将落到目标身上造成额外伤害",
 		"Titanium": "攻击生成钛金碎片防御屏障",
@@ -1255,13 +1296,13 @@
 		"Shroomite": "不移动则会隐身，\n增加远程能力和降低敌人瞄准你的几率",
 		"Platinum": "4点防御力",
 		"Pumpkin": "伤害提高10%",
-		"Spooky": "仆从伤害增加25%",
+		"Spooky": "召唤伤害增加25%",
 		"SpectreDamage": "所造成的魔法伤害还能伤及附近的其他敌人",
 		"MagicHat": "最大魔力值增加60",
 		"BeetleDefense": "甲虫保护你不受伤害",
 		"BeetleDamage": "甲虫增加你的近战伤害和速度",
-		"Bee": "仆从伤害增加10%",
-		"Spider": "仆从伤害增加12%",
+		"Bee": "召唤伤害增加10%",
+		"Spider": "召唤伤害增加12%",
 		"Solar": "日耀护盾可以随着时间推移补充能量，保护你、让你能猛冲\n能量可以用来伤害你触碰到的敌人\n消耗的能量会爆炸并伤害敌人",
 		"Vortex": "双击{0}切换隐身，\n增加远程能力和降低敌人瞄准你的几率，但会减慢移动速度",
 		"Nebula": "魔法伤害有机会生成增益强化道具，\n拾取强化道具可获得堆叠增益",
@@ -1269,7 +1310,8 @@
 		"Forbidden": "双击{0}可将远古风暴召唤到光标位置",
 		"Jungle": "魔力消耗减少16%",
 		"Molten": "10%额外近战伤害，\n不会着火",
-		"Mining": "挖矿速度增加30%",
+		"Snow": "不会被冷冻或冰冻",
+		"Mining": "采矿速度增加10%",
 		"CobaltCaster": "魔力消耗减少14%",
 		"CobaltMelee": "近战速度提高15%",
 		"Bone": "远程暴击率增加10%",
@@ -1279,7 +1321,9 @@
 		"CrystalNinja": "可猛冲\n伤害和暴击率各增加10%",
 		"Cactus": "攻击者因为仙人掌尖刺受到伤害",
 		"Gladiator": "对击退免疫",
-		"ObsidianOutlaw": "鞭子的范围增加50%，速度增加35%，\n仆从伤害增加15%"
+		"ObsidianOutlaw": "鞭子范围增加30%，速度提高15%，\n召唤伤害增加15%",
+		"Angler": "敌人生成速度降低",
+		"AshWood": "减少因触碰熔岩而受到的伤害"
 	},
 	"Bestiary_Biomes": {
 		"Surface": "地表",
@@ -1376,7 +1420,8 @@
 		"Sort_Defense": "防御",
 		"Sort_Coins": "钱币",
 		"Sort_HitPoints": "生命",
-		"PercentCollected": "已收集{Percent}"
+		"PercentCollected": "已收集{Percent}",
+		"Slain": "被杀"
 	},
 	"Bestiary_ItemDropConditions": {
         "PirateMap": "在困难模式下的海洋掉落",
@@ -1389,6 +1434,7 @@
 		"IsExpert": "这是专家模式下的掉落率",
 		"IsMasterMode": "这是大师模式下的掉落率",
 		"Is10thAnniverary": "这是周年纪念种子中的掉落率",
+		"IsRemixSeed": "这是Remix种子中的掉落率",
 		"IsDontStarve": "这是饥荒种子中的掉落率",
 		"IsCrimson": "在猩红之地掉落",
 		"IsCorruption": "在腐化之地掉落",
@@ -1519,8 +1565,8 @@
 		"Sandshark": "在古代，曾有一条咸水河流经沙漠。这些强大的生物进化成能在现今干燥的沙漠中生存。",
 		"Lamia": "等到沙漠洞穴的暗处出现发光的红眼睛就为时已晚了。这说明拉弥亚已经找到了猎物。",
 		"GemSquirrel": "迷途太远的闪耀松鼠会被宝石中残留的诅咒能量所蛊惑。",
-		"GemBunny": "这些五颜六色的兔子藏得很深，在面对魔法宝石时，它们的身体会闪着好看的光。"
-
+		"GemBunny": "这些五颜六色的兔子藏得很深，在面对魔法宝石时，它们的身体会闪着好看的光。",
+		"TownSlime": "这些有意识的史莱姆是从哪里来的？这对每个人来说都是个谜，但它们肯定是充满个性的！"
 	},
 	"Bestiary_FlavorText": {
 		"npc_BabySlime": "这些小史莱姆会紧紧黏住母体，很少看到它们单独行动，若母亲受到伤害，它们便一拥而上围攻对方。 ",
@@ -2063,7 +2109,25 @@
 		"npc_EmpressButterfly": "传说如果一只这样的发光生物在夜晚的混沌中死去，就会有一个沉睡的暴君将被猛烈地唤醒。",
 		"npc_TorchGod": "主管火把永恒摇曳的无形神明，但容易因为别人不知好歹地将火把摆放得很难看而发怒。",
 		"npc_Princess": "这位快乐的年轻女士害羞而天真，对待任何事和任何人总能看到积极的一面。她很欣赏来自各行各业的所有臣民。",
-		"npc_Deerclops": "这只独眼巨兽来自遥远的地方，它蛰伏在酷寒之处，给打扰它的人带去灭顶之灾。"
+		"npc_Deerclops": "这只独眼巨兽来自遥远的地方，它蛰伏在酷寒之处，给打扰它的人带去灭顶之灾。",
+		"npc_Stinkbug": "这些鬼祟的害虫有种本领，即使是最密不透风的房屋也能入侵；如果受到干扰，它们会散发出香菜般的恶臭。",
+		"npc_ScarletMacaw": "可爱的热带鸟，全身羽毛让人想起丛林树冠上的美丽日落。",
+		"npc_BlueMacaw": "这种热带鸟在丛林的树木中觅食种子，让人联想夏日晴空万里下晶莹剔透的湛蓝海水。",
+		"npc_TownSlimeBlue": "这种史莱姆比其它史莱姆聪明一点点，它发现了如何与人类共存。秘诀就是：穿戴饰物！",
+		"npc_Toucan": "你经常会发现，这种羽毛鲜艳的大喙鸟在树林上空盘旋，寻觅着美味的果子。",
+		"npc_YellowCockatiel": "这种鸟羽冠上的独特羽毛是情绪状态的指示标志，通常在它兴奋时会立起。",
+		"npc_GrayCockatiel": "这些鹦鹉的近亲是天生的社交动物，通常可以教它们说一些简单的短语。",
+		"npc_TownSlimeGreen": "毫无疑问，这是最酷的史莱姆。你可以通过反扣的帽子和费解的俚语看出来。",
+		"npc_TownSlimeOld": "年长史莱姆虽然不一定更聪明，但倍受其它史莱姆景仰。它活了这么久，肯定知道些什么！",
+		"npc_TownSlimePurple": "当其它史莱姆开始戴上帽子和配饰时，这只史莱姆有点困惑。但它已经尽力了。",
+		"npc_TownSlimeRainbow": "这只史莱姆是微光的能量和史莱姆皇后相结合的产物，所以充满了无限的能量和热情！而且很酷炫！",
+		"npc_TownSlimeRed": "这只脾气暴躁、令人厌恶的史莱姆可能不怀好意。可能吧。它的想法才是关键。",
+		"npc_TownSlimeYellow": "这只史莱姆知道伟大的女巫都戴着令人印象深刻的帽子，但它只找到了一顶耷拉着的帽子。或许可以解释这种事与愿违的变形术！",
+		"npc_TownSlimeCopper": "它是史莱姆中的英雄，拥有同类中最强大的武器和盔甲。它实际上并不知道如何使用，但这是一个开始。",
+		"npc_BoundTownSlimeYellow": "一只好奇的青蛙戴着滑稽的帽子，在丛林里游荡！这种黏糊糊的两栖动物远不止看上去这么简单……",
+		"npc_Shimmerfly": "当动物游荡到微光池塘的发光深处时，这些闪闪发光、仙灵般的生物就诞生了。",
+		"npc_ShimmerSlime": "在微光中游了一圈之后，这只七彩史莱姆就被注入了神秘液体的力量。"
+
 	},
 		"CreativePowers": {
 		"InfiniteItemSacrificeShortDescription": "研究<item name>将消耗掉它",
@@ -2215,5 +2279,12 @@
 	"LucyTheAxe_ChoppedCactus":
 	{
 		"1": "你想想看，仙人掌就是带刺的树而已！"
+	},
+	"StardewTalk":
+	{
+		"PlayerHasColaButIsNotHoldingIt": "你这个是什么...Joja可乐？请拿出来，让我看看！",
+		"PlayerHasColaAndIsHoldingIt": "你拿着的这种非天然饮料与另一个世界有联系……如果你愿意，我可以试着净化它。",
+		"GiveColaButtonText": "净化",
+		"PlayerGivesCola": "我通过连接感应到了一个纯净的灵魂，它想感谢你处理掉了Joja可乐！"
 	}
 }
