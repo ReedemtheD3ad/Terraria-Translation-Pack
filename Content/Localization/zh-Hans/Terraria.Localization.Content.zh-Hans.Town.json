@@ -10,1015 +10,510 @@
 	},
 
 	"MerchantNames": {
-
 		"Alfred": "Alfred",
-
 		"Barney": "Barney",
-
 		"Calvin": "Calvin",
-
 		"Edmund": "Edmund",
-
 		"Edwin": "Edwin",
-
 		"Eugene": "Eugene",
-
 		"Frank": "Frank",
-
 		"Frederick": "Frederick",
-
 		"Gilbert": "Gilbert",
-
 		"Gus": "Gus",
-
 		"Wilbur": "Wilbur",
-
 		"Seymour": "Seymour",
-
 		"Louis": "Louis",
-
 		"Humphrey": "Humphrey",
-
 		"Harold": "Harold",
-
 		"Milton": "Milton",
-
 		"Mortimer": "Mortimer",
-
 		"Howard": "Howard",
-
 		"Walter": "Walter",
-
 		"Isaac": "Isaac",
-
 		"Joseph": "Joseph",
-
 		"Kristian": "Kristian",
-
 		"Ralph": "Ralph"
-
 	},
-
 	"NurseNames": {
-
 		"Molly": "Molly",
-
 		"Amy": "Amy",
-
 		"Claire": "Claire",
-
 		"Emily": "Emily",
-
 		"Katie": "Katie",
-
 		"Madeline": "Madeline",
-
 		"Katelyn": "Katelyn",
-
 		"Emma": "Emma",
-
-		"Abigail": "阿比盖尔",
-
+		"Abigail": "Abigail",
 		"Carly": "Carly",
-
 		"Jenna": "Jenna",
-
 		"Heather": "Heather",
-
 		"Katherine": "Katherine",
-
 		"Caitlin": "Caitlin",
-
 		"Kaitlin": "Kaitlin",
-
 		"Holly": "Holly",
-
 		"Kaitlyn": "Kaitlyn",
-
 		"Hannah": "Hannah",
-
 		"Kathryn": "Kathryn",
-
 		"Lorraine": "Lorraine",
-
 		"Helen": "Helen",
-
 		"Kayla": "Kayla",
-
 		"Lisa": "Lisa",
-
 		"Allison": "Allison"
-
 	},
-
 	"ArmsDealerNames": {
-
 		"DeShawn": "DeShawn",
-
 		"DeAndre": "DeAndre",
-
 		"Marquis": "Marquis",
-
 		"Darnell": "Darnell",
-
 		"Terrell": "Terrell",
-
 		"Malik": "Malik",
-
 		"Trevon": "Trevon",
-
 		"Tyrone": "Tyrone",
-
 		"Willie": "Willie",
-
 		"Dominique": "Dominique",
-
 		"Demetrius": "Demetrius",
-
 		"Reginald": "Reginald",
-
 		"Jamal": "Jamal",
-
 		"Maurice": "Maurice",
-
 		"Jalen": "Jalen",
-
 		"Darius": "Darius",
-
 		"Xavier": "Xavier",
-
 		"Terrance": "Terrance",
-
 		"Andre": "Andre",
-
 		"Dante": "Dante",
-
 		"Brimst": "Brimst",
-
 		"Bronson": "Bronson",
-
 		"Tony": "Tony",
-
 		"Darryl": "Darryl"
-
 	},
-
 	"DryadNames": {
-
 		"Alalia": "Alalia",
-
 		"Alura": "Alura",
-
 		"Ariella": "Ariella",
-
 		"Caelia": "Caelia",
-
 		"Calista": "Calista",
-
 		"Chryseis": "Chryseis",
-
 		"Emerenta": "Emerenta",
-
 		"Elysia": "Elysia",
-
 		"Evvie": "Evvie",
-
 		"Faye": "Faye",
-
 		"Felicitae": "Felicitae",
-
 		"Lunette": "Lunette",
-
 		"Nata": "Nata",
-
 		"Nissa": "Nissa",
-
 		"Tatiana": "Tatiana",
-
 		"Rosalva": "Rosalva",
-
 		"Shea": "Shea",
-
 		"Tania": "Tania",
-
 		"Isis": "Isis",
-
 		"Celestia": "Celestia",
-
 		"Xylia": "Xylia"
-
 	},
-
 	"GuideNames": {
-
 		"Joe": "Joe",
-
 		"Connor": "Connor",
-
 		"Tanner": "Tanner",
-
 		"Wyatt": "Wyatt",
-
 		"Cody": "Cody",
-
 		"Levi": "Levi",
-
 		"Luke": "Luke",
-
 		"Jack": "Jack",
-
 		"Scott": "Scott",
-
 		"Logan": "Logan",
-
 		"Cole": "Cole",
-
 		"Asher": "Asher",
-
 		"Bradley": "Bradley",
-
 		"Jacob": "Jacob",
-
 		"Garrett": "Garrett",
-
 		"Dylan": "Dylan",
-
 		"Maxwell": "Maxwell",
-
 		"Steve": "Steve",
-
 		"Brett": "Brett",
-
 		"Andrew": "Andrew",
-
 		"Harley": "Harley",
-
 		"Kyle": "Kyle",
-
 		"Jake": "Jake",
-
 		"Ryan": "Ryan",
-
 		"Jeffrey": "Jeffrey",
-
 		"Seth": "Seth",
-
 		"Marty": "Marty",
-
 		"Brandon": "Brandon",
-
 		"Zach": "Zach",
-
 		"Jeff": "Jeff",
-
 		"Daniel": "Daniel",
-
 		"Trent": "Trent",
-
 		"Kevin": "Kevin",
-
 		"Brian": "Brian",
-
 		"Colin": "Colin",
-
 		"Jan": "Jan"
-
 	},
-
 	"DemolitionistNames": {
-
 		"Dolbere": "Dolbere",
-
 		"Bazdin": "Bazdin",
-
 		"Durim": "Durim",
-
 		"Tordak": "Tordak",
-
 		"Garval": "Garval",
-
 		"Morthal": "Morthal",
-
 		"Oten": "Oten",
-
 		"Dolgen": "Dolgen",
-
 		"Gimli": "Gimli",
-
 		"Gimut": "Gimut",
-
 		"Duerthen": "Duerthen",
-
 		"Beldin": "Beldin",
-
 		"Jarut": "Jarut",
-
 		"Ovbere": "Ovbere",
-
 		"Norkas": "Norkas",
-
 		"Dolgrim": "Dolgrim",
-
 		"Boften": "Boften",
-
 		"Norsun": "Norsun",
-
 		"Dias": "Dias",
-
 		"Fikod": "Fikod",
-
 		"Urist": "Urist",
-
 		"Darur": "Darur"
-
 	},
-
 	"ClothierNames": {
-
 		"Sebastian": "Sebastian",
-
 		"Rupert": "Rupert",
-
 		"Clive": "Clive",
-
 		"Nigel": "Nigel",
-
 		"Mervyn": "Mervyn",
-
 		"Cedric": "Cedric",
-
 		"Pip": "Pip",
-
 		"Cyril": "Cyril",
-
 		"Fitz": "Fitz",
-
 		"Arthur": "Arthur",
-
 		"Rodney": "Rodney",
-
 		"Graham": "Graham",
-
 		"Edward": "Edward",
-
 		"Alfred": "Alfred",
-
 		"Edmund": "Edmund",
-
 		"Henry": "Henry",
-
 		"Herald": "Herald",
-
 		"Roland": "Roland",
-
 		"Lincoln": "Lincoln",
-
 		"Lloyd": "Lloyd",
-
 		"Edgar": "Edgar",
-
 		"Eustace": "Eustace",
-
 		"Benjamin": "Benjamin",
-
 		"James": "James",
-
 		"Rodrick": "Rodrick"
-
 	},
-
 	"GoblinTinkererNames": {
-
 		"Grodax": "Grodax",
-
 		"Sarx": "Sarx",
-
 		"Xon": "Xon",
-
 		"Mrunok": "Mrunok",
-
 		"Nuxatk": "Nuxatk",
-
 		"Tgerd": "Tgerd",
-
 		"Darz": "Darz",
-
 		"Smador": "Smador",
-
 		"Stazen": "Stazen",
-
 		"Mobart": "Mobart",
-
 		"Knogs": "Knogs",
-
 		"Tkanus": "Tkanus",
-
 		"Negurk": "Negurk",
-
 		"Nort": "Nort",
-
 		"Durnok": "Durnok",
-
 		"Trogem": "Trogem",
-
 		"Stezom": "Stezom",
-
 		"Gnudar": "Gnudar",
-
 		"Ragz": "Ragz",
-
 		"Fahd": "Fahd",
-
 		"Xanos": "Xanos",
-
 		"Arback": "Arback",
-
 		"Fjell": "Fjell",
-
 		"Dalek": "Dalek",
-
 		"Knub": "Knub"
-
 	},
-
 	"WizardNames": {
-
 		"Dalamar": "Dalamar",
-
 		"Dulais": "Dulais",
-
 		"Elric": "Elric",
-
 		"Arddun": "Arddun",
-
 		"Maelor": "Maelor",
-
 		"Leomund": "Leomund",
-
 		"Hirael": "Hirael",
-
 		"Gwentor": "Gwentor",
-
 		"Greum": "Greum",
-
 		"Gearroid": "Gearroid",
-
 		"Fizban": "Fizban",
-
 		"Ningauble": "Ningauble",
-
 		"Seonag": "Seonag",
-
 		"Sargon": "Sargon",
-
 		"Merlyn": "Merlyn",
-
 		"Magius": "Magius",
-
 		"Berwyn": "Berwyn",
-
 		"Arwyn": "Arwyn",
-
 		"Alasdair": "Alasdair",
-
 		"Tagar": "Tagar",
-
 		"Abram": "Abram",
-
 		"Xanadu": "Xanadu"
-
 	},
-
 	"MechanicNames": {
-
 		"Shayna": "Shayna",
-
 		"Korrie": "Korrie",
-
 		"Ginger": "Ginger",
-
 		"Brooke": "Brooke",
-
 		"Jenny": "Jenny",
-
 		"Autumn": "Autumn",
-
 		"Nancy": "Nancy",
-
 		"Ella": "Ella",
-
 		"Kayla": "Kayla",
-
 		"Selah": "Selah",
-
 		"Sophia": "Sophia",
-
 		"Marshanna": "Marshanna",
-
 		"Lauren": "Lauren",
-
 		"Trisha": "Trisha",
-
 		"Shirlena": "Shirlena",
-
 		"Sheena": "Sheena",
-
 		"Ellen": "Ellen",
-
 		"Amy": "Amy",
-
 		"Dawn": "Dawn",
-
 		"Susana": "Susana",
-
 		"Meredith": "Meredith",
-
 		"Selene": "Selene",
-
 		"Terra": "Terra",
-
 		"Sally": "Sally"
-
 	},
-
 	"TruffleNames": {
-
 		"Reishi": "Reishi",
-
 		"Maitake": "Maitake",
-
 		"Chanterelle": "Chanterelle",
-
 		"Porcini": "Porcini",
-
 		"Shimeji": "Shimeji",
-
 		"Amanita": "Amanita",
-
 		"Muscaria": "Muscaria",
-
 		"Agaric": "Agaric",
-
 		"Cremini": "Cremini",
-
 		"Morel": "Morel",
-
 		"Enoki": "Enoki",
-
 		"Shiitake": "Shiitake",
-
 		"Leinspores": "Leinspores"
-
 	},
-
 	"SteampunkerNames": {
-
 		"Whitney": "Whitney",
-
 		"Verity": "Verity",
-
 		"Ada": "Ada",
-
 		"Cornelia": "Cornelia",
-
 		"Lydia": "Lydia",
-
 		"Leila": "Leila",
-
 		"Minerva": "Minerva",
-
 		"Emeline": "Emeline",
-
 		"Cynthia": "Cynthia",
-
 		"Fidelia": "Fidelia",
-
 		"Lilly": "Lilly",
-
 		"Phoebe": "Phoebe",
-
 		"Zylphia": "Zylphia",
-
 		"Zelda": "Zelda",
-
 		"Selina": "Selina",
-
 		"Hope": "Hope",
-
 		"Isabella": "Isabella",
-
 		"Judith": "Judith",
-
 		"Savannah": "Savannah",
-
 		"Vivian": "Vivian"
-
 	},
-
 	"DyeTraderNames": {
-
 		"Abdosir": "Abdosir",
-
 		"Akbar": "Akbar",
-
 		"Bodashtart": "Bodashtart",
-
 		"Danel": "Danel",
-
 		"Hanno": "Hanno",
-
 		"Hiram": "Hiram",
-
 		"Kanmi": "Kanmi",
-
 		"Philosir": "Philosir",
-
 		"Tabnit": "Tabnit",
-
 		"Yutpan": "Yutpan",
-
 		"Ahirom": "Ahirom",
-
 		"Batnoam": "Batnoam",
-
 		"Sikarbaal": "Sikarbaal",
-
 		"Hannibal": "Hannibal",
-
 		"Yehomilk": "Yehomilk",
-
 		"Ahinadab": "Ahinadab"
-
 	},
-
 	"PartyGirlNames": {
-
 		"Candy": "Candy",
-
 		"Isis": "Isis",
-
 		"Trixy": "Trixy",
-
 		"Destiny": "Destiny",
-
 		"Lexus": "Lexus",
-
 		"Bambi": "Bambi",
-
 		"Bailey": "Bailey",
-
 		"Glitter": "Glitter",
-
 		"Sparkle": "Sparkle",
-
 		"Paris": "Paris",
-
 		"Dazzle": "Dazzle",
-
 		"Fantasy": "Fantasy",
-
 		"Bunny": "Bunny",
-
 		"Sugar": "Sugar",
-
 		"Fantasia": "Fantasia",
-
 		"Star": "Star",
-
 		"Cherry": "Cherry",
-
 		"Amanda": "Amanda"
-
 	},
-
 	"CyborgNames": {
-
 		"Alpha": "Alpha",
-
 		"Beta": "Beta",
-
 		"Delta": "Delta",
-
 		"Omega": "Omega",
-
 		"Gamma": "Gamma",
-
 		"Theta": "Theta",
-
 		"Kappa": "Kappa",
-
 		"Omicron": "Omicron",
-
 		"Sigma": "Sigma",
-
 		"Upsilon": "Upsilon",
-
 		"Zeta": "Zeta",
-
 		"Lambda": "Lambda",
-
 		"Nu": "Nu",
-
 		"Ci": "Ci",
-
 		"Rho": "Rho",
-
 		"Phi": "Phi",
-
 		"Fender": "Fender",
-
 		"T-3E0": "T-3E0",
-
 		"Niner-7": "Niner-7",
-
 		"A.N.D.Y.": "A.N.D.Y.",
-
 		"Syn-X": "Syn-X",
-
 		"Mu": "Mu",
-
 		"Raynbro": "Raynbro"
-
 	},
-
 	"PainterNames": {
-
 		"Marco": "Marco",
-
 		"Guido": "Guido",
-
 		"Enzo": "Enzo",
-
 		"Martino": "Martino",
-
 		"Mauro": "Mauro",
-
 		"Lorenzo": "Lorenzo",
-
 		"Ludo": "Ludo",
-
 		"Luciano": "Luciano",
-
 		"Carlo": "Carlo",
-
 		"Bruno": "Bruno",
-
 		"Mario": "Mario",
-
 		"Leonardo": "Leonardo",
-
 		"Raphael": "Raphael",
-
 		"Luigi": "Luigi",
-
 		"Luca": "Luca",
-
 		"Darren": "Darren",
-
 		"Esreadel": "Esreadel",
-
 		"Stefano": "Stefano",
-
 		"Jim": "Jim"
-
 	},
-
 	"WitchDoctorNames": {
-
 		"Abibe": "Abibe",
-
 		"Jamundi": "Jamundi",
-
 		"U'wa": "U'wa",
-
 		"Tairona": "Tairona",
-
 		"Xirigua": "Xirigua",
-
 		"Zop'a": "Zop'a",
-
 		"Opuni": "Opuni",
-
 		"Kogi-ghi": "Kogi-ghi",
-
 		"Konah": "Konah",
-
 		"Gboto": "Gboto"
-
 	},
-
 	"PirateNames": {
-
 		"David": "David",
-
 		"Red Beard": "Red Beard",
-
 		"Jack": "Jack",
-
 		"Black Beard": "Black Beard",
-
 		"Captain Morgan": "Captain Morgan",
-
 		"Wet Beard": "Wet Beard",
-
 		"James T. Beard": "James T. Beard",
-
 		"Gunpowder Garry": "Gunpowder Garry",
-
 		"Captain Stoney Dirt": "Captain Stoney Dirt",
-
 		"Jake": "Jake",
-
 		"Captain Bullywort": "Captain Bullywort"
-
 	},
-
 	"StylistNames": {
-
 		"Bri": "Bri",
-
 		"Brianne": "Brianne",
-
 		"Flora": "Flora",
-
 		"Iris": "Iris",
-
 		"Scarlett": "Scarlett",
-
 		"Lola": "Lola",
-
 		"Hazel": "Hazel",
-
 		"Stella": "Stella",
-
 		"Pearl": "Pearl",
-
 		"Tallulah": "Tallulah",
-
 		"Ruby": "Ruby",
-
 		"Esmeralda": "Esmeralda",
-
 		"Kylie": "Kylie",
-
 		"Kati": "Kati",
-
 		"Biah": "Biah",
-
 		"Meliyah": "Meliyah",
-
 		"Petra": "Petra",
-
 		"Rox": "Rox",
-
 		"Roxanne": "Roxanne",
-
 		"Annabel": "Annabel"
-
 	},
-
 	"TravelingMerchantNames": {
-
 		"Abraham": "Abraham",
-
 		"Bohemas": "Bohemas",
-
 		"Eladon": "Eladon",
-
 		"Aphraim": "Aphraim",
-
 		"Gallius": "Gallius",
-
 		"Llewellyn": "Llewellyn",
-
 		"Riley": "Riley",
-
 		"Rawleigh": "Rawleigh",
-
 		"Shipton": "Shipton",
-
 		"Romeo": "Romeo",
-
 		"Aedan": "Aedan",
-
 		"Mercer": "Mercer",
-
 		"Willy": "Willy"
-
 	},
-
 	"AnglerNames": {
-
 		"Bobby": "Bobby",
-
 		"Sammy": "Sammy",
-
 		"Jimmy": "Jimmy",
-
 		"Danny": "Danny",
-
 		"Timmy": "Timmy",
-
 		"Simon": "Simon",
-
 		"Johnny": "Johnny",
-
 		"Billy": "Billy",
-
 		"Matty": "Matty",
-
 		"Bart": "Bart",
-
 		"Phillip": "Phillip",
-
 		"Spencer": "Spencer",
-
 		"Nathan": "Nathan",
-
 		"Grayson": "Grayson",
-
 		"Miles": "Miles",
-
 		"Charles": "Charles",
-
 		"Adam": "Adam",
-
 		"Tyler": "Tyler",
-
 		"Jey": "Jey",
-
 		"Ivan": "Ivan",
-
 		"Izzy": "Izzy"
-
 	},
-
 	"SkeletonMerchantNames": {
-
 		"Skellington": "Skellington",
-
 		"Bones McGee": "Bones McGee",
-
 		"Gloomy Mays": "Gloomy Mays",
-
 		"Jack Sellington": "Jack Sellington",
-
 		"Billy Marrows": "Billy Marrows",
-
 		"Tom": "Tom",
-
 		"Rattles Magoo": "Rattles Magoo",
-
 		"Mandible Calavera": "Mandible Calavera",
-
 		"Mika": "Mika",
-
 		"No-Eyed Wiley": "No-Eyed Wiley",
-
 		"Victor": "Victor"
-
 	},
-
 	"TaxCollectorNames": {
-
 		"McKinly": "McKinly",
-
 		"Millard": "Millard",
-
 		"Fillmore": "Fillmore",
-
 		"Rutherford": "Rutherford",
-
-		"Chester": "切斯特",
-
+		"Chester": "Chester",
 		"Grover": "Grover",
-
 		"Cleveland": "Cleveland",
-
 		"Theodore": "Theodore",
-
 		"Herbert": "Herbert",
-
 		"Warren": "Warren",
-
 		"Lyndon": "Lyndon",
-
 		"Ronald": "Ronald",
-
 		"Harrison": "Harrison",
-
 		"Woodrow": "Woodrow",
-
 		"Tweed": "Tweed",
-
 		"Blanton": "Blanton",
-
 		"Dwyer": "Dwyer",
-
 		"Carroll": "Carroll",
-
 		"Agnew": "Agnew"
-
 	},
 	"BartenderNames": {
 		"Name_1": "Ted",
@@ -1069,1030 +564,565 @@
 		"Name_18": "Lizzy",
 		"Name_19": "Daphne",
 		"Name_20": "Ellen",
-		"Name_21": "女妖"
+		"Name_21": "Lilith"
 	},
 	"PrincessNames": {
 		"Ai": "Ai",
-
 		"Hime": "Hime",
-
 		"Emilia": "Emilia",
-
 		"Alice": "Alice",
-
 		"Belle": "Belle",
-
 		"Sophia": "Sophia",
-
 		"Hikari": "Hikari",
-
 		"Faye": "Faye",
-
 		"Christina": "Christina",
-
 		"Flora": "Flora",
-
 		"Liselotte": "Liselotte",
-
 		"Aria": "Aria",
-
 		"Yuuki": "Yuuki",
-
 		"Theresa": "Theresa",
-
 		"Elitia": "Elitia",
-
 		"Lucia": "Lucia",
-
 		"Ariel": "Ariel",
-
 		"Momo": "Momo",
-
 		"Charlotte": "Charlotte",
-
-		"Tiara": "头冠",
-
+		"Tiara": "Tiara",
 		"Yorai": "Yorai",
-
 		"Rosetta": "Rosetta"
 	},
 	"CatNames_Siamese": {
 		"Zen": "Zen",
-
 		"Callie": "Callie",
-
 		"Rainha": "Rainha",
-
 		"Nust": "Nust",
-
 		"Bandit": "Bandit",
-
 		"Goliath": "Goliath",
-
 		"Valerie": "Valerie",
-
 		"Socks": "Socks",
-
 		"Iris": "Iris",
-
 		"Sekhmet": "Sekhmet",
-
 		"Cleo": "Cleo",
-
 		"Sappho": "Sappho"
 	},
 	"CatNames_Black": {
 		"Luna": "Luna",
-
 		"Figment": "Figment",
-
 		"Ember": "Ember",
-
 		"Damien": "Damien",
-
 		"Snowball": "Snowball",
-
 		"Night": "Night",
-
 		"Misu": "Misu",
-
 		"Magic": "Magic",
-
 		"Tonic": "Tonic",
-
 		"Violet": "Violet",
-
 		"Jaspers": "Jaspers",
-
 		"Gargoyle": "Gargoyle",
-
 		"Lilith": "Lilith",
-
 		"Salem": "Salem",
-
 		"Rascal": "Rascal",
-
 		"Bella": "Bella",
-
 		"Odin": "Odin",
-
 		"Jiji": "Jiji",
-
 		"Morgan": "Morgan",
-
 		"Arbus": "Arbus",
-
 		"Max": "Max",
-
 		"George": "George",
 		"Esper": "Esper"
 	},
 	"CatNames_OrangeTabby": {
 		"Linkle": "Linkle",
-
 		"Remy": "Remy",
-
 		"Lux": "Lux",
-
 		"Sunny": "Sunny",
-
 		"Tigger": "Tigger",
-
 		"Callie": "Callie",
-
 		"Sassy": "Sassy",
-
 		"Bob": "Bob",
-
 		"Leo": "Leo",
-
 		"Tiger": "Tiger",
-
 		"Caramel": "Caramel",
-
 		"Tony": "Tony",
-
 		"Garfield": "Garfield",
-
 		"Hobbes": "Hobbes",
-
 		"Charlie": "Charlie",
-
 		"Rascal": "Rascal",
-
 		"Critter": "Critter",
-
 		"Adol": "Adol"
 	},
 	"CatNames_RussianBlue": {
 		"Alexi": "Alexi",
-
 		"Ruby": "Ruby",
-
 		"Bubbles": "Bubbles",
-
 		"Lexi": "Lexi",
-
 		"Prissy": "Prissy",
-
 		"Valery": "Valery",
-
 		"Lucy": "Lucy",
-
 		"Pete": "Pete",
-
 		"Jocelyn": "Jocelyn",
-
 		"Light": "Light",
-
 		"Lily": "Lily",
-
-		"Starlight": "星光",
-
-		"Cobalt": "钴",
-
+		"Starlight": "Starlight",
+		"Cobalt": "Cobalt",
 		"Tilly": "Tilly",
-
 		"Rion": "Rion",
-
 		"Momo": "Momo",
 		"Tarzan": "Tarzan"
 	},
 	"CatNames_Silver": {
 		"Roo": "Roo",
-
 		"Blaze": "Blaze",
-
 		"Rebus": "Rebus",
-
 		"Polo": "Polo",
-
 		"Kelly": "Kelly",
-
 		"Kiva": "Kiva",
-
 		"Sooty": "Sooty",
-
 		"By-Tor": "By-Tor",
-
 		"Merlin": "Merlin",
-
 		"Trudy": "Trudy",
-
 		"Nana": "Nana",
-
 		"Ange": "Ange",
-
 		"Kanako": "Kanako",
-
 		"Freya": "Freya",
-
-		"Cloud": "云",
-
+		"Cloud": "Cloud",
 		"Cutie": "Cutie",
-
 		"Renne": "Renne",
 		"Miette": "Miette",
 		"Tula": "Tula"
 	},
 	"CatNames_White": {
-		"Misty": "有雾的",
-
-		"Storm": "暴风雨",
-
+		"Misty": "Misty",
+		"Storm": "Storm",
 		"Angel": "Angel",
-
 		"Vincent": "Vincent",
-
 		"MrCat": "Mr. Cat",
-
 		"Holly": "Holly",
-
 		"Sam": "Sam",
-
 		"Rory": "Rory",
-
 		"Ichibi": "Ichibi",
-
 		"Belle": "Belle",
-
 		"Yuki": "Yuki",
-
 		"Ater": "Ater",
-
 		"Snowdrop": "Snowdrop",
-
 		"Snowball": "Snowball",
-
 		"Reah": "Reah",
 		"Gemma": "Gemma"
 	},
 	"DogNames_Labrador": {
 		"Penny": "Penny",
-
 		"Pebbles": "Pebbles",
-
 		"Puppy": "Puppy",
-
 		"Monroe": "Monroe",
-
 		"Kittie": "Kittie",
-
 		"Buddy": "Buddy",
-
 		"Charlie": "Charlie",
-
 		"Trulte": "Trulte",
-
 		"Daisy": "Daisy",
-
 		"Calvin": "Calvin",
-
 		"Willow": "Willow",
-
 		"Arthur": "Arthur",
-
 		"John": "John",
-
 		"Bitsy": "Bitsy",
-
 		"Mike": "Mike",
-
 		"Sparky": "Sparky",
-
-		"Lucky": "幸运"
+		"Lucky": "Lucky"
 	},
 	"DogNames_PitBull": {
 		"Max": "Max",
-
 		"Dexter": "Dexter",
-
 		"Chomps": "Chomps",
-
 		"Bubba": "Bubba",
-
 		"Sampson": "Sampson",
-
 		"Spike": "Spike",
-
 		"Ginger": "Ginger",
-
 		"Kona": "Kona",
-
 		"Keith": "Keith",
-
 		"Jazzy": "Jazzy",
-
 		"Rex": "Rex",
-
 		"Toshiro": "Toshiro",
-
 		"Buster": "Buster",
-
 		"Doug": "Doug"
 	},
 
 	"DogNames_Beagle": {
 		"Zelda": "Zelda",
-
 		"Navi": "Navi",
-
 		"Ali": "Ali",
-
 		"Fred": "Fred",
-
 		"Roxie": "Roxie",
-
 		"Milo": "Milo",
-
-		"Copper": "铜",
-
+		"Copper": "Copper",
 		"Darwin": "Darwin",
-
 		"Lieselotte": "Lieselotte",
-
 		"Wilma": "Wilma",
-
 		"Odie": "Odie",
-
 		"Feena": "Feena",
 		"Pete": "Pete"
 	},
 	"DogNames_Corgi": {
 		"Bella": "Bella",
-
 		"Ellie": "Ellie",
-
 		"Baxter": "Baxter",
-
 		"Oliver": "Oliver",
-
 		"Maya": "Maya",
-
 		"Titus": "Titus",
-
 		"Shino": "Shino",
-
 		"Elizabeth": "Elizabeth",
-
 		"Victoria": "Victoria",
-
 		"Yona": "Yona",
-
 		"Ammy": "Ammy",
-
 		"Charles": "Charles",
-
 		"Estelle": "Estelle",
-
 		"Astro": "Astro"
 	},
 	"DogNames_Dalmation": {
 		"Spot": "Spot",
-
 		"Suzy": "Suzy",
-
-		"Lucky": "幸运",
-
+		"Lucky": "Lucky",
 		"Marshall": "Marshall",
-
 		"Dotty": "Dotty",
-
 		"Pongo": "Pongo",
-
-		"Sapphire": "蓝玉",
-
+		"Sapphire": "Sapphire",
 		"Splat": "Splat",
-
 		"Aurora": "Aurora",
-
 		"Akane": "Akane",
-
 		"Firebug": "Firebug",
-
 		"Polka": "Polka",
-
 		"Mizore": "Mizore"
 	},
 	"DogNames_Husky": {
 		"Rosalie": "Rosalie",
-
 		"Balto": "Balto",
-
 		"Miska": "Miska",
-
-		"Sky": "天空",
-
+		"Sky": "Sky",
 		"Sasha": "Sasha",
-
 		"Zoey": "Zoey",
-
 		"Toya": "Toya",
-
 		"Snowdog": "Snowdog",
-
 		"Kayla": "Kayla",
-
 		"Hachiko": "Hachiko",
-
 		"Indiana": "Indiana",
-
 		"Sven": "Sven",
-
-		"Bullet": "子弹",
-
+		"Bullet": "Bullet",
 		"Comet": "Comet",
-
 		"Ingrid": "Ingrid",
-
 		"Dogi": "Dogi"
 	},
 	"BunnyNames_White": {
 		"Bunnicula": "Bunnicula",
-
 		"Ben": "Ben",
-
 		"Roger": "Roger",
-
 		"Skippy": "Skippy",
-
 		"Donnie": "Donnie",
-
 		"Alice": "Alice",
-
 		"Presto": "Presto",
-
 		"Shion": "Shion",
-
 		"Lisette": "Lisette",
-
 		"Lily": "Lily",
-
 		"Inaba": "Inaba",
-
 		"Shirayuki": "Shirayuki",
-
 		"Lilia": "Lilia",
-		"Ears": "耳朵"
+		"Ears": "Ears"
 	},
 	"BunnyNames_Angora": {
 		"Breadbuns": "Breadbuns",
-
 		"Loaf": "Loaf",
-
 		"Babs": "Babs",
-
 		"BigB": "Big B",
-
 		"Greg": "Greg",
-
-		"Fluffy": "蓬松的",
-
+		"Fluffy": "Fluffy",
 		"Pom": "Pom",
-
 		"Muffin": "Muffin",
-
 		"Maximus": "Maximus",
-
 		"Donald": "Donald"
 	},
 	"BunnyNames_Dutch": {
 		"Oreo": "Oreo",
-
 		"Olaf": "Olaf",
-
 		"Domino": "Domino",
-
 		"Oz": "Oz",
-
 		"Yin": "Yin",
-
 		"Yang": "Yang",
-
 		"Pow": "Pow",
-
 		"Kaguya": "Kaguya",
-
 		"Mono": "Mono",
-
 		"Panda": "Panda",
-
 		"Orin": "Orin"
 	},
 	"BunnyNames_Flemish": {
 		"Thumper": "Thumper",
-
 		"Cinnabun": "Cinnabun",
-
 		"Peter": "Peter",
-
 		"Hazel": "Hazel",
-
 		"Loki": "Loki",
-
-		"Sunflower": "向日葵",
-
+		"Sunflower": "Sunflower",
 		"Toby": "Toby",
-
 		"Daisy": "Daisy",
-
 		"Dusty": "Dusty",
-
 		"Jazz": "Jazz",
-
 		"Russell": "Russell",
-
 		"Honeycomb": "Honeycomb"
 	},
 	"BunnyNames_Lop": {
 		"Bunbun": "Bunbun",
-
 		"Lola": "Lola",
-
 		"Max": "Max",
-
 		"Tyler": "Tyler",
-
 		"Flops": "Flops",
-
 		"Flappie": "Flappie",
-
 		"Caerbannog": "Caerbannog",
-
 		"Mochi": "Mochi",
-
 		"Dandy": "Dandy",
-
 		"Puff": "Puff",
-
 		"Youp": "Youp",
-
 		"Boof": "Boof",
-
 		"Veidra": "Veidra"
 	},
 	"BunnyNames_Silver": {
 		"Bugz": "Bugz",
-
 		"Buster": "Buster",
-
 		"Silvine": "Silvine",
-
 		"Bunstar": "Bunstar",
-
 		"Lord": "Lord",
-
 		"Bunnykins": "Bunnykins",
-
 		"Crystal": "Crystal",
-
 		"Chrome": "Chrome",
-
 		"Vincent": "Vincent",
-
 		"Zach": "Zach",
-
 		"Joshua": "Joshua",
-
 		"Dustbunny": "Dustbunny",
-
 		"Dusty": "Dusty"
 	},
 
 	"SlimeNames_Blue": {
 		"Steve": "Steve",
-
 		"Seymour": "Seymour",
-
 		"Simon": "Simon",
-
 		"Sheldon": "Sheldon",
-
 		"Sam": "Sam",
-
 		"Samson": "Samson",
-
 		"Sid": "Sid",
-
 		"Sigvard": "Sigvard",
-
 		"Stein": "Stein",
-
 		"Sean": "Sean",
-
 		"Samwise": "Samwise",
-
 		"Snoot": "Snoot",
-
 		"Swotty": "Swotty",
-
 		"Stuart": "Stuart",
-
 		"Stratford": "Stratford",
-
 		"Saliva": "Saliva",
-
 		"Sherman": "Sherman",
-
 		"Stiltskin": "Stiltskin",
-
 		"Shibboleet": "Shibboleet",
-
 		"Sine": "Sine",
-
 		"Spock": "Spock",
-
 		"Smarty": "Smarty",
-
 		"Sonic": "Sonic",
-
 		"Sputnik": "Sputnik",
-
 		"Smoof": "Smoof",
-
 		"Spetch": "Spetch",
-
 		"Stevenson": "Stevenson"
 	},
 	"SlimeNames_Green": {
 		"Sylvester": "Sylvester",
-
-		"Slimer": "恶翅史莱姆",
-
+		"Slimer": "Slimer",
 		"Seth": "Seth",
-
 		"Shane": "Shane",
-
 		"Sully": "Sully",
-
 		"Scooter": "Scooter",
-
 		"Scotty": "Scotty",
-
-		"Spike": "尖刺",
-
+		"Spike": "Spike",
 		"Slachi": "Slachi",
-
 		"Spinach": "Spinach",
-
 		"Slick": "Slick",
-
 		"Slippy": "Slippy",
-
 		"Speedy": "Speedy",
-
 		"Slurm": "Slurm",
-
 		"School": "School",
-
 		"Swag": "Swag",
-
 		"SwiggitySwooty": "Swiggity Swooty",
-
 		"Slackin": "Slackin",
-
-		"Switch": "开关",
-
+		"Switch": "Switch",
 		"Sport": "Sport",
-
 		"Squash": "Squash",
-
 		"Skeeter": "Skeeter",
-
 		"Scutiger": "Scutiger",
-
 		"Softball": "Softball",
-
 		"Spazzy": "Spazzy"
 	},
 	"SlimeNames_Old": {
 		"Stooge": "Stooge",
-
 		"SirSlushington": "Sir Slushington III",
-
 		"Santiago": "Santiago",
-
 		"Sebastian": "Sebastian",
-
 		"Samuel": "Samuel",
-
 		"Seamus": "Seamus",
-
-		"Sage": "睿智的",
-
+		"Sage": "Sage",
 		"Sinclair": "Sinclair",
-
 		"Stanford": "Stanford",
-
 		"Septimus": "Septimus",
-
-		"Stinky": "恶臭",
-
+		"Stinky": "Stinky",
 		"Spiffy": "Spiffy",
-
 		"Spruce": "Spruce",
-
 		"Swanky": "Swanky",
-
 		"Soggy": "Soggy",
-
 		"Scooby": "Scooby",
-
 		"Sigmund": "Sigmund",
-
 		"Smithers": "Smithers",
-
 		"Sassafras": "Sassafras",
-
 		"Slumbledore": "Slumbledore",
-
 		"Slimdalf": "Slimdalf",
-
 		"Schartzmugel": "Schartzmugel",
-
 		"Scion": "Scion",
-
 		"Scrooge": "Scrooge",
-
-		"Stonks": "猛烈炮轰",
-
+		"Stonks": "Stonks",
 		"Swanson": "Swanson",
-
 		"Spinkerton": "Spinkerton"
 	},
 	"SlimeNames_Purple": {
 		"Stewy": "Stewy",
-
 		"Sue": "Sue",
-
 		"Spencer": "Spencer",
-
 		"Sidney": "Sidney",
-
 		"Stefan": "Stefan",
-
 		"Sonnie": "Sonnie",
-
 		"Sacco": "Sacco",
-
-		"Sunset": "日落",
-
+		"Sunset": "Sunset",
 		"Snafu": "Snafu",
-
 		"Stumble": "Stumble",
-
-		"Spaghetti": "意大利面",
-
+		"Spaghetti": "Spaghetti",
 		"Shoggy": "Shoggy",
-
 		"Slimefors": "Slimefors",
-
 		"Shirley": "Shirley",
-
 		"Sara": "Sara",
-
 		"Sharon": "Sharon",
-
 		"Sludge": "Sludge",
-
 		"Snuggle": "Snuggle",
-
 		"Sloppy": "Sloppy",
-
 		"Slimeora": "Slimeora",
-
 		"Sylph": "Sylph",
-
 		"Spew": "Spew",
-
 		"Shemp": "Shemp",
-
 		"Spanky": "Spanky",
-
 		"Spork": "Spork"
 	},
 	"SlimeNames_Rainbow": {
 		"Sylvia": "Sylvia",
-
 		"Skye": "Skye",
-
 		"Stephanie": "Stephanie",
-
 		"Sophia": "Sophia",
-
 		"Shanna": "Shanna",
-
 		"Serenity": "Serenity",
-
 		"Shian": "Shian",
-
 		"Slimestar": "Slimestar",
-
 		"Shimmer": "Shimmer",
-
 		"Surai": "Surai",
-
 		"Stella": "Stella",
-
 		"Sasha": "Sasha",
-
 		"Sweety": "Sweety",
-
 		"Sparkle": "Sparkle",
-
-		"Sapphire": "蓝玉",
-
+		"Sapphire": "Sapphire",
 		"Seraph": "Seraph",
-
 		"Starry": "Starry",
-
 		"Sprinkes": "Sprinkes",
-
 		"Sherbet": "Sherbet",
-
 		"Sugar": "Sugar",
-
 		"Stardew": "Stardew",
-
 		"Sheena": "Sheena",
-
 		"Sveta": "Sveta",
-
 		"Shampoo": "Shampoo",
-
 		"Sproink": "Sproink",
-
 		"Secreta": "Secreta",
-
 		"Sponsa": "Sponsa",
-
 		"Skyler": "Skyler",
-
 		"Sorai": "Sorai"
 	},
 	"SlimeNames_Red": {
-		"Sparky": "斯派基",
-
+		"Sparky": "Sparky",
 		"Sourpuss": "Sourpuss",
-
 		"Steamer": "Steamer",
-
 		"Sizzle": "Sizzle",
-
 		"Shaka": "Shaka",
-
 		"SlipperySal": "Slippery Sal",
-
 		"Sirius": "Sirius",
-
 		"Sven": "Sven",
-
 		"Sly": "Sly",
-
 		"Smeagol": "Smeagol",
-
 		"Scuff": "Scuff",
-
 		"Shifty": "Shifty",
-
 		"Sassy": "Sassy",
-
 		"Scorpius": "Scorpius",
-
 		"Snotty": "Snotty",
-
-		"Sleepy": "困倦的",
-
+		"Sleepy": "Sleepy",
 		"Stressball": "Stressball",
-
 		"Slurpee": "Slurpee",
-
 		"Squeezo": "Squeezo",
-
 		"Sapo": "Sapo",
-
 		"Snart": "Snart",
-
 		"Skiprat": "Skiprat",
-
 		"Sully": "Sully",
-
 		"Sharkey": "Sharkey",
-
 		"Scarface": "Scarface",
-
 		"Slickfather": "Slickfather",
-
 		"Slimeballa": "Slimeballa"
 	},
 	"SlimeNames_Yellow": {
-		"Sandy": "砂砾",
-
+		"Sandy": "Sandy",
 		"Saoirse": "Saoirse",
-
 		"Selena": "Selena",
-
 		"Sienna": "Sienna",
-
 		"Samara": "Samara",
-
 		"Simone": "Simone",
-
 		"Siobhan": "Siobhan",
-
 		"Sabrina": "Sabrina",
-
 		"Sunny": "Sunny",
-
 		"Savannah": "Savannah",
-
 		"Spirit": "Spirit",
-
 		"Sinead": "Sinead",
-
 		"Saraid": "Saraid",
-
 		"Siofra": "Siofra",
-
 		"Sorcha": "Sorcha",
-
 		"Salem": "Salem",
-
 		"Soleil": "Soleil",
-
 		"Salvo": "Salvo",
-
 		"Sahara": "Sahara",
-
 		"Shanoa": "Shanoa",
-
 		"Sybil": "Sybil",
-
 		"Salome": "Salome",
-
 		"Summer": "Summer",
-
 		"Swirl": "Swirl",
-
 		"Saga": "Saga",
-
 		"Silva": "Silva",
-
 		"Striga": "Striga"
 	},
 	"SlimeNames_Copper": {
 		"Solomon": "Solomon",
-
 		"ShortswordSaxon": "Shortsword Saxon",
-
 		"Steele": "Steele",
-
 		"Sigfried": "Sigfried",
-
 		"Sterling": "Sterling",
-
 		"SenioreSlash": "Seniore Slash",
-
 		"Stabby": "Stabby",
-
 		"Spunky": "Spunky",
-
 		"Sharpie": "Sharpie",
-
 		"Scout": "Scout",
-
 		"Scrappy": "Scrappy",
-
 		"Slade": "Slade",
-
 		"Samsara": "Samsara",
-
 		"SixSwingSerge": "Six-Swing Serge",
-
 		"Scorch": "Scorch",
-
 		"Sabin": "Sabin",
-
 		"Stryker": "Stryker",
-
-		"Slayer": "杀手",
-
+		"Slayer": "Slayer",
 		"Slival": "Slival",
-
 		"Sting": "Sting",
-
 		"Sabaton": "Sabaton",
-
 		"SemperSerus": "Semper Serus",
-
 		"Scrimshank": "Scrimshank",
-
 		"Scavager": "Scavager",
-
 		"Selmy": "Selmy",
-
 		"Shortie": "Shortie"
 	},
+
 
 
 	"AnglerQuestChatter": {
@@ -2332,7 +1362,7 @@
 		"Quest_Dirtfish": "正当我在收线钓起一条大鱼时，这个僵尸从森林湖中蹦出来，不仅很搞笑还会说话，然后开始大说特说这种用土做成的“凶残”的鱼！他说，这鱼能闷死十个像他这个块头的小伙子……我要得到它！马上！\n\n（抓捕位置：地表和地下）",
 		"Quest_DynamiteFish": "爆破专家在森林里的湖中弄丢了一捆雷管，一直很着急。他有那么多炸药，丢的那捆炸药有这么重要吗？显然，因为这捆炸药长出了鳍，开始游走了！我不知道他做炸药的材料是哪儿弄的，但那一捆肯定已经走火入魔了！钓回来给我，我一直想要一条自杀式炸弹鱼！不要问为什么……\n\n（抓捕位置：地表）",
 		"Quest_EaterofPlankton": "你肯定不敢去找浮游噬鱼。它是由世界吞噬怪的残块变异而来的腐化鱼！把它抓来给我，证明你不是胆小鬼！\n\n（抓捕位置：腐化之地）",
-		"Quest_FallenStarfish": "我喜欢收集天上落下来的亮黄色星星！如果落在某个人的脑袋上，我会更喜欢。 但是..但是..我最喜欢的还是星星落在森林湖中变成鱼！那条鱼简直酷毙了，而你又这么牛，快去抓来给我！\n\n（抓捕位置：天湖）",
+		"Quest_FallenStarfish": "我喜欢收集天上落下来的亮黄色星星！如果落在某个人的脑袋上，我会更喜欢。 但是..但是..我最喜欢的还是星星落在森林湖中变成鱼！那条鱼简直酷毙了，而你又这么牛，快去抓来给我！\n\n（抓捕位置：天湖和地表）",
 		"Quest_TheFishofCthulu": "显然，恶魔眼有时是两栖的。它们不飞，它们游！我想知道有人在浴缸中发现一条时会有怎样的表情！它们总是在同一个区域晃悠。所以，你要钓一条给我！\n\n（抓捕位置：天湖和地表）",
 		"Quest_Fishotron": "我不知道哪种情况更惨：骷髅鱼还是长了手的骷髅鱼。这条深藏在洞穴中的骷髅王鱼真把我吓了一跳！我认为它也是被掌控的，和通过地牢掌控那个老人是同一个恶魔！我给你两个胆，你去把它抓来给我！\n\n（抓捕位置：洞穴）",
 		"Quest_Harpyfish": "我正要在山上的湖畔睡觉时，这条鱼向我俯冲下来。它在飞！它长着一张女人的脸，还有羽毛！我想我叫得比她还大声！嘿，你去，她把我吓成那样，总得付出代价！\n\n（抓捕位置：天湖和地表）",
@@ -2387,23 +1417,14 @@
 	},
 	"AnglerChatter": {
 		"Chatter_1": "{Bartender}为什么一点麦芽酒都不卖给我？我想尝一尝！真是个满腹牢骚的人！",
-
 		"Chatter_2": "什……么？！难道你没看见我在收钓鱼线吗？？",
-
 		"Chatter_3": "我的鱼够了！我现在不需要你的帮助！",
-
 		"Chatter_4": "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！ ",
-
 		"Chatter_5": "嘿！当心！我设了许多陷阱，用来实施史上最大的恶作剧！没人会发觉！你胆敢告诉他人！",
-
 		"Chatter_6": "听听小孩的忠告吧，永远不要用舌头碰冰块！等一下，就当我没说，我就想看你这样做！",
-
 		"Chatter_7": "听说过会叫的鱼吗？！我没听说过，只是想知道你听说过没！",
-
 		"Chatter_8": "{WorldName}到处都是各种稀奇古怪的鱼！",
-
 		"Chatter_9": "太可气了！有些鱼可能在我出生之前就灭绝了，真不公平！",
-
 		"Chatter_10": "我没爹没娘，但我有很多鱼！这也差不多了！"
 	},
 	"GoblinTinkererChatter": {
@@ -2684,7 +1705,6 @@
 		"Rain1": "没错！下雨了！现在你要变成钓鱼的落汤鸡了！",
 		"Rain2": "我总是在雨中钓鱼！所以我才会戴这顶帽子！",
 		"BloodMoonFishing1": "你知道吗，在血月期间，水中潜伏着超级可怕的东西！你应该去试试！我在这里帮你把风！",
-
 		"BloodMoonFishing2": "你应该在水面都染红的时候去钓鱼！死也值得去！"
 	},
 	"TaxCollectorSpecialText": {
@@ -2951,7 +1971,7 @@
 		"HateNPC": "我讨厌{NPCName}，怎么能不长头发呢？",
 		"LikeNPC_Princess": "我甚至都不敢碰{NPCName}的头发，简直太完美了！"
 	},
-"TownNPCMood_Demolitionist": {
+	"TownNPCMood_Demolitionist": {
 		"Content": "好吧，我今天不想爆破！",
 		"NoHome": "我没有地方可住，我把我最后的住处给炸了吗？",
 		"FarFromHome": "我需要更多炸弹，我想我把它忘在家里了。",
@@ -3242,31 +2262,18 @@
 	},
 	"TownNPCMood_BestiaryGirlTransformed": {
         "Content": "啊……感觉还好。",
-
         "NoHome": "嗯！要回家！马上！",
-
         "FarFromHome": "噢……家！太远！无法追踪。",
-
         "DislikeCrowded": "嗷！人。太多。怒！",
-
         "HateCrowded": "哎呀……无法。站立。拥挤！",
-
         "LoveSpace": "啊……空旷。开心。",
-
         "LikeBiome": "在{BiomeName}……好跑！好玩！好捕猎！耶！",
-
         "LoveBiome": "最爱的地方就是……{BiomeName}。高兴。",
-
         "DislikeBiome": "嗯……{BiomeName}。难闻。",
-
         "HateBiome": "啊，{BiomeName}……我讨厌。坏风景。",
-
         "LikeNPC": "{NPCName}。啊……不错。感觉。",
-
         "LoveNPC": "喜爱。强大的……{NPCName}。耶耶！",
-
         "DislikeNPC": "{NPCName}……气氛。糟糕！啊",
-
         "HateNPC": "啊！不要{NPCName}。讨厌。怒。恶心！！",
 		"LikeNPC_Princess": "{NPCName}……粉红色。棒。"
 	},
@@ -3289,54 +2296,31 @@
 		"LoveNPC_Nurse": "{NPCName}总能在我受到伤害时让我感觉好过些！",
 		"LoveNPC_Merchant": "{NPCName}总能为我提供需要的东西，而且分文不取！",
 		"LoveNPC_Dryad": "{NPCName}与大自然非常亲近，我很喜欢这一点！",
-
 		"LoveNPC_ArmsDealer": "{NPCName}的心肠非常软！",
-
 		"LoveNPC_Demolitionist": "{NPCName}真是棒极了，嘻嘻！",
-
 		"LoveNPC_Clothier": "{NPCName}有时似乎很悲伤，但他对我非常好！",
 		"LoveNPC_Wizard": "{NPCName}非常明智，我完全相信他的判断！",
-
 		"LoveNPC_GoblinTinkerer": "{NPCName}能制作出最漂亮的小玩意！",
-
 		"LoveNPC_Mechanic": "{NPCName}几乎能搞定一切，我很佩服她！",
-
 		"LoveNPC_SantaClaus": "{NPCName}特别开心，我只是想送给他一份礼物！",
-
 		"LoveNPC_Truffle": "{NPCName}是个非常有趣的家伙！",
-
 		"LoveNPC_Steampunker": "我最喜欢和{NPCName}一起喝下午茶了！",
-
 		"LoveNPC_DyeTrader": "{NPCName}总能帮我选出颜色最棒的裙子！",
-
 		"LoveNPC_PartyGirl": "{NPCName}总是派对上的核心人物！",
 		"LoveNPC_Cyborg": "{NPCName}太酷了，他似乎无所不知！",
-
 		"LoveNPC_Painter": "{NPCName}的确用他的艺术让这里变得亮丽生辉！",
-
 		"LoveNPC_WitchDoctor": "{NPCName}提供了非常独到的见解，这的确引发了我的思考！",
-
 		"LoveNPC_Pirate": "{NPCName}总是很擅长讲述精彩的海盗故事！",
-
 		"LoveNPC_Stylist": "{NPCName}提出的美发建议是最棒的，很高兴能与她交谈！",
-
 		"LoveNPC_Angler": "{NPCName}真是个好男孩，他总是提出带我去钓鱼！",
-
 		"LoveNPC_TaxCollector": "{NPCName}完全被误解了，他对我非常好！",
 		"LoveNPC_DD2Bartender": "{NPCName}来自一个完全不同的世界，真有趣！",
-
 		"LoveNPC_Golfer": "{NPCName}对高尔夫的热情激励了我！",
-
 		"LoveNPC_BestiaryGirl": "{NPCName}总是让我和她的宠物一起玩，真好！",
-
 		"LoveNPC_Princess": "{NPCName}相处起来有点让人不安，但是非常可爱！",
-
 		"LoveNPC_TownCat": "{NPCName}真的很可爱！",
-
 		"LoveNPC_TownDog": "{NPCName}真的很可爱！",
-
 		"LoveNPC_TownBunny": "{NPCName}真的很可爱！",
-
 		"LoveNPC_TownSlime": "{NPCName}真的很可爱！"
 	}
 }
