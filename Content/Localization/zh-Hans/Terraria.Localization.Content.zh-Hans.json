@@ -836,6 +836,8 @@
 		"CloudBalloon": "云气球",
 		"BlizzardBalloon": "暴雪气球",
 		"SandstormBalloon": "沙尘暴气球",
+		"CritterGuides": "小动物友谊指南",
+		"NatureGuides": "环境保护指南",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
 		"PeddlersSatchelUsed": "旅商的背包变大！"
 	},
@@ -1810,7 +1812,7 @@
 		"Yellow": "黄色的",
 		"YOLO": "逍遥的",
 		"Zany": "荒唐的",
-		"Zealous": "狂热的",
+		"Zealous": "狂热",
 		"Vanilla": "平凡的",
 		"Sus": "嫌疑的",
 		"Woke": "觉醒的",

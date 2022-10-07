@@ -836,6 +836,8 @@
 		"CloudBalloon": "Cloud Ballooon",
 		"BlizzardBalloon": "Blizzard Balloon",
 		"SandstormBalloon": "Sandstorm Balloon",
+		"CritterGuides": "Guide to Critter Companionship",
+		"NatureGuides": "Guide to Environmental Preservation",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
 		"PeddlersSatchelUsed": "The Traveling Merchant's satchel deepens!"
 	},

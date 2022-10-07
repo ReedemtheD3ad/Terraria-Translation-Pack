@@ -5637,7 +5637,10 @@
 		"SunOrnament": "Eye of the Sun",
 		"HoplitePizza": "Cheesy Pizza Poster",
 		"JimsDrone": "Kwad Racer Drone",
-		"JimsDroneVisor": "FPV Goggles"
+		"JimsDroneVisor": "FPV Goggles",
+		"DontHurtCrittersBookInactive": "Guide to Critter Companionship (Inactive)",
+		"DontHurtNatureBookInactive": "Guide to Environmental Preservation (Inactive)",
+		"DontHurtComboBookInactive": "Guide to Peaceful Coexistence (Inactive)"
 
 	},
 	"ItemTooltip": {
@@ -7452,7 +7455,7 @@
 		"KiteWanderingEye": "{$CommonItemTooltip.Kite}\n'This one can't wander too far'",
 		"KiteUnicorn": "{$CommonItemTooltip.Kite}",
 		"CritterShampoo": "Applies dye to minions",
-		"DontHurtCrittersBook": "Prevents you from hurting critters while in the inventory",
+		"DontHurtCrittersBook": "Prevents you from hurting critters while in the inventory\n<right> to deactivate effects",
 		"FairyGlowstick": "Hovers when thrown\nWorks when wet",
 		"LightningCarrot": "Summons a volt bunny",
 		"SquirrelHook": "Grapple onto trees like a real squirrel!\n'In the tree, part of the tree'",
@@ -7798,12 +7801,12 @@
 		"HiveFive": "Summons killer bees after striking your foe",
 		"ChlorophyteExtractinator": "Placing silt/slush/fossil piles into the extractinator turns them into something more useful\nPlace contaminated blocks into the extractinator to purify them\nOther items placed inside may have interesting effects",
 		"BlueEgg": "Summons a blue chicken\n'A regular blue chicken egg'",
-		"DontHurtNatureBook": "Prevents you from accidentally destroying the environment while in the inventory",
+		"DontHurtNatureBook": "Prevents you from accidentally destroying the environment while in the inventory\n<right> to deactivate effects",
 		"MinecartPowerup": "Permanently grants boosted speed and a defensive probe for minecarts\n'Free Mechanical Cart included!'",
 		"WolfMountItem": "Grants the wearer the power of the wolf",
 		"PrincessStyle": "{$PaintingArtist.Yorai}",
 		"PlacePainting": "'The Terraria Community'",
-		"DontHurtComboBook": "Prevents you from hurting critters while in the inventory\nPrevents you from accidentally destroying the environment while in the inventory",
+		"DontHurtComboBook": "Prevents you from hurting critters while in the inventory\nPrevents you from accidentally destroying the environment while in the inventory\n<right> to deactivate effects",
 		"AcornAxe": "Creates grass on dirt\nIncreases alchemy plant collection when used to gather\nPlants acorns when cutting down trees",
 		"ArtisanLoaf": "Consume to permanently increase crafting station range\n'Legendary Bread that once reminded Teddy of home'",
 		"ShadowCandle": "Nullifies the peaceful benefits of towns",
@@ -7925,6 +7928,9 @@
 		"WaffleIron": "'It's Waffle Time!'",
 		"JimsDrone": "Rotate Left/Right to steer & Press Up to accelerate\n'First rule of Flight Club, we don't talk about Flight Club'",
 		"JimsDroneVisor": "Allows wearer to see through their drone camera\n'Chonky Fishron RC Systems'",
-		"ShimmerCampfire": "Life regen is increased when near a campfire"
+		"ShimmerCampfire": "Life regen is increased when near a campfire",
+		"DontHurtCrittersBookInactive": "Prevents you from hurting critters while in the inventory\nEffects are currently inactive, <right> to reactivate",
+		"DontHurtNatureBookInactive": "Prevents you from accidentally destroying the environment while in the inventory\nEffects are currently inactive, <right> to reactivate",
+		"DontHurtComboBookInactive": "Prevents you from hurting critters while in the inventory\nPrevents you from accidentally destroying the environment while in the inventory\nEffects are currently inactive, <right> to reactivate"
 	}
 }
