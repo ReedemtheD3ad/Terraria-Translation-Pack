@@ -755,85 +755,45 @@
 		"RollingCactus": "仙人球",
 		"RollingCactusSpike": "仙人球尖刺",
 		"Terragrim": "泰拉魔刃",
-
 		"DripplerFlail": "滴滴怪致残者",
-
 		"BabyBird": "雀",
-
 		"PaperAirplaneA": "纸飞机",
-
 		"PaperAirplaneB": "纸飞机",
-
 		"ClusterRocketI": "火箭",
-
 		"ClusterGrenadeI": "榴弹",
-
 		"ClusterMineI": "感应雷",
-
 		"ClusterFragmentsI": "集束破片",
-
 		"ClusterRocketII": "火箭",
-
 		"ClusterGrenadeII": "榴弹",
-
 		"ClusterMineII": "感应雷",
-
 		"ClusterFragmentsII": "集束破片",
-
 		"WetRocket": "火箭",
-
 		"WetGrenade": "榴弹",
-
 		"WetMine": "感应雷",
-
 		"LavaRocket": "火箭",
-
 		"LavaGrenade": "榴弹",
-
 		"LavaMine": "感应雷",
-
 		"HoneyRocket": "火箭",
-
 		"HoneyGrenade": "榴弹",
-
 		"HoneyMine": "感应雷",
-
 		"MiniNukeRocketI": "火箭",
-
 		"MiniNukeGrenadeI": "榴弹",
-
 		"MiniNukeMineI": "感应雷",
-
 		"MiniNukeRocketII": "火箭",
-
 		"MiniNukeGrenadeII": "榴弹",
-
 		"MiniNukeMineII": "感应雷",
-
 		"DryRocket": "火箭",
-
 		"DryGrenade": "榴弹",
-
 		"DryMine": "感应雷",
-
 		"ClusterSnowmanRocketI": "火箭",
-
 		"ClusterSnowmanRocketII": "火箭",
-
 		"WetSnowmanRocket": "火箭",
-
 		"LavaSnowmanRocket": "火箭",
-
 		"HoneySnowmanRocket": "火箭",
-
 		"MiniNukeSnowmanRocketI": "火箭",
-
 		"MiniNukeSnowmanRocketII": "火箭",
-
 		"DrySnowmanRocket": "火箭",
-
 		"BloodShot": "血弹",
-
 		"ShellPileFalling": "贝壳堆",
 		"SharkPup": "小鲨鱼",
 		"LilHarpy": "小鸟妖",
@@ -849,11 +809,8 @@
 		"BloodNautilusShot": "血弹",
 		"BloodNautilusTears": "血泪",
 		"GladiusStab": "罗马短剑",
-
 		"BloodArrow": "血雨",
-
 		"DandelionSeed": "蒲公英种子",
-
 		"RulerStab": "标尺",
 		"DynamiteKitten": "雷管小猫",
 		"BabyWerewolf": "狼人宝宝",
@@ -867,9 +824,7 @@
 		"CombatWrench": "战斗扳手",
 		"Shroomerang": "蘑菇回旋镖",
 		"JoustingLance": "骑枪",
-
 		"ShadowJoustingLance": "暗影骑枪",
-
 		"HallowJoustingLance": "神圣骑枪",
 		"WetBomb": "湿炸弹",
 		"LavaBomb": "熔岩炸弹",
@@ -879,19 +834,12 @@
 		"RockGolemRock": "岩石",
 		"TitaniumStormShard": "钛金碎片",
 		"HallowBossLastingRainbow": "永恒彩虹",
-
 		"HallowBossRainbowStreak": "七彩矢",
-
 		"FairyQueenLance": "空灵长枪",
-
 		"FairyQueenSunDance": "太阳舞",
-
 		"QueenSlimeMinionBlueSpike": "水晶尖刺",
-
 		"QueenSlimeMinionPinkBall": "弹力凝胶",
-
 		"QueenSlimeSmash": "皇后猛击",
-
 		"QueenSlimeGelAttack": "皇家凝胶",
 		"DirtBomb": "土炸弹",
 		"DirtStickyBomb": "粘性土炸弹",
@@ -900,81 +848,53 @@
 		"FallingStarSpawner": "陨星",
 		"SantankMountRocket": "火箭",
 		"BlandWhip": "皮鞭",
-
 		"SwordWhip": "迪朗达尔",
-
 		"MaceWhip": "晨星",
-
 		"ScytheWhip": "暗黑收割",
-
 		"CoolWhip": "冷鞭",
-
-		"FireWhip": "鞭炮",	
-
+		"FireWhip": "鞭炮",
 		"ThornWhip": "荆鞭",
-
 		"ScytheWhipProj": "收割",
-
 		"CoolWhipProj": "冷鞭雪花",
-
 		"FireWhipProj": "鞭炮",
-
 		"RainbowWhip": "万花筒",
 		"Smolstar": "附魔飞刀",
 		"PiercingStarlight": "星光",
 		"FairyQueenMagicItemShot": "夜光",
-
 		"FairyQueenRangedItemShot": "暮光长枪",
 		"VolatileGelatinBall": "挥发明胶",
 		"CopperShortswordStab": "铜短剑",
-
-        "TinShortswordStab": "锡短剑",
-
-        "IronShortswordStab": "铁短剑",
-
-        "LeadShortswordStab": "铅短剑",
-
-        "SilverShortswordStab": "银短剑",
-
-        "TungstenShortswordStab": "钨短剑",
-
-        "GoldShortswordStab": "金短剑",
-
-        "PlatinumShortswordStab": "铂金短剑",
+		"TinShortswordStab": "锡短剑",
+		"IronShortswordStab": "铁短剑",
+		"LeadShortswordStab": "铅短剑",
+		"SilverShortswordStab": "银短剑",
+		"TungstenShortswordStab": "钨短剑",
+		"GoldShortswordStab": "金短剑",
+		"PlatinumShortswordStab": "铂金短剑",
 		"FinalFractal": "天顶剑",
 		"ZapinatorLaser": "冲击枪",
 		"GelBalloon": "闪耀史莱姆气球",
 		"EmpressBlade": "泰拉棱镜",
 		"Mace": "链锤",
-
 		"FlamingMace": "烈焰链锤",
 		"StardustPunch": "星尘守卫",
 		"TorchGod": "火把神",
 		"PrincessWeapon": "皇家共鸣",
-
 		"FlinxMinion": "小雪怪",
 		"DaybreakExplosion": "日耀爆炸",
 		"BoneWhip": "脊柱骨鞭",
 		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
 		"StarCannonStar": "{$ProjectileName.FallingStar}",
 		"DeerclopsIceSpike": "冰雪尖刺",
-
 		"DeerclopsRangedProjectile": "残骸",
-
 		"AbigailMinion": "阿比盖尔",
-
 		"InsanityShadowFriendly": "暗影之手",
-
 		"InsanityShadowHostile": "暗影之手",
-
 		"HoundiusShootius": "眼球激光塔",
-
 		"HoundiusShootiusFireball": "眼球激光塔",
-
 		"PewMaticHornShot": "气喇叭投射物",
-
 		"WeatherPainShot": "苦痛旋风",
-		"TentacleSpike": "触手钉锤",	
+		"TentacleSpike": "触手钉锤",
 		"VenomDartTrap": "毒液飞镖",
 		"WandOfFrostingFrost": "霜",
 		"Volcano": "火山",
@@ -984,17 +904,11 @@
 		"BloodButcherer": "血腥屠刀",
 		"TheHorsemansBlade": "无头骑士剑",
 		"NightsEdge": "永夜刃",
-
 		"TrueNightsEdge": "原版永夜刃",
-
 		"LightsBane": "魔光剑",
-
 		"BladeOfGrass": "叶刃",
-
 		"Muramasa": "村正",
-
 		"TerraBlade2": "泰拉刃",
-
 		"TerraBlade2Shot": "泰拉光束",
 		"HiveFive": "蜂巢球",
 		"Trimarang": "三尖回旋镖",
