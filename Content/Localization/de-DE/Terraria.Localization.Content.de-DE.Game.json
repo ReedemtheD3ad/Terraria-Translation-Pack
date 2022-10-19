@@ -13,10 +13,8 @@
 		"MythrilRanged": "20% Chance, keine Munition zu verbrauchen",
 		"AdamantiteCaster": "Um 19% reduzierte Mananutzung",
 		"AdamantiteRanged": "25% Chance, keine Munition zu verbrauchen",
-		"ShadowScale": "Um 15% erhöhtes Bewegungstempo",
 		"Wood": "1 Abwehr",
 		"Crimson": "Erhöht Lebensregeneration deutlich",
-		"Tiki": "Erhöht die maximale Anzahl deiner Günstlinge",
 		"Palladium": "Erhöht nach Angriff auf Gegner Lebensregeneration deutlich",
 		"Orichalcum": "Blumenblätter regnen auf dein Ziel und richten Zusatzschaden an",
 		"ChlorophyteMelee": "Beschwört einen mächtigen Blattkristall, der auf Gegner in der Nähe schießt\nReduziert erlittenen Schaden um 5%",
@@ -26,16 +24,12 @@
 		"Hallowed": "Werde immun nach dem Angriff auf einen Gegner",
 		"Platinum": "4 Abwehr",
 		"Pumpkin": "Um 10% erhöhter Schaden",
-		"Spooky": "Erhöht Günstlingschaden um 25%",
 		"SpectreDamage": "Angerichteter Magieschaden fügt Gegnern in der Nähe zusätzlichen Schaden zu",
 		"MagicHat": "Erhöht maximales Mana um 60",
 		"BeetleDefense": "Käfer beschützen dich vor Schaden",
 		"BeetleDamage": "Käfer erhöhen deinen Nahkampfschaden und -tempo",
-		"Bee": "Erhöht Günstlingschaden um 10%",
-		"Spider": "Erhöht Günstlingschaden um 12%",
 		"Forbidden": "Doppeltes Antippen von {0} beschwört einen uralten Sturm über der Postion des Cursors",
 		"Jungle": "Um 16% reduzierte Mananutzung",
-		"Mining": "Um 30% erhöhtes Abbautempo",
 		"CobaltCaster": "Um 14% reduzierte Mananutzung",
 		"CobaltMelee": "Um 15% erhöhtes Nahkampftempo",
 		"ApprenticeTier2": "Erhöht die maximale Anzahl deiner Wächter\nSichtfeld und Reichweite von Flammenstoß sind massiv erhöht",
@@ -68,12 +62,21 @@
 		"MythrilMelee": "Um 10% erhöhte kritische Nahkampf-Trefferchance",
 		"Nebula": "Magieschaden kann Buff-Booster erscheinen lassen\nHebe Booster auf, um sich stapelnde Buffs zu erhalten",
 		"SpectreHealing": "Reduziert Magieschaden um 40% und wandelt ihn in Heilkraft um\nWenn Gegner Magieschaden erleiden, wird der Spieler mit der geringsten Gesundheit geheilt",
-		"ObsidianOutlaw": "Erhöht Peitschenreichweite um 50% und -tempo um 35%\nErhöht Günstlingschaden um 15%"
+		"ShadowScale": "Erhöhte Bewegungsgeschwindigkeit und Beschleunigung",
+		"Tiki": "Erhöht die maximale Anzahl deiner Günstlinge\nErhöht Peitschenschaden um 20%",
+		"Spooky": "Erhöht Beschwörungsschaden um 25%",
+		"Bee": "Erhöht Beschwörungsschaden um 10%",
+		"Spider": "Erhöht Beschwörungsschaden um 12%",
+		"Snow": "Kann weder eingefroren noch erkältet werden",
+		"Mining": "Um 10% erhöhtes Abbautempo",
+		"ObsidianOutlaw": "Erhöht Peitschenreichweite um 30% und Geschwindigkeit um 15%\nErhöht Beschwörungsschaden um 15%",
+		"Angler": "Verringerte Feind-Spawnrate",
+		"AshWood": "Reduziert den Schaden beim Berühren von Lava"
 	},
 	"BuffDescription": {
 		"AmmoBox": "20% Chance, keine Munition zu verbrauchen",
 		"AmmoReservation": "20% Chance, keine Munition zu verbrauchen",
-		"Archery": "Um 20% erhöhter Pfeilschaden und -tempo",
+		"FartMinecartRight": "{$BuffDescription.MinecartRight}",
 		"BabyDinosaur": "Ein Babydinosaurier folgt dir",
 		"BabyEater": "Ein Baby-Seelenfresser folgt dir",
 		"BabyFaceMonster": "Ein Babygesichtsmonster folgt dir",
@@ -346,7 +349,7 @@
 		"QueenBeePet": "Eine Honigbiene folgt dir",
 		"QueenSlimeMount": "BOING FLAPP BOING!",
 		"QueenSlimePet": "Sie ist die höhere Autorität",
-		"ScytheWhipPlayerBuff": "Nahkampftempo ist erhöht",
+		"FartMinecartLeft": "{$BuffDescription.MinecartLeft}",
 		"ShadowMimic": "Ein Schattenmimic folgt dir",
 		"SharkPup": "Doo doo doo doo doo doo",
 		"SkeletronPet": "Skeletron Junior folgt dir",
@@ -354,8 +357,8 @@
 		"SpookyWoodMount": "Lauf, Forrest, lauf!",
 		"SugarGlider": "Ein Kurzkopfgleitbeutler folgt dir",
 		"SugarRush": "Um 20% erhöhtes Bewegungs- und Abbautempo",
-		"SwordWhipPlayerBuff": "Nahkampftempo ist erhöht",
-		"ThornWhipPlayerBuff": "Nahkampftempo ist erhöht",
+		"TerraFartMinecartRight": "{$BuffDescription.MinecartRight}",
+		"TerraFartMinecartLeft": "{$BuffDescription.MinecartLeft}",
 		"TitaniumStorm": "Du bist umgeben von Verteidigungsscherben",
 		"TwinsPet": "Du hast besondere Augen!",
 		"UpbeatStar": "Estee folgt dir",
@@ -398,7 +401,23 @@
 		"ChesterPet": "Otto von Chesterfield, Esquire",
 		"AbigailMinion": "Abigail wird kämpfen, um dich zu beschützen.",
 		"HeartyMeal": "Erhöhte Lebensregeneration",
-		"Electrified": "Es tut weh, wenn ich mich bewege!"
+		"Electrified": "Es tut weh, wenn ich mich bewege!",
+		"Archery": "Um 10% erhöhter Bogenschaden und 20% erhöhte Pfeilgeschwindigkeit",
+		"ShadowCandle": "Vertreibt den Frieden in den Städten",
+		"ThornWhipPlayerBuff": "Peitschengeschwindigkeit erhöht",
+		"SwordWhipPlayerBuff": "Peitschengeschwindigkeit erhöht",
+		"ScytheWhipPlayerBuff": "Peitschengeschwindigkeit erhöht",
+		"DualSlimePet": "Die letzte Autorität, sie wird die Königreiche vereinen!",
+		"BiomeSight": "Zeigt die Position von infizierten Blöcken",
+		"BloodButcherer": "Verblutet schnell",
+		"JunimoPet": "Hüter des Waldes",
+		"WarTable": "Erhöhte maximale Anzahl deiner Wächter",
+		"BlueChickenPet": "Auf dem Namensschild steht „Shane“",
+		"WolfMount": "Du hast dich in einen Wolf verwandelt",
+		"Spiffo": "„So bist du gestorben“",
+		"CavelingGardener": "Huk arrr gruk tu!",
+		"Shimmer": "Du bist immateriell geworden!",
+		"DirtiestBlock": "Erkennt man an all dem zusätzlichen Schmutz"
 	},
 	"BuffName": {
 		"AmmoBox": "Munitionskiste",
@@ -728,7 +747,23 @@
 		"PigPet": "Schwein",
 		"ChesterPet": "Chester",
 		"AbigailMinion": "Abigail",
-		"HeartyMeal": "Herzhafte Mahlzeit"
+		"HeartyMeal": "Herzhafte Mahlzeit",
+		"FartMinecartLeft": "{$BuffName.FartMinecartRight}",
+		"TerraFartMinecartLeft": "{$BuffName.TerraFartMinecartRight}",
+		"ShadowCandle": "Schattenkerze",
+		"DualSlimePet": "Königlicher Schleim",
+		"JunimoPet": "Junimo",
+		"BloodButcherer": "Blutschlächter",
+		"FartMinecartRight": "Toilettenlore",
+		"BiomeSight": "Biom-Sicht",
+		"TerraFartMinecartRight": "Terra-Toilettenlore",
+		"WarTable": "Stratege",
+		"BlueChickenPet": "Blaues Huhn",
+		"WolfMount": "Segen des Monds",
+		"Spiffo": "Spiffo",
+		"CavelingGardener": "Höhlengärtner",
+		"Shimmer": "Schimmern",
+		"DirtiestBlock": "Der schmutzigste Block"
 	},
 	"MapObject": {
 		"Adamantite": "Adamantit",
@@ -775,7 +810,6 @@
 		"Rocket": "Rakete",
 		"SandFlow": "Sandfluss",
 		"Sapling": "Sprössling",
-		"SiltExtractinator": "Schlick-Extraktinator",
 		"Silver": "Silber",
 		"Sink": "Waschbecken",
 		"Statue": "Statue",
@@ -807,7 +841,9 @@
 		"SquirrelGoldCage": "Goldeichhörnchenkäfig",
 		"TeleportationPylon": "Teleportationspylon",
 		"Toilet": "Toilette",
-		"WireBulb": "Kabelglühbirne"
+		"WireBulb": "Kabelglühbirne",
+		"SiltExtractinator": "Extraktinator",
+		"ChlorophyteExtractinator": "Grünalgen-Extraktinator"
 	},
 	"ChatCommand": {
 		"Playing_0": "{$LegacyMultiplayer.6}",
@@ -818,7 +854,11 @@
 		"Emoji_0": "/emoji",
 		"Emoji_1": "/e",
 		"Help": "/hilfe",
-		"RPS": "/ssp"
+		"RPS": "/ssp",
+		"Death": "/Tod",
+		"PVPDeath": "/PvPtod",
+		"AllDeath": "/alletod",
+		"AllPVPDeath": "/allePvPtod"
 	},
 	"Bestiary_ItemDropConditions": {
 		"NotExpert": "",
@@ -860,7 +900,8 @@
 		"PastWaveBasedDrop": "Gibt es nur als Beute bei oder ab Welle {0}",
 		"WaveBasedDrop": "Beuterate hängt von der Welle ab",
 		"Is10thAnniverary": "Dies ist die Beuterate im Jubiläums-Seed.",
-		"IsDontStarve": "Dies ist die Beuterate im „Don’t Starve“-Seed."
+		"IsDontStarve": "Dies ist die Beuterate im „Don’t Starve“-Seed.",
+		"IsRemixSeed": "Dies ist die „Remix-Samen“-Beuterate"
 	},
 	"Bestiary_FlavorText": {
 		"npc_WanderingEye": "{$CommonBestiaryFlavor.DemonEye}",
@@ -1403,7 +1444,24 @@
 		"npc_BrainofCthulhu": "Ein abgerissenes Stück von Cthulhu. Dieses bösartige Superhirn pulsiert vor Schmerzen und hilft dem Purpur dabei, seinen Herrn zu rächen.",
 		"npc_Grubby": "Schleimig und trotzdem sehr nett! Übt auf Fische eine gewisse Anziehungskraft aus.",
 		"npc_Sluggy": "Langsam und mit schlüpfrigem Schleim bedeckt. Wirkt auf Fische besonders anziehend.",
-		"npc_Deerclops": "Dieses Zyklopenmonster aus einem fernen Land lauert an kalten Orten und vernichtet diejenigen, die es stören."
+		"npc_Deerclops": "Dieses Zyklopenmonster aus einem fernen Land lauert an kalten Orten und vernichtet diejenigen, die es stören.",
+		"npc_Stinkbug": "Dieses hinterlistige Ungeziefer schafft es, selbst in die sichersten Häuser mühelos einzudringen. Wenn man es stört, verteilt es überall seinen Koriandergestank.",
+		"npc_ScarletMacaw": "Ein niedlicher Tropenvogel, dessen Gefieder an einen schönen Sonnenuntergang über den Dschungel erinnert.",
+		"npc_BlueMacaw": "Dieser Tropenvogel ruft Visionen eines hellen Sommerhimmels über kristallblauem Wasser wach. Während seiner Futtersuche sucht er nach den Samen der Dschungelbäume.",
+		"npc_Toucan": "Dieser hellgefiederte und großschnabelige Vogel durchstreift oft die Baumkronen, auf der Suche nach köstlichen Früchten.",
+		"npc_YellowCockatiel": "Die ausgeprägten Kopffedern dieses Vogels verraten seinen emotionalen Zustand. Wenn er aufgeregt ist, erheben sie sich.",
+		"npc_GrayCockatiel": "Diese nahen Vetter der Papageien sind von Natur aus sehr gesellig und können einfache Sätze lernen.",
+		"npc_TownSlimeBlue": "Dieser Schleim ist einen Tick cleverer als die anderen. Er hat herausgefunden, wie man mit Menschen koexistiert. Das Geheimnis: Accessoires!",
+		"npc_TownSlimeGreen": "Der mit Abstand coolste Schleim von allen. Woran man das erkennt? Am umgedrehten Cap und dem unverständlichen Slang.",
+		"npc_TownSlimeOld": "Älter, aber nicht zwingend weiser. Trotzdem blicken die anderen Schleime zum Ältesten-Schleim auf. Wer so lange überlebt hat, kann schließlich nicht ganz doof sein!",
+		"npc_TownSlimePurple": "Dieser Schleim war etwas verwirrt, als die anderen Schleime sich mit Kopfbedeckungen und Accessoires schmückten. Er hat sich immerhin bemüht, es ihnen gleichzutun.",
+		"npc_TownSlimeRainbow": "Dieser aus den Energien des Schimmers und der Schleimkönigin geborene Schleim ist ein glibberndes Bündel aus Energie und Begeisterungsfähigkeit! Und noch dazu unglaublich schick!",
+		"npc_TownSlimeRed": "Dieser reizbare und unerträgliche Grummelschleim führt wahrscheinlich nichts Gutes im Schilde. Aber genauso wahrscheinlich wird er seine finsteren Pläne vermasseln.",
+		"npc_TownSlimeYellow": "Dieser Schleim weiß, dass große Hexen imposante Hüte tragen, fand aber leider nur ein zweitklassiges Exemplar. Das dürfte auch seinen gescheiterten Polymorph-Versuch erklären.",
+		"npc_TownSlimeCopper": "Dieser Schleim gilt unter seinesgleichen als Held. Er hat die größten in der Welt der Schleime bekannten Waffen und Rüstungen. Wie man sie benutzt, weiß er zwar nicht, aber was soll‘s.",
+		"npc_BoundTownSlimeYellow": "Ein neugieriger Frosch, der mit lustiger Kopfbedeckung durch den Dschungel hüpft. In dieser schleimigen Amphibie steckt mehr, als man auf Anhieb erkennt ...",
+		"npc_Shimmerfly": "Diese schillernden feenartigen Kreaturen werden geboren, wenn Tiere in die leuchtenden Tiefen eines Schimmerteichs wandern.",
+		"npc_ShimmerSlime": "Durch ein kurzes Bad im Schimmer wurde dieser prismatische Schleim von den Kräften der mysteriösen Flüssigkeit erfüllt."
 	},
 	"BestiaryInfo": {
 		"Attack": "Angriff",
@@ -1431,7 +1489,8 @@
 		"Sort_ID": "ID",
 		"Sort_Rarity": "Seltenheit",
 		"Sort_Unlocks": "Freigeschaltet",
-		"UnlockCondition_Hallow": "Erreiche den Hardmode"
+		"UnlockCondition_Hallow": "Erreiche den Hardmode",
+		"Slain": "Getötet"
 	},
 	"Bestiary_Biomes": {
 		"Caverns": "Höhlen",
@@ -1565,13 +1624,17 @@
 		"NightTime": "Nachts"
 	},
 	"ChatCommandDescription": {
-		"Emoji": "{$ChatCommand.Emoji_1}: Zeige dein Emoji",
 		"Emote": "{$ChatCommand.Emote} Nachricht: Schicke die Nachricht in der dritten Person",
 		"Help": "{$ChatCommand.Help}: Listet alle Befehle auf, die du benutzen kannst",
 		"Party": "{$ChatCommand.Party} Nachricht: Schicke die Nachricht an deine Gruppenmitglieder",
 		"Playing": "{$ChatCommand.Playing_0}: Listet die Namen aller Spieler auf dem Server auf",
 		"Roll": "{$ChatCommand.Roll}: Würfle eine Zahl zwischen 1 und 100",
-		"RPS": "{$ChatCommand.RPS}: Zeigt nach Zufallsprinzip entweder Schere, Stein oder Papier an"
+		"RPS": "{$ChatCommand.RPS}: Zeigt nach Zufallsprinzip entweder Schere, Stein oder Papier an",
+		"Emoji": "{$ChatCommand.Emoji_1} #: Zeige ein Emoji",
+		"Death": "{$ChatCommand.Death}: Zeigt die Todesanzahl",
+		"PVPDeath": "{$ChatCommand.PVPDeath}: Zeigt die PvP-Todesanzahl",
+		"AllDeath": "{$ChatCommand.AllDeath}: Zeigt bei allen die Anzahl der Tode an",
+		"AllPVPDeath": "{$ChatCommand.AllPVPDeath}: Zeigt bei allen die Anzahl der PvP-Tode an"
 	},
 	"CommonBestiaryFlavor": {
 		"DemonEye": "Im Dunkel der Nacht kann das komische Gefühl, dass einen jemand beobachtet, wirklich wahr werden, wenn die Günstlinge Cthulhus durch die Lüfte streifen.",
@@ -1609,7 +1672,8 @@
 		"Skeleton": "Wer braucht schon Muskeln, Haut oder Augäpfel? Skelette kommen nur mit ihren Knochen klar und sie sind genauso tödlich wie fleischige Gegner.",
 		"Zombie": "Wer seine Türen offen lässt, könnte damit schlurfende Gehirnfresser nach Hause einladen. Sowas mag niemand.",
 		"ZombieElf": "Elfen, die für den Weihnachtsmann gearbeitet haben, inzwischen aber zu Zombies geworden sind. Sie beschweren sich nicht viel, was sie immer noch zu ziemlich guten Helfern macht.",
-		"ZombieXmas": "Auch Zombies können die Feiertage begehen. Ihre festlichen Kostüme sind genau richtig, aber an ihrer Feiertagsstimmung könnten sie noch arbeiten."
+		"ZombieXmas": "Auch Zombies können die Feiertage begehen. Ihre festlichen Kostüme sind genau richtig, aber an ihrer Feiertagsstimmung könnten sie noch arbeiten.",
+		"TownSlime": "Woher stammen diese empfindungsfähigen Schleime? Niemand weiß es, aber sie strotzen vor Persönlichkeit!"
 	},
 	"CreativePowers": {
 		"ConfirmInfiniteItemSacrifice": "Forschung",
@@ -2108,8 +2172,8 @@
 		"98": "Du weißt nicht, was du als Nächstes tun sollst? Sieh mal in der Liste der Erfolge nach!",
 		"99": "Wenn dir ein Gegner Geld stiehlt, nachdem du im Experten-Modus gestorben bist, dann jage ihn! Besiegst du ihn, erhältst du dein Geld zurück.",
 		"106": "Die Leere-Tasche ist ein magisches Artefakt, das Gegenstände für dich lagert, wenn dein Inventar voll ist.",
-		"13": "Mit einem Glückshufeisen erleidest du keinen Sturzschaden. Suche in Truhen unter Tage nach ihnen.",
-		"32": "Nachts können Sternschnuppen erscheinen. Sammle 5 davon, um einen Mana-Kristall zu fertigen, mit dem du dein Mana erhöhen kannst."
+		"32": "Nachts können Sternschnuppen erscheinen. Sammle 5 davon, um einen Mana-Kristall zu fertigen, mit dem du dein Mana erhöhen kannst.",
+		"13": "Mit einem Glückshufeisen erleidest du keinen Sturzschaden. Suche in Truhen auf schwimmenden Inseln nach ihnen."
 	},
 	"WorldGeneration": {
 		"OceanSand": "Meeressand wird generiert",
@@ -2184,5 +2248,11 @@
 	},
 	"LucyTheAxe_ChoppedCactus": {
 		"1": "Wenn man mal darüber nachdenkt, sind Kakteen auch nur stachelige Bäume!"
+	},
+	"StardewTalk": {
+		"PlayerHasColaButIsNotHoldingIt": "Was hast du da? Joja Cola? Halte sie bitte heraus! Zeig sie mir!",
+		"PlayerHasColaAndIsHoldingIt": "Dieses unnatürliche Getränk in deiner Hand hat eine Verbindung zu einer anderen Welt ... Ich kann versuchen, sie zu reinigen, wenn du möchtest.",
+		"GiveColaButtonText": "Reinigen",
+		"PlayerGivesCola": "Durch die Verbindung spüre ich einen reinen Geist. Er dankt dir, für die Beseitigung der Joja Cola!"
 	}
 }
