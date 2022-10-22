@@ -90,7 +90,8 @@
 		"90": "Die Tiefen werden geformt",
 		"3": "Tut Schmutz hinter Schmutz",
 		"76": "Strukturen werden generiert",
-		"79": "Höhlen verwittern"
+		"79": "Höhlen verwittern",
+		"91": "Platziert keine Fallen"
 	},
 	"LegacyDialog": {
 		"1": "Ich hoffe, du dünnes Hemd bist nicht das Einzige, was zwischen Chtulhus Auge und uns steht.",
@@ -210,7 +211,6 @@
 		"208": "Wenn du einen Topf siehst, so schlage ihn kaputt. Töpfe enthalten alle möglichen nützlichen Zubehörteile.",
 		"209": "Verborgene Schätze sind auf der ganzen Welt zu finden! Einige erstaunliche Dinge sind auch im Untergrund aufzuspüren!",
 		"21": "Engelsstatue, sagst du? Tut mir leid, ich bin kein Nippesverkäufer.",
-		"210": "Beim Zerschlagen einer Schattenkugel fällt mitunter ein Meteorit vom Himmel. Schattenkugeln können normalerweise in den Schluchten bei verdorbenen Gebieten gefunden werden.",
 		"211": "Du solltest dich darauf konzentrieren, mehr Kristallherzen zur Erhöhung deiner maximalen Lebensspanne zu sammeln.",
 		"212": "Deine jetzige Ausrüstung wird einfach nicht ausreichen. Du musst eine bessere Rüstung fertigen.",
 		"213": "Ich denke, du bist bereit für deinen ersten großen Kampf. Sammle in der Nacht ein paar Linsen von den Augäpfeln und bringe sie zum Dämonenaltar.",
@@ -343,7 +343,6 @@
 		"329": "Wenn du nach Ramsch suchst, bist du hier an der falschen Adresse.",
 		"33": "Ich wünschte, {Demolitionist} wäre vorsichtiger. Es nervt mich, täglich seine Glieder zusammennähen zu müssen.",
 		"330": "Ein Billigladen? Nein, ich biete nur die qualitativ hochwertigsten Waren an.",
-		"331": "Beim Zerschlagen eines Purpurherzens fällt mitunter ein Meteorit vom Himmel. Purpurherzen können normalerweise in den Schluchten bei Puprpur-Gebieten gefunden werden.",
 		"332": "Hast du versucht, das Reinigungspulver am Purpurstein im Purpur zu verwenden?",
 		"333": "Du musst die Welt von allem Purpur befreien.",
 		"334": "Psst! Ich habe vielleicht einen Job für dich. Und ich glaube nicht, dass du ihn ablehnen kannst!",
@@ -484,7 +483,9 @@
 		"189": "Wenn du 5 Sternschnuppen einsammelst, kannst du sie kombinieren, um einen Gegenstand zu erschaffen, der deine magischen Fähigkeiten steigert.",
 		"350": "Ich hasse den Blutmond! Wegen der unheimlichen Geräusche kriege ich nachts immer kein Auge zu!",
 		"351": "Blutmond ist die schlimmste Zeit zum Angeln! Klar, die Fische beißen dann ordentlich, die Zombies aber auch!",
-		"93": "Dieser {WorldEvilStone} ist dir wohl im Weg, was? Dann lass ihn doch mit einem dieser Sprengkörper Bekanntschaft machen!"
+		"93": "Dieser {WorldEvilStone} ist dir wohl im Weg, was? Dann lass ihn doch mit einem dieser Sprengkörper Bekanntschaft machen!",
+		"210": "Man findet Schattenkugeln für gewöhnlich in den Kluften der verdorbenen Gebiete. Wenn man zu viele zerschlägt, wird der Weltenfresser ausgelöst. Ein Sieg über diesen Gegner kann einen Meteorregen auslösen!",
+		"331": "Man findet Purpurherzen für gewöhnlich in den Kluften der purpurnen Gebiete. Wenn man zu viele zerschlägt, wird das Gehirn von Cthulhu ausgelöst. Ein Sieg über diesen Gegner kann einen Meteorregen auslösen!"
 	},
 	"LegacyMenu": {
 		"0": "Starte eine neue Instanz von Terarria um mitzumachen!",
@@ -622,8 +623,6 @@
 		"220": "Set-Boni aktivieren: Hoch",
 		"221": "Set-Boni aktivieren: Runter",
 		"222": "Tastaturbelegung",
-		"223": "Schnelllöschen mit linker Shift-Taste Aktiviert",
-		"224": "Schnelllöschen mit linker Shift-Taste Deaktiviert",
 		"225": "Wand schnell ersetzen: Deaktiviert",
 		"226": "Wand schnell ersetzen: Aktiviert",
 		"227": "Scrolltime Schnellleiste zu Ring: Ein",
@@ -739,7 +738,10 @@
 		"29": "Hardcore-Charaktere sterben für immer.",
 		"30": "Mediumcore-Charaktere lassen bei Tod Gegenstände fallen.",
 		"26": "Klassisch",
-		"31": "Klassische Charaktere lassen bei Tod Geld fallen."
+		"31": "Klassische Charaktere lassen bei Tod Geld fallen.",
+		"223": "Schnelllöschen: Linke Shift-Taste",
+		"224": "Schnelllöschen: Linke Strg-Taste",
+		"253": "Schnelllöschen: Deaktiviert"
 	},
 	"LegacyTooltip": {
 		"0": "Ausgerüstet im Modeslot",
@@ -827,7 +829,11 @@
 		"8": "/rollen",
 		"9": "rollt eine",
 		"0": "Erhalten:",
-		"1": "Falsches Passwort"
+		"1": "Falsches Passwort",
+		"23": "*{0} wurde {1}-mal getötet.",
+		"24": "*{0} wurde {1}-mal durch andere Spieler getötet.",
+		"25": "*{0} wurde {1}-mal getötet.",
+		"26": "*{0} wurde {1}-mal durch andere Spieler getötet."
 	},
 	"LegacyMisc": {
 		"0": "Die Goblin-Armee wurde besiegt!",
@@ -932,7 +938,10 @@
 		"9": "Du spürst eine böse Präsenz, die dich beobachtet...",
 		"104": "Kann nicht ohne etherisches Mana verwendet werden, bis der Eternia-Kristall verteidigt wurde",
 		"105": "Libelle",
-		"85": "Dschungelkäfer"
+		"85": "Dschungelkäfer",
+		"106": "Die Schrecken sind da!",
+		"107": "Mechdusa ist erwacht!",
+		"108": "Was für eine schreckliche Nacht für einen Fluch."
 	},
 	"LegacyInterface": {
 		"0": "Leben:",
@@ -1155,7 +1164,10 @@
 		"36": "{$ItemName.NebulaDresser}",
 		"37": "{$ItemName.StardustDresser}",
 		"38": "{$ItemName.SandstoneDresser}",
-		"39": "{$ItemName.BambooDresser}"
+		"39": "{$ItemName.BambooDresser}",
+		"40": "{$ItemName.CoralDresser}",
+		"41": "{$ItemName.BalloonDresser}",
+		"42": "{$ItemName.AshWoodDresser}"
 	},
 	"LegacyChestType2": {
 		"13": "Verschlossene {$ItemName.DungeonDesertChest}",
@@ -1171,6 +1183,9 @@
 		"12": "{$ItemName.DungeonDesertChest}",
 		"4": "{$ItemName.GoldChest}",
 		"0": "{$ItemName.CrystalChest}",
-		"1": "{$ItemName.GoldenChest}"
+		"1": "{$ItemName.GoldenChest}",
+		"14": "{$ItemName.CoralChest}",
+		"15": "{$ItemName.BalloonChest}",
+		"16": "{$ItemName.AshWoodChest}"
 	}
 }
