@@ -90,7 +90,8 @@
 		"90": "Formando as profundezas",
 		"3": "Colocando terra atrás de terra",
 		"76": "Gerando estruturas",
-		"79": "Determinando o clima das cavernas"
+		"79": "Determinando o clima das cavernas",
+		"91": "Não posicionando armadilhas"
 	},
 	"LegacyDialog": {
 		"1": "Espero que um magricela como você não seja a única coisa entre nós e o Olho de Cthulhu.",
@@ -210,7 +211,6 @@
 		"208": "Se vir um pote, não deixe de quebrá-lo. Eles contém todo tipo de suprimento.",
 		"209": "Há tesouros escondidos no mundo inteiro. Coisas impressionantes podem ser encontradas nas profundezas do subterrâneo!",
 		"21": "Você falou Estátua do Anjo? Desculpe, mas não negocio com lixo.",
-		"210": "Destruir uma esfera das sombras pode fazer com que um meteoro caia do céu. Esferas das sombras são normalmente encontradas nos abismos em áreas corrompidas.",
 		"211": "Você deve concentrar-se em juntar mais cristais da vida para aumentar sua vida máxima.",
 		"212": "Seu equipamento atual simplesmente não dá conta. Você precisa criar uma armadura melhor.",
 		"213": "Acho que você está pronto para sua primeira grande batalha. Junte algumas lentes de globos oculares à noite e leve-as a um altar demoníaco.",
@@ -343,7 +343,6 @@
 		"329": "Se você está procurando por porcarias, veio ao lugar errado.",
 		"33": "Eu queria que {Demolitionist} tomasse mais cuidado.  Costurar seus membros todos os dias está ficando cansativo.",
 		"330": "Um brechó?  Não, eu só vendo itens de altíssima qualidade no mercado.",
-		"331": "Destruir um coração do carmim às vezes faz meteoros caírem do céu. Corações do Carmim podem ser encontrados em abismos em regiões onde há Carminita.",
 		"332": "Você tentou utilizar o pó de purificação na pedra carmim do carmim?",
 		"333": "Você deve limpar o mundo deste carmim.",
 		"334": "Psst! Talvez eu tenha uma tarefa para você. E nem pense em dizer não!",
@@ -484,7 +483,9 @@
 		"189": "Se você juntar 5 estrelas cadentes, elas podem ser combinadas para criar um item que aumentará sua capacidade mágica.",
 		"350": "Eu odeio Luas de Sangue! Eu fico de pé a noite inteira por causa dos barulhos assustadores!",
 		"351": "Pescar durante a Lua de Sangue é uma péssima ideia! Os peixes mordem, é verdade, mas os zumbis também!",
-		"93": "Tentando passar por aquela {WorldEvilStone}, não é? Que tal apresentá-la a um destes explosivos!"
+		"93": "Tentando passar por aquela {WorldEvilStone}, não é? Que tal apresentá-la a um destes explosivos!",
+		"210": "Normalmente é possível encontrar Esferas das Sombras em abismos perto de áreas corrompidas. Quebrar muitas delas libertará o Devorador de Mundos. Derrotar esse inimigo pode fazer com que meteoros caiam do céu.",
+		"331": "Normalmente é possível encontrar Corações do Carmim em abismos perto de áreas do carmim. Quebrar muitas delas libertará o Cérebro de Cthulhu. Derrotar esse inimigo pode fazer com que meteoros caiam do céu."
 	},
 	"LegacyMenu": {
 		"0": "Abra o Terraria para participar!",
@@ -622,8 +623,6 @@
 		"220": "Ativar Bônus de Conjunto: Para Cima",
 		"221": "Ativar Bônus de Conjunto: Para Baixo",
 		"222": "Definição de Teclas",
-		"223": "Descarte Rápido com Shift Esquerdo: Ativado",
-		"224": "Descarte Rápido com Shift Esquerdo: Desativado",
 		"225": "Substituição de Parede Rápida: Desativado",
 		"226": "Substituição de Parede Rápida: Ativado",
 		"227": "Tempo de Deslizamento da Hotbar para Radial: Ligado",
@@ -739,7 +738,10 @@
 		"29": "Personagens do modo Hardcore morrem para sempre.",
 		"30": "Personagens do modo Mediumcore largam itens quando morrem.",
 		"26": "Clássico",
-		"31": "Personagens do modo Clássico largam dinheiro quando morrem."
+		"31": "Personagens do modo Clássico largam dinheiro quando morrem.",
+		"223": "Descarte Rápido: Shift esquerdo",
+		"224": "Descarte Rápido: Control esquerdo",
+		"253": "Descarte Rápido: Desativado"
 	},
 	"LegacyTooltip": {
 		"0": "Equipado na entrada social",
@@ -817,7 +819,7 @@
 		"19": "{0} entrou.",
 		"20": "{0} saiu.",
 		"21": "/jogadores",
-		"22": "{0} entrou no grupo cor-de-rosa.",
+		"22": "{0} juntou-se ao grupo cor-de-rosa.",
 		"2": "Operações inválidas neste estado.",
 		"3": "Você foi banido neste servidor.",
 		"4": "Você não está usando a mesma versão que o servidor.",
@@ -827,7 +829,11 @@
 		"8": "/rolar",
 		"9": "rolou um",
 		"0": "Recebe:",
-		"1": "Senha incorreta"
+		"1": "Senha incorreta",
+		"23": "*{0} foi morto(a) {1} vezes.",
+		"24": "*{0} foi morto(a) por outros jogadores {1} vezes.",
+		"25": "*{0} foi morto(a) {1} vez.",
+		"26": "*{0} foi morto(a) por outros jogadores {1} vez."
 	},
 	"LegacyMisc": {
 		"0": "Um exército de goblins foi derrotado!",
@@ -841,7 +847,7 @@
 		"13": "Seu mundo foi abençoado com o Mithril!",
 		"14": "Seu mundo foi abençoado com a Adamantina!",
 		"15": "Os espíritos antigos da luz e das trevas foram libertados.",
-		"19": "Mataram {0}...",
+		"19": "{0} morreu...",
 		"1": "Um exército de goblins está se aproximando do oeste!",
 		"20": "Está acontecendo um eclipse solar!",
 		"21": "Seu mundo foi abençoado com o Paládio!",
@@ -932,7 +938,10 @@
 		"9": "Você sente o olhar de uma presença maligna...",
 		"104": "Não pode ser usado sem Mana de Éter até que o Cristal de Eternia tenha sido defendido",
 		"105": "Libélula",
-		"85": "Inseto da Selva"
+		"85": "Inseto da Selva",
+		"106": "Os horrores chegaram!",
+		"107": "A Mechdusa acordou!",
+		"108": "Que noite horrível para uma maldição."
 	},
 	"LegacyInterface": {
 		"0": "Vida:",
@@ -1155,7 +1164,10 @@
 		"36": "{$ItemName.NebulaDresser}",
 		"37": "{$ItemName.StardustDresser}",
 		"38": "{$ItemName.SandstoneDresser}",
-		"39": "{$ItemName.BambooDresser}"
+		"39": "{$ItemName.BambooDresser}",
+		"40": "{$ItemName.CoralDresser}",
+		"41": "{$ItemName.BalloonDresser}",
+		"42": "{$ItemName.AshWoodDresser}"
 	},
 	"LegacyChestType2": {
 		"13": "{$ItemName.DungeonDesertChest} Bloqueado",
@@ -1171,6 +1183,9 @@
 		"12": "{$ItemName.DungeonDesertChest}",
 		"4": "{$ItemName.GoldChest}",
 		"0": "{$ItemName.CrystalChest}",
-		"1": "{$ItemName.GoldenChest}"
+		"1": "{$ItemName.GoldenChest}",
+		"14": "{$ItemName.CoralChest}",
+		"15": "{$ItemName.BalloonChest}",
+		"16": "{$ItemName.AshWoodChest}"
 	}
 }
