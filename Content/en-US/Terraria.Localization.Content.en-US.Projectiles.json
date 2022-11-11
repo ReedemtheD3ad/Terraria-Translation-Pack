@@ -538,7 +538,7 @@
 		"SolarFlareRay": "Solar Flare",
 		"SolarWhipSword": "Solar Eruption",
 		"SolarWhipSwordExplosion": "Solar Explosion",
-		"SoulDrain": "Soul Drain",
+		"SoulDrain": "Life Drain",
 		"SoulscourgePirate": "Soulscourge Pirate",
 		"Spark": "Spark",
 		"Spazmamini": "Spazmamini",
@@ -755,45 +755,85 @@
 		"RollingCactus": "Rolling Cactus",
 		"RollingCactusSpike": "Rolling Cactus Spike",
 		"Terragrim": "Terragrim",
+
 		"DripplerFlail": "Drippler Crippler",
+
 		"BabyBird": "Finch",
+
 		"PaperAirplaneA": "Paper Airplane",
+
 		"PaperAirplaneB": "Paper Airplane",
+
 		"ClusterRocketI": "Rocket",
+
 		"ClusterGrenadeI": "Grenade",
+
 		"ClusterMineI": "Proximity Mine",
+
 		"ClusterFragmentsI": "Cluster Fragment",
+
 		"ClusterRocketII": "Rocket",
+
 		"ClusterGrenadeII": "Grenade",
+
 		"ClusterMineII": "Proximity Mine",
+
 		"ClusterFragmentsII": "Cluster Fragment",
+
 		"WetRocket": "Rocket",
+
 		"WetGrenade": "Grenade",
+
 		"WetMine": "Proximity Mine",
+
 		"LavaRocket": "Rocket",
+
 		"LavaGrenade": "Grenade",
+
 		"LavaMine": "Proximity Mine",
+
 		"HoneyRocket": "Rocket",
+
 		"HoneyGrenade": "Grenade",
+
 		"HoneyMine": "Proximity Mine",
+
 		"MiniNukeRocketI": "Rocket",
+
 		"MiniNukeGrenadeI": "Grenade",
+
 		"MiniNukeMineI": "Proximity Mine",
+
 		"MiniNukeRocketII": "Rocket",
+
 		"MiniNukeGrenadeII": "Grenade",
+
 		"MiniNukeMineII": "Proximity Mine",
+
 		"DryRocket": "Rocket",
+
 		"DryGrenade": "Grenade",
+
 		"DryMine": "Proximity Mine",
+
 		"ClusterSnowmanRocketI": "Rocket",
+
 		"ClusterSnowmanRocketII": "Rocket",
+
 		"WetSnowmanRocket": "Rocket",
+
 		"LavaSnowmanRocket": "Rocket",
+
 		"HoneySnowmanRocket": "Rocket",
+
 		"MiniNukeSnowmanRocketI": "Rocket",
+
 		"MiniNukeSnowmanRocketII": "Rocket",
+
 		"DrySnowmanRocket": "Rocket",
+
 		"BloodShot": "Blood Shot",
+
 		"ShellPileFalling": "Shell Pile",
 		"SharkPup": "Shark Pup",
 		"LilHarpy": "Lil' Harpy",
@@ -809,8 +849,11 @@
 		"BloodNautilusShot": "Blood Shot",
 		"BloodNautilusTears": "Blood Tears",
 		"GladiusStab": "Gladius",
+
 		"BloodArrow": "Blood Rain",
+
 		"DandelionSeed": "Dandelion Seed",
+
 		"RulerStab": "Ruler",
 		"DynamiteKitten": "Dynamite Kitten",
 		"BabyWerewolf": "Baby Werewolf",
@@ -824,7 +867,9 @@
 		"CombatWrench": "Combat Wrench",
 		"Shroomerang": "Shroomerang",
 		"JoustingLance": "Jousting Lance",
+
 		"ShadowJoustingLance": "Shadow Jousting Lance",
+
 		"HallowJoustingLance": "Hallowed Jousting Lance",
 		"WetBomb": "Wet Bomb",
 		"LavaBomb": "Lava Bomb",
@@ -834,12 +879,19 @@
 		"RockGolemRock": "Rock",
 		"TitaniumStormShard": "Titanium Shard",
 		"HallowBossLastingRainbow": "Everlasting Rainbow",
+
 		"HallowBossRainbowStreak": "Prismatic Bolt",
+
 		"FairyQueenLance": "Ethereal Lance",
+
 		"FairyQueenSunDance": "Sun Dance",
+
 		"QueenSlimeMinionBlueSpike": "Crystal Spike",
+
 		"QueenSlimeMinionPinkBall": "Bouncy Gel",
+
 		"QueenSlimeSmash": "Queenly Smash",
+
 		"QueenSlimeGelAttack": "Regal Gel",
 		"DirtBomb": "Dirt Bomb",
 		"DirtStickyBomb": "Sticky Dirt Bomb",
@@ -848,51 +900,79 @@
 		"FallingStarSpawner": "Falling Star",
 		"SantankMountRocket": "Rocket",
 		"BlandWhip": "Leather Whip",
+
 		"SwordWhip": "Durendal",
+
 		"MaceWhip": "Morning Star",
+
 		"ScytheWhip": "Dark Harvest",
+
 		"CoolWhip": "Cool Whip",
+
 		"FireWhip": "Firecracker",	
+
 		"ThornWhip": "Snapthorn",
+
 		"ScytheWhipProj": "Reaping",
+
 		"CoolWhipProj": "Cool Flake",
+
 		"FireWhipProj": "Firecracker",
+
 		"RainbowWhip": "Kaleidoscope",
 		"Smolstar": "Enchanted Dagger",
 		"PiercingStarlight": "Starlight",
 		"FairyQueenMagicItemShot": "Nightglow",
+
 		"FairyQueenRangedItemShot": "Twilight Lance",
 		"VolatileGelatinBall": "Volatile Gelatin",
 		"CopperShortswordStab": "Copper Shortsword",
+
         "TinShortswordStab": "Tin Shortsword",
+
         "IronShortswordStab": "Iron Shortsword",
+
         "LeadShortswordStab": "Lead Shortsword",
+
         "SilverShortswordStab": "Silver Shortsword",
+
         "TungstenShortswordStab": "Tungsten Shortsword",
+
         "GoldShortswordStab": "Gold Shortsword",
+
         "PlatinumShortswordStab": "Platinum Shortsword",
 		"FinalFractal": "Zenith",
 		"ZapinatorLaser": "Zapinator",
 		"GelBalloon": "Sparkle Slime Balloon",
 		"EmpressBlade": "Terraprisma",
 		"Mace": "Mace",
+
 		"FlamingMace": "Flaming Mace",
 		"StardustPunch": "Stardust Guardian",
 		"TorchGod": "The Torch God",
 		"PrincessWeapon": "Royal Resonance",
+
 		"FlinxMinion": "Flinx",
 		"DaybreakExplosion": "Solar Explosion",
 		"BoneWhip": "Spinal Tap",
 		"WandOfSparkingSpark": "{$ProjectileName.Spark}",
 		"StarCannonStar": "{$ProjectileName.FallingStar}",
 		"DeerclopsIceSpike": "Ice Spike",
+
 		"DeerclopsRangedProjectile": "Debris",
+
 		"AbigailMinion": "Abigail",
+
 		"InsanityShadowFriendly": "Shadow Hand",
+
 		"InsanityShadowHostile": "Shadow Hand",
+
 		"HoundiusShootius": "Houndius Shootius",
+
 		"HoundiusShootiusFireball": "Houndius Shootius",
+
 		"PewMaticHornShot": "Pew-Matic Stuff",
+
 		"WeatherPainShot": "Hurtnado",
 		"TentacleSpike": "Tentacle Spike",	
 		"VenomDartTrap": "Venom Dart",
@@ -904,11 +984,17 @@
 		"BloodButcherer": "Blood Butcherer",
 		"TheHorsemansBlade": "The Horseman's Blade",
 		"NightsEdge": "Night's Edge",
+
 		"TrueNightsEdge": "True Night's Edge",
+
 		"LightsBane": "Light's Bane",
+
 		"BladeOfGrass": "Leaf Blade",
+
 		"Muramasa": "Muramasa",
+
 		"TerraBlade2": "Terra Blade",
+
 		"TerraBlade2Shot": "Terra Beam",
 		"HiveFive": "Hive-Five",
 		"Trimarang": "Trimarang",
