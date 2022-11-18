@@ -5807,8 +5807,8 @@
 		"SpectrePaintRoller": "与油漆一起用于给墙涂色\n也可以涂覆涂料",
 		"SpectrePaintScraper": "用于去除油漆或涂料\n有时可以收集苔藓",
 		"ShroomiteHeadgear": "弓的伤害提高15%\n远程暴击率提高5%",
-		"ShroomiteMask": "枪的伤害提高10%\n远程暴击率提高5%",
-		"ShroomiteHelmet": "特定远程伤害提高10%\n这指的是发射器、飞镖枪或其他不发射箭/子弹的武器\n远程暴击率提高5%",
+		"ShroomiteMask": "枪的伤害提高15%\n远程暴击率提高5%",
+		"ShroomiteHelmet": "特定远程伤害提高15%\n这指的是发射器、飞镖枪或其他不发射箭/子弹的武器\n远程暴击率提高5%",
 		"ShroomiteBreastplate": "远程伤害和远程暴击率各提高13%\n20%几率省下弹药",
 		"ShroomiteLeggings": "远程暴击率提高7%\n移动速度提高12%",
 		"Autohammer": "将叶绿锭转化成蘑菇矿锭",
@@ -7886,6 +7886,6 @@
 		"DontHurtCrittersBookInactive": "放在物品栏中时能防止你伤害小动物\n效果目前处于停用状态，<right>激活其效果",
 		"DontHurtNatureBookInactive": "放在物品栏中时能防止你意外破坏环境\n效果目前处于停用状态，<right>激活其效果",
 		"DontHurtComboBookInactive": "放在物品栏中时能防止你伤害小动物\n放在物品栏中时能防止你意外破坏环境\n效果目前处于停用状态，<right>激活其效果",
-		"BonePickaxe": "“我有点事情要和你算算帐”"
+		"BonePickaxe": "“我得跟你挑个刺”"
 	}
 }

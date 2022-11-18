@@ -129,7 +129,7 @@
 		"11": "菜单中有多种可用的游戏手柄控制布局。可以选择Redigit之选、Yoraiz0r之选、Xbox、Playstation，或者干脆自行制作一套自定义设置！",
 		"12": "如果在游戏手柄设置中选择“十字键光标定位”，则可以在采矿或建造时使用十字键来提高精度。",
 		"13": "使用游戏手柄时，可以通过按{InputTrigger_LockOn}来锁定敌人。锁定的目标将标记有旋转的十字线，远程武器会自动瞄准该目标！",
-		"14": "你可以为房屋分配或移除 NPC！在房屋界面中，{InputTrigger_UseOrAttack}可为他们分配一个家，而{InputTrigger_InteractWithTile}他们的旗帜可以将其踢出去！"
+		"14": "你可将 NPC 分配到房屋或从房屋中移除 NPC！在房屋界面中，{InputTrigger_UseOrAttack}可为他们分配一个家，而{InputTrigger_InteractWithTile}他们的旗帜可以将其踢出去！"
 	},
 	"LoadingTips_Keyboard": {
 		"0": "可以通过按住{InputTrigger_UseOrAttack}按钮来连续使用某些物品。",
@@ -140,7 +140,7 @@
 		"5": "在物品栏中，可以通过按{InputTrigger_InteractWithTile}来将盔甲或配饰等物品直接装备到可用栏位。",
 		"6": "按住{InputTrigger_SmartSelect}可使用“自动选择”功能，这是一项会适应所在环境的通用功能。它能帮你在黑暗洞穴中自动手持火把、在水下自动拿起荧光棒、甚至能为打破某些东西自动选择合适的工具。",
 		"7": "按{InputTriggerUI_FavoriteItem}和{InputTrigger_UseOrAttack}可以收藏物品。收藏的物品将无法再卖出、扔出或掉落。再也不会意外丢失喜欢的物品！",
-		"8": "你可以为房屋分配或移除 NPC！在房屋界面中，{InputTrigger_UseOrAttack}可为他们分配一个家，而{InputTrigger_InteractWithTile}他们的旗帜可以将其踢出去！"
+		"8": "你可将 NPC 分配到房屋或从房屋中移除 NPC！在房屋界面中，{InputTrigger_UseOrAttack}可为他们分配一个家，而{InputTrigger_InteractWithTile}他们的旗帜可以将其踢出去！"
 	},
 	"ChatCommand": {
 		"Party": "/p",
@@ -2117,7 +2117,7 @@
 		"npc_TownSlimeOld": "虽然年长不一定更聪明，但长者史莱姆倍受其它史莱姆景仰。它活了这么久，肯定知道些什么！",
 		"npc_TownSlimePurple": "当其它史莱姆开始戴上帽子和配饰时，这只史莱姆有点困惑。但它已经尽力了。",
 		"npc_TownSlimeRainbow": "这只史莱姆是微光的能量和史莱姆皇后相结合的产物，所以充满了无限的能量和热情！而且很酷炫！",
-		"npc_TownSlimeRed": "这只脾气暴躁、令人厌恶的史莱姆可能不怀好意。可能吧。真正重要的是想法。",
+		"npc_TownSlimeRed": "这只脾气暴躁、令人厌恶的史莱姆可能不怀好意。可能吧。意图才是关键。",
 		"npc_TownSlimeYellow": "这只史莱姆知道伟大的女巫都戴着令人印象深刻的帽子，但它只找到了一顶耷拉着的帽子。或许可以解释这种事与愿违的变形术！",
 		"npc_TownSlimeCopper": "它是史莱姆中的英雄，拥有同类中最强大的武器和盔甲。它实际上并不知道如何使用，但这是一个开始。",
 		"npc_BoundTownSlimeYellow": "一只好奇的青蛙戴着滑稽的帽子，被强大的魔法包围着！也许有什么东西可以打破它的诅咒……你大概不该亲吻它！",
