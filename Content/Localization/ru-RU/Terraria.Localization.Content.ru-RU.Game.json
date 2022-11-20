@@ -317,7 +317,6 @@
 		"BossEmpressOfLight": "/{$EmojiName.BossEmpressOfLight}",
 		"BossQueenSlime": "/{$EmojiName.BossQueenSlime}",
 		"TownPrincess": "/{$EmojiName.TownPrincess}",
-		"TownPrincess": "/{$EmojiName.TownPrincess}",
 		"Peckish": "/{$EmojiName.Peckish}",
 		"Hungry": "/{$EmojiName.Hungry}",
 		"Starving": "/{$EmojiName.Starving}",
@@ -1419,7 +1418,7 @@
 		"Sort_Coins": "Монеты",
 		"Sort_HitPoints": "Здоровье",
 		"PercentCollected": "Открыто на {Percent}",
-		"Slain": "Убийств",
+		"Slain": "Убийств"
 	},
 	"Bestiary_ItemDropConditions": {
 		"PirateMap": "Выпадает в океане в сложном режиме",
