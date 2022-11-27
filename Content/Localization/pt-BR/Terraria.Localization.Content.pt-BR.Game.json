@@ -71,7 +71,17 @@
 		"Mining": "Aumento de 10% na velocidade de mineração",
 		"ObsidianOutlaw": "Aumenta o alcance dos chicotes em 30% e a velocidade em 15%,\nAumenta os danos por invocação em 15%",
 		"Angler": "Diminui a taxa de criação de inimigos",
-		"AshWood": "Reduz danos sofridos ao entrar em contato com lava"
+		"AshWood": "Reduz danos sofridos ao entrar em contato com lava",
+		"CobaltRanged": "20% de chance de economizar munição",
+		"MythrilCaster": "17% de redução no custo de mana",
+		"MythrilRanged": "20% de chance de economizar munição",
+		"AdamantiteCaster": "19% de redução no custo de mana",
+		"AdamantiteRanged": "25% de chance de economizar munição",
+		"TitaniumCaster": "19% de redução no custo de mana",
+		"TitaniumRanged": "25% de chance de economizar munição",
+		"Jungle": "16% de redução no custo de mana",
+		"CobaltCaster": "14% de redução no custo de mana",
+		"Fossil": "20% de chance de economizar munição"
 	},
 	"BuffDescription": {
 		"AmmoBox": "20% de chance de não consumir munição",
@@ -417,7 +427,9 @@
 		"Spiffo": "“É assim que você morreu”",
 		"CavelingGardener": "Huk arrr gruk tu!",
 		"Shimmer": "Você ficou insubstancial!",
-		"DirtiestBlock": "Dá para dizer pela terra extra"
+		"DirtiestBlock": "Dá para dizer pela terra extra",
+		"AmmoBox": "20% de chance de economizar munição",
+		"AmmoReservation": "20% de chance de economizar munição"
 	},
 	"BuffName": {
 		"AmmoBox": "Caixa de Munição",
@@ -1461,7 +1473,11 @@
 		"npc_TownSlimeCopper": "Um herói entre as geleias, ela empunha as maiores armas e armaduras conhecidas por sua espécie. Na verdade, ela não sabe como usá-las, mas é um começo.",
 		"npc_BoundTownSlimeYellow": "Uma rã curiosa com um chapéu engraçado, vagando pela Selva! Este anfíbio viscoso é mais do que aparenta ser...",
 		"npc_Shimmerfly": "Essas criaturas cintilantes parecidas com fadas nascem quando os animais vagam pelas profundezas radiantes de um lago Brilhante.",
-		"npc_ShimmerSlime": "Depois de um breve mergulho no Brilhante, esta geleia prismática foi infundida com os poderes do fluido misterioso."
+		"npc_ShimmerSlime": "Depois de um breve mergulho no Brilhante, esta geleia prismática foi infundida com os poderes do fluido misterioso.",
+		"npc_GoblinSummoner": "Mestre nas magias mais sombrias, ela conjura fantasmas de chamas das sombras por meio de uma bruxaria poderosa.",
+		"npc_TownSlimeRed": "Irritável e insuportável, essa geleia mal-humorada provavelmente está tramando alguma coisa. Provavelmente. na verdade, o que vale é a intenção.",
+		"npc_TownSlimeCopper": "Um herói entre as geleias, ela empunha as maiores armas e armaduras conhecidas por sua espécie. Na verdade, ela não sabe como usá-las, mas é um começo.",
+		"npc_BoundTownSlimeYellow": "Um sapo curioso com um chapéu engraçado, invocado por uma mágica poderosa! Talvez algo possa quebrar essa maldição... acho que você deveria beijá-lo!"
 	},
 	"BestiaryInfo": {
 		"Attack": "Ataque",
@@ -2193,7 +2209,8 @@
 		"6": "No inventário, é possível pressionar {InputTrigger_QuickEquip} para equipar automaticamente itens como armaduras ou acessórios em um espaço adequado.",
 		"7": "Pressione e segure {InputTrigger_SmartSelect} para Selecionar Automaticamente. Esse é um recurso versátil que se adapta ao ambiente, permitindo que você segure Tochas em cavernas escuras, use Bastões Luminosos embaixo da água ou selecione a ferramenta certa para quebrar alguma coisa - tudo isso automaticamente.",
 		"8": "Pressione {InputTriggerUI_FavoriteItem} para marcar um item como Favorito. Os itens Favoritos não podem ser vendidos, eliminados ou largados. Você nunca mais vai perder seus itens preferidos!",
-		"9": "Pressione {InputTriggerUI_BuildFromInventory} quando uma ferramenta ou um bloco estiverem destacados para construir diretamente do inventário ao acessá-lo."
+		"9": "Pressione {InputTriggerUI_BuildFromInventory} quando uma ferramenta ou um bloco estiverem destacados para construir diretamente do inventário ao acessá-lo.",
+		"14": "Você pode atribuir ou remover NPCs das casas! Dá interface de alojamento, {InputTrigger_UseOrAttack} para atribuí-los a uma casa, e {InputTrigger_InteractWithTile} sua bandeira para expulsá-los!"
 	},
 	"LoadingTips_Keyboard": {
 		"0": "Pressione e segure {InputTrigger_UseOrAttack} para usar certos itens continuamente.",
@@ -2203,7 +2220,8 @@
 		"4": "Para remover tochas, use {InputTrigger_InteractWithTile} ou uma picareta.",
 		"5": "No inventário, é possível pressionar {InputTrigger_InteractWithTile} para equipar automaticamente itens como armaduras ou acessórios em um espaço adequado.",
 		"6": "Pressione e segure {InputTrigger_SmartSelect} para Selecionar Automaticamente. Esse é um recurso versátil que se adapta ao ambiente, permitindo que você segure Tochas em cavernas escuras, use Bastões Luminosos embaixo da água ou selecione a ferramenta certa para quebrar alguma coisa - tudo isso automaticamente.",
-		"7": "Pressione {InputTriggerUI_FavoriteItem} e {InputTrigger_UseOrAttack} para marcar um item como Favorito. Os itens Favoritos não podem ser vendidos, eliminados ou largados. Você nunca mais vai perder seus itens preferidos!"
+		"7": "Pressione {InputTriggerUI_FavoriteItem} e {InputTrigger_UseOrAttack} para marcar um item como Favorito. Os itens Favoritos não podem ser vendidos, eliminados ou largados. Você nunca mais vai perder seus itens preferidos!",
+		"8": "Você pode atribuir ou remover NPCs das casas! Dá interface de alojamento, {InputTrigger_UseOrAttack} para atribuí-los a uma casa, e {InputTrigger_InteractWithTile} sua bandeira para expulsá-los!"
 	},
 	"LucyTheAxe_Idle": {
 		"1": "Ei! Corte algumas árvores!",
