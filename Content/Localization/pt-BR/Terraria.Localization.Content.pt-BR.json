@@ -53,9 +53,7 @@
 		"7": "Terraria: Parque dos Geleiossauros",
 		"8": "Terraria: A Grama é Mais Verde da Minha Casa",
 		"9": "Terraria: Blocos Pequenos, Não Recomendados para Crianças Menores de 5 Anos",
-		"55": "Terraria: Cala a Boca e Cava!",
 		"50": "Terraria: Experimente também Breath of the Wild!",
-		"56": "Terraria: Experimente também o Don't Starve!",
 		"57": "Terraria: Experimente também Project Zomboid!",
 		"58": "Terraria: Agora com microtransações!",
 		"59": "Terraria: Criado com a tecnologia blockchain",
@@ -65,7 +63,11 @@
 		"63": "Terraria: Não cave para cima!",
 		"64": "Terraria: Só para quem é digno!",
 		"53": "Terraria: 1 + 1 = 10",
-		"65": "Terraria: Agora com ainda mais Ocram!"
+		"65": "Terraria: Agora com ainda mais Ocram!",
+		"55": "Terraria: Experimente também o Stardew Valley!",
+		"56": "Terraria: Experimente também o Core Keeper!",
+		"66": "Terraria: Cala a Boca e Cava!",
+		"67": "Terraria: Experimente também o Don't Starve!"
 	},
 	"Achievements": {
 		"ARCHAEOLOGIST_Description": "Mate o Doutor Bones.",
@@ -135,7 +137,6 @@
 		"HEART_BREAKER_Name": "Arrasa-Corações",
 		"HEAVY_METAL_Description": "Obtenha uma bigorna feita de ferro ou de chumbo.",
 		"HEAVY_METAL_Name": "Heavy Metal",
-		"HEX_EDUCATION_Description": "Derrote um Invocador Goblin, feiticeiros das chamas mais sombrias.",
 		"HEX_EDUCATION_Name": "Educação Maldita",
 		"HOLD_ON_TIGHT_Description": "Equipe seu primeiro gancho.",
 		"HOLD_ON_TIGHT_Name": "Segura Firme!",
@@ -315,7 +316,8 @@
 		"PURIFY_ENTIRE_WORLD_Name": "E Boa Sorte!",
 		"PURIFY_ENTIRE_WORLD_Description": "Purifique totalmente toda Corrupção, Carmim e Consagrado de seu mundo, até que a Dríade fique satisfeita!",
 		"TO_INFINITY_AND_BEYOND_Name": "Ao Infinito... e Além!",
-		"TO_INFINITY_AND_BEYOND_Description": "Voe em uma Corrida Kwad até o espaço sideral."
+		"TO_INFINITY_AND_BEYOND_Description": "Voe em uma Corrida Kwad até o espaço sideral.",
+		"HEX_EDUCATION_Description": "Derrote um Bruxo Goblin, invocadores das chamas mais sombrias."
 	},
 	"CLI": {
 		"AutomaticPortForward": "Redirecionar porta automaticamente? (s/n): ",
@@ -673,7 +675,9 @@
 		"BlizzardBalloon": "Balão da Nevasca",
 		"SandstormBalloon": "Balão da Tempestade de Areia",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
-		"PeddlersSatchelUsed": "A bolsa do Caixeiro-viajante foi aumentada!"
+		"PeddlersSatchelUsed": "A bolsa do Caixeiro-viajante foi aumentada!",
+		"CritterGuides": "Guia de Acompanhamento dos Animais",
+		"NatureGuides": "Guia de Preservação Ambiental"
 	},
 	"Net": {
 		"CheatingInvalid": "Tentativa de trapaça detectada. Chute inválido",
@@ -877,7 +881,8 @@
 		"ToggleCameraMode": "Modo da Câmera",
 		"GamepadLoadout": "Alterar Equipamentos",
 		"AutoReuseAllOn": "Disparo Automático: Ligado",
-		"AutoReuseAllOff": "Disparo Automático: Desligado"
+		"AutoReuseAllOff": "Disparo Automático: Desligado",
+		"Legendary": "Lendário"
 	},
 	"DeathSource": {
 		"NPC": "{0} por {1}.",
@@ -1739,8 +1744,6 @@
 		"Hot": "Quente",
 		"Infected": "com Infecção",
 		"Bodacious": "Sensacional",
-		"Devils": "do Diabo",
-		"Chippys": "do Chippy",
 		"Steaming": "do Vapor",
 		"Moonlit": "da Luz da Lua",
 		"Partying": "da Festa",
@@ -1748,10 +1751,8 @@
 		"Sandy": "da Areia",
 		"Hybrid": "da Hibridez",
 		"HappyLittle": "da Felicidadezinha",
-		"Lights": "da Luz",
 		"Fortified": "da Fortificação",
 		"EggFaced": "da Cara de Ovo",
-		"Nights": "da Noite",
 		"Silver": "de Prata",
 		"Unforgivable": "Imperdoável",
 		"Apple": "da Maçã",
@@ -1790,7 +1791,11 @@
 		"Lush": "do Florescimento",
 		"Flowering": "Com Flores",
 		"Lavender": "de Lavanda",
-		"Unbreakable": "Inquebrável"
+		"Unbreakable": "Inquebrável",
+		"Devils": "do Diabo",
+		"Chippys": "do Chippy",
+		"Lights": "da Luz",
+		"Nights": "da Noite"
 	},
 	"RandomWorldName_Legacy": {
 		"1": "O Reino de Redigit",
@@ -3479,5 +3484,20 @@
 		"RemixWorld": "Seed Remix",
 		"GetGoodWorld": "Seed Fique Melhor",
 		"EverythingWorld": "Seed de Tudo"
+	},
+	"CaptureBiomeChoice": {
+		"2": "{$Bestiary_Biomes.TheCorruption}",
+		"3": "{$Bestiary_Biomes.Jungle}",
+		"4": "{$Bestiary_Biomes.TheHallow}",
+		"5": "{$Bestiary_Biomes.Snow}",
+		"6": "{$Bestiary_Biomes.Oasis}",
+		"7": "{$Bestiary_Biomes.Underground}",
+		"8": "{$Bestiary_Biomes.Caverns}",
+		"9": "{$Bestiary_Biomes.Crimson}",
+		"10": "{$Bestiary_Biomes.Desert}",
+		"11": "{$Bestiary_Biomes.Ocean}",
+		"0": "Automático",
+		"1": "Pureza",
+		"12": "Campos de Cogumelos Brilhantes"
 	}
 }
