@@ -463,7 +463,6 @@
 		"Fritz": "Fritz",
 		"GiantShelly": "Caracol Gigante",
 		"GiantShelly2": "Caracol Gigante",
-		"GoblinSummoner": "Invocador Goblin",
 		"GraniteFlyer": "Elemental de Granito",
 		"GraniteGolem": "Golem de Granito",
 		"GreekSkeleton": "Hoplite",
@@ -693,6 +692,7 @@
 		"TownSlimeCopper": "Geleia Escudeira",
 		"BoundTownSlimeOld": "Baú Antigo Tremedeiro",
 		"BoundTownSlimePurple": "Geleia de Balão Desajeitada",
-		"BoundTownSlimeYellow": "Rã Mistica"
+		"BoundTownSlimeYellow": "Rã Mistica",
+		"GoblinSummoner": "Bruxo Goblin"
 	}
 }
