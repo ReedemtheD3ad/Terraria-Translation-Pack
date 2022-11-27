@@ -534,7 +534,6 @@
 		"SolarFlareDrill": "Furadeira das Chamas do Sol",
 		"SolarFlareRay": "Chamas do Sol",
 		"SolarWhipSword": "Erupção Solar",
-		"SoulDrain": "Drenagem da Alma",
 		"SoulscourgePirate": "Pirata Atormentador de Almas",
 		"Spark": "Faísca",
 		"Spazmamini": "Spazmamini",
@@ -924,6 +923,7 @@
 		"BouncyBoulder": "Rochedo Saltitante",
 		"LifeCrystalBoulder": "Rochedo de Cristal da Vida",
 		"Waffle": "Waffle",
-		"MoonBoulder": "Rochedo Lunar"
+		"MoonBoulder": "Rochedo Lunar",
+		"SoulDrain": "Drenagem da Vida"
 	}
 }
