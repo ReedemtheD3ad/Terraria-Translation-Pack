@@ -345,7 +345,8 @@
 		"Quest_ScarabFish": "Li uma história antiga sobre um peixe que parece um escaravelho mágico! Ou um “besouro” pra quem tem o vocabulário mais limitado, como você. Onde o encontrar? Onde você acha? No deserto, claro! Não me olhe assim... é verdade! Tem água lá! Eu até iria, mas não quero que meus olhos sejam devorados por abutres. Sendo assim... vá você!\n\n(Capturado no Deserto)",
 		"Quest_ScorpioFish": "Tenho certeza que alguém, alguém bem estúpido, tentou convencer você de que não há água no deserto! Pois erraram feio! Tem uma coisa chamada \"Oásis\", que tem água! Sabe o que mais tem onde tem água?! Acertou, peixes! Peixes estranhos que tentam picar ou prender ou fazer um monte de coisas ruins com você! Um animalzinho perfeito pra mim, um trabalho perfeito pra você!\n\n(Capturado no Deserto)",
 		"Quest_Pengfish": "É uma baleia! É um golfinho! Não, é um peixe pinguim! Ah, e olha só, é você! Você que vai trazer um para mim! Você sabe que eles só gostam de água gelada, certo?\n\n(Capturado na Superfície da Tundra)",
-		"Quest_Pixiefish": "Há um tipo muito, muito raro de pixie que nasce com tantas asas que não consegue voar! Ela nada com os peixes nos lagos rodeada por aquela grama azul. Meu aquário precisa de uma lâmpada, então eu quero que você pegue aquela fada para mim!\n\n(Capturada na Superfície da Terra Consagrada)"
+		"Quest_Pixiefish": "Há um tipo muito, muito raro de pixie que nasce com tantas asas que não consegue voar! Ela nada com os peixes nos lagos rodeada por aquela grama azul. Meu aquário precisa de uma lâmpada, então eu quero que você pegue aquela fada para mim!\n\n(Capturado na Superfície da Terra Consagrada)",
+		"Quest_FallenStarfish": "Adoro pegar aquelas estrelas amarelas brilhantes que caem do céu! Eu adoro ainda mais quando elas caem na cabeça de alguém. Mas... mas... nada é melhor do que uma estrela que cai no lago na floresta e se transforma em um peixe! Isso é muito irado, e você é irado o suficiente para buscá-la para mim!\n\n(Capturado na Suficiente e Lagos Celestes)"
 	},
 	"AnglerChatter": {
 		"Chatter_1": "Por que o {Bartender} não vende cerveja? Eu quero experimentar! Que resmungão!",
@@ -401,7 +402,8 @@
 	},
 	"GuideHelpText": {
 		"Help_1063": "Normalmente eu tentaria explicar a você tudo sobre o Exército do Ancião, mas seria melhor você falar com {Bartender} sobre isso.",
-		"Help_1064": "Quando a lua fica vermelha, a água se parece com sangue. As criaturas submersas podem ficar grotescas e malignas."
+		"Help_1064": "Quando a lua fica vermelha, a água se parece com sangue. As criaturas submersas podem ficar grotescas e malignas.",
+		"Help_1065": "Você pode até mesmo remover pessoas de suas casas através da interface de alojamento! <right> na bandeira hasteada na casa delas. Você também pode <left> para atribuir uma nova casa para elas."
 	},
 	"MechanicChatter": {
 		"Chatter_1": "{Bartender} me ofereceu uma Root Beer. Eu pedi que a servisse em um copo quadrado."
