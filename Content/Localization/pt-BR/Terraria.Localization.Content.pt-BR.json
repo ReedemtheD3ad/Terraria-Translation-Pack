@@ -948,7 +948,7 @@
 	},
 	"DeathTextGeneric": {
 		"ArmTornOff": "{0} teve seus braços arrancados",
-		"Chopped": "{0} foi picotado",
+		"Chopped": "{0} foi picotado(a)",
 		"Cut": "{0} foi cortado(a) ao meio",
 		"Decapitated": "{0} foi decapitado(a)",
 		"Destroyed": "{0} foi destruído(a)",
@@ -980,7 +980,7 @@
 		"Exsanguinated": "{0} foi exsanguinado(a)",
 		"BoneZone": "{0} foi parar na área dos ossos",
 		"Lobotomy": "{0} sofreu uma lobotomia espontânea",
-		"Pulp": "{0} foi transformado em uma polpa suculenta",
+		"Pulp": "{0} foi transformado(a) em uma polpa suculenta",
 		"SadMeat": "{0} foi moído(a) até virar uma carne triste",
 		"Shattered": "Os ossos de {0} foram quebrados",
 		"MonsterFood": "{0} virou comida de monstro",
@@ -1017,12 +1017,12 @@
 		"Flayed": "{0} foi esfolado(a)",
 		"Ganked": "{0} foi emboscado(a)",
 		"Spanked": "{0} foi espancado(a)",
-		"GotGot": "{0} foi pego.",
-		"Murked": "{0} foi derrotado",
+		"GotGot": "{0} foi pego(a)",
+		"Murked": "{0} foi derrotado(a)",
 		"GlassCoffin": "{0} foi parar em um caixão de vidro",
 		"WrongGrass": "{0} vai comer grama pela raiz",
 		"Forgotten": "{0} logo será esquecido",
-		"Smote": "{0} virou fumaça"
+		"Smote": "{0} foi transformado(a) em fumaça"
 	},
 	"DungeonDefenders2": {
 		"BartenderWarning": "O Cristal de Eternia rejeita esta área e some instantaneamente. O Taberneiro falou que ele deveria ficar em uma área grande, plana e ao ar livre...",
