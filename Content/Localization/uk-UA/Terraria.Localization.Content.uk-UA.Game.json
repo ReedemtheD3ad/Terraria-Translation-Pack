@@ -1991,7 +1991,7 @@
 		"npc_TorchZombie": "За життя цей зомбі з факелом приєднався до розлюченого натовпу задля полювання на мерців. Померши, він сам став частиною натовпу мерців, який полює на живих.",
 		"npc_GoldGoldfish": "{$CommonBestiaryFlavor.GoldCritter}",
 		"npc_GoldGoldfishWalker": "{$CommonBestiaryFlavor.GoldCritter}",
-		"npc_WindyBalloon": "НДеякі кмітливі слизняки вирішили підкорити вітер на повітряних кульках у спробах знайти собі їжу. Якщо лопнути ці кульки, то вони зваляться назад на землю.",
+		"npc_WindyBalloon": "Деякі кмітливі слизняки вирішили підкорити вітер на повітряних кульках у спробах знайти собі їжу. Якщо лопнути ці кульки, то вони зваляться назад на землю.",
 		"npc_BlackDragonfly": "{$CommonBestiaryFlavor.Dragonfly}",
 		"npc_BlueDragonfly": "{$CommonBestiaryFlavor.Dragonfly}",
 		"npc_GreenDragonfly": "{$CommonBestiaryFlavor.Dragonfly}",
