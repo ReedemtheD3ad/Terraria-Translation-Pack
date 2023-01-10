@@ -53,9 +53,7 @@
 		"7": "Terraria: Schleimeassic Park",
 		"8": "Terraria: Auf dieser Seite ist das Gras grüner",
 		"9": "Terraria: Kleine Blöcke, nicht für Kinder unter 5 Jahren geeignet",
-		"55": "Terraria: Sei still und grabe, Gaiden!",
 		"50": "Terraria: Probiere auch mal Breath of the Wild!",
-		"56": "Terraria: Probier auch mal Don’t Starve!",
 		"57": "Terraria: Probier auch mal Project Zomboid!",
 		"58": "Terraria: Jetzt mit Mikrotransaktionen!",
 		"59": "Terraria: Basierend auf Blockchain-Technologie",
@@ -65,7 +63,11 @@
 		"63": "Terraria: Grabe nichts aus!",
 		"64": "Terraria: Für die Würdigen!",
 		"53": "Terraria: 1 + 1 = 10",
-		"65": "Terraria: Jetzt mit noch mehr Ocram!"
+		"65": "Terraria: Jetzt mit noch mehr Ocram!",
+		"55": "Terraria: Probier auch mal Stardew Valley aus!",
+		"56": "Terraria: Probier auch mal Core Keeper aus!",
+		"66": "Terraria: Sei still und grabe, Gaiden!",
+		"67": "Terraria: Probier auch mal Don't Starve aus!"
 	},
 	"Achievements": {
 		"ARCHAEOLOGIST_Description": "Töte Doktor Bones.",
@@ -135,7 +137,6 @@
 		"HEART_BREAKER_Name": "Herzensbrecher",
 		"HEAVY_METAL_Description": "Erhalte einen Amboss aus Eisen oder Blei.",
 		"HEAVY_METAL_Name": "Heavy Metal",
-		"HEX_EDUCATION_Description": "Besiege einen Goblin-Beschwörer, Rufer der dunkelsten Flammen.",
 		"HEX_EDUCATION_Name": "Hexenschule",
 		"HOLD_ON_TIGHT_Description": "Rüste deinen ersten Enterhaken aus.",
 		"HOLD_ON_TIGHT_Name": "Gut festhalten!",
@@ -315,7 +316,8 @@
 		"PURIFY_ENTIRE_WORLD_Name": "Und tschüss!",
 		"PURIFY_ENTIRE_WORLD_Description": "Reinige deine Welt von sämtlichem Verderben, Purpur und Heiligem, bis die Dryade zufrieden ist!",
 		"TO_INFINITY_AND_BEYOND_Name": "Bis in die Unendlichkeit, und noch weiter!",
-		"TO_INFINITY_AND_BEYOND_Description": "Fliege mit einem Kwad-Racer in den Weltraum."
+		"TO_INFINITY_AND_BEYOND_Description": "Fliege mit einem Kwad-Racer in den Weltraum.",
+		"HEX_EDUCATION_Description": "Besiege einen Goblin-Hexenmeister, den Rufer der dunkelsten Flammen."
 	},
 	"CLI": {
 		"AutomaticPortForward": "Port automatisch weiterleiten? (j/n): ",
@@ -672,7 +674,9 @@
 		"BlizzardBalloon": "Schneesturmballon",
 		"SandstormBalloon": "Sandsturmballon",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
-		"PeddlersSatchelUsed": "Die Tasche des Handelsreisenden wird größer!"
+		"PeddlersSatchelUsed": "Die Tasche des Handelsreisenden wird größer!",
+		"CritterGuides": "Anleitung für Kreaturenbegleitung",
+		"NatureGuides": "Leitfaden für Umweltschutz"
 	},
 	"Net": {
 		"CheatingInvalid": "Betrugsversuch festgestellt: Ungültiger Rauswurf",
@@ -798,7 +802,7 @@
 		"OffsetTexturePackPriorityUp": "Vorwärtsbewegen",
 		"PasteColorFromClipboard": "Füge den Farbcode aus der Zwischenablage ein",
 		"PastePlayerFromClipboard": "Füge die Spielervorlage aus der Zwischenablage ein",
-		"PetTheAnimal": "Haustier",
+		"PetTheAnimal": "Streicheln",
 		"PlayerNameSlot": "Name:",
 		"QuickUseItem": "Schnellverwendung",
 		"RandomizeColor": "Farben nach Zufallsprinzip",
@@ -876,7 +880,8 @@
 		"ToggleCameraMode": "Kameramodus",
 		"GamepadLoadout": "Ausrüstung ändern",
 		"AutoReuseAllOn": "Automatisches Feuern: Ein",
-		"AutoReuseAllOff": "Automatisches Feuern: Aus"
+		"AutoReuseAllOff": "Automatisches Feuern: Aus",
+		"Legendary": "Legendär"
 	},
 	"DeathSource": {
 		"NPC": "{0} von {1}.",
@@ -1736,8 +1741,6 @@
 		"Hot": "Heiß",
 		"Infected": "Infiziert",
 		"Bodacious": "Toll",
-		"Devils": "Des Teufels",
-		"Chippys": "Chippys",
 		"Steaming": "Dampfend",
 		"Moonlit": "Monderhellt",
 		"Partying": "Feiernd",
@@ -1745,10 +1748,8 @@
 		"Sandy": "Sandig",
 		"Hybrid": "Hybrid",
 		"HappyLittle": "Klein und glücklich",
-		"Lights": "Des Lichts",
 		"Fortified": "Verstärkt",
 		"EggFaced": "Eiergesichtig",
-		"Nights": "Der Nacht",
 		"Silver": "Silbern",
 		"Unforgivable": "Unverzeihlich",
 		"Apple": "Apfel",
@@ -1787,7 +1788,11 @@
 		"Lush": "Üppig",
 		"Flowering": "Blühend",
 		"Lavender": "Lavendel",
-		"Unbreakable": "Unzerbrechlich"
+		"Unbreakable": "Unzerbrechlich",
+		"Devils": "Des Teufels",
+		"Chippys": "Chippys",
+		"Lights": "Des Lichts",
+		"Nights": "Der Nacht"
 	},
 	"RandomWorldName_Legacy": {
 		"1": "Redigits Königreich",
@@ -3476,5 +3481,20 @@
 		"RemixWorld": "Remix-Samen",
 		"GetGoodWorld": "„Get Good“-Samen",
 		"EverythingWorld": "Universalsamen"
+	},
+	"CaptureBiomeChoice": {
+		"2": "{$Bestiary_Biomes.TheCorruption}",
+		"3": "{$Bestiary_Biomes.Jungle}",
+		"4": "{$Bestiary_Biomes.TheHallow}",
+		"5": "{$Bestiary_Biomes.Snow}",
+		"6": "{$Bestiary_Biomes.Oasis}",
+		"7": "{$Bestiary_Biomes.Underground}",
+		"8": "{$Bestiary_Biomes.Caverns}",
+		"9": "{$Bestiary_Biomes.Crimson}",
+		"10": "{$Bestiary_Biomes.Desert}",
+		"11": "{$Bestiary_Biomes.Ocean}",
+		"0": "Automatisch",
+		"1": "Reinheit",
+		"12": "Glühende Pilzfelder"
 	}
 }
