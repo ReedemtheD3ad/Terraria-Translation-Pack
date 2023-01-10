@@ -463,7 +463,6 @@
 		"Fritz": "Fritz",
 		"GiantShelly": "Riesen-Shelly",
 		"GiantShelly2": "Riesen-Shelly",
-		"GoblinSummoner": "Goblin-Beschwörer",
 		"GraniteFlyer": "Granit-Elementar",
 		"GraniteGolem": "Granitgolem",
 		"GreekSkeleton": "Hoplit",
@@ -693,6 +692,7 @@
 		"TownSlimeCopper": "Knappen-Schleim",
 		"BoundTownSlimeOld": "Alte zitternde Truhe",
 		"BoundTownSlimePurple": "Tolpatschiger Ballonschleim",
-		"BoundTownSlimeYellow": "Mystischer Frosch"
+		"BoundTownSlimeYellow": "Mystischer Frosch",
+		"GoblinSummoner": "Goblin-Hexenmeister"
 	}
 }
