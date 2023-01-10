@@ -8,11 +8,6 @@
 	"ArmorSetBonus": {
 		"MetalTier1": "2 Abwehr",
 		"MetalTier2": "3 Abwehr",
-		"CobaltRanged": "20% Chance, keine Munition zu verbrauchen",
-		"MythrilCaster": "Um 17% reduzierte Mananutzung",
-		"MythrilRanged": "20% Chance, keine Munition zu verbrauchen",
-		"AdamantiteCaster": "Um 19% reduzierte Mananutzung",
-		"AdamantiteRanged": "25% Chance, keine Munition zu verbrauchen",
 		"Wood": "1 Abwehr",
 		"Crimson": "Erhöht Lebensregeneration deutlich",
 		"Palladium": "Erhöht nach Angriff auf Gegner Lebensregeneration deutlich",
@@ -29,8 +24,6 @@
 		"BeetleDefense": "Käfer beschützen dich vor Schaden",
 		"BeetleDamage": "Käfer erhöhen deinen Nahkampfschaden und -tempo",
 		"Forbidden": "Doppeltes Antippen von {0} beschwört einen uralten Sturm über der Postion des Cursors",
-		"Jungle": "Um 16% reduzierte Mananutzung",
-		"CobaltCaster": "Um 14% reduzierte Mananutzung",
 		"CobaltMelee": "Um 15% erhöhtes Nahkampftempo",
 		"ApprenticeTier2": "Erhöht die maximale Anzahl deiner Wächter\nSichtfeld und Reichweite von Flammenstoß sind massiv erhöht",
 		"ApprenticeTier3": "Erhöht die maximale Anzahl deiner Wächter\nVerbessert die Wirksamkeit von Flammenstoß stark",
@@ -40,12 +33,9 @@
 		"MonkTier3": "Erhöht die maximale Anzahl deiner Wächter\nVerbessert die Wirksamkeit von Blitzaura stark",
 		"SquireTier2": "Erhöht die maximale Anzahl deiner Wächter\nBallista durchdringt mehr Ziele und verfällt in Panik, wenn du Schaden erleidest",
 		"SquireTier3": "Erhöht die maximale Anzahl deiner Wächter\nVerbessert die Wirksamkeit der Ballista stark",
-		"TitaniumCaster": "Um 19% reduzierte Mananutzung",
 		"TitaniumMelee": "Um 18% erhöhtes Nahkampf-und Bewegungstempo",
-		"TitaniumRanged": "25% Chance, keine Munition zu verbrauchen",
 		"Shroomite": "Stillstehen tarnt dich, erhöht deine Fernkampffähigkeiten\nund verringert die Chance, dass Gegner dich angreifen",
 		"Vortex": "Doppeltes Antippen von {0} schaltet Tarnung an oder aus\nTarnung erhöht die Fernkampffähigkeiten und verringert die Chance, dass Gegner dich angreifen,\nverringert allerdings auch das Bewegungstempo",
-		"Fossil": "20% Chance, keine Munition zu verbrauchen",
 		"Titanium": "Wenn du angreifst, wird eine Verteidigungsbarriere aus Titanscherben erzeugt",
 		"Stardust": "Ein Sternenstaub-Wächter beschützt dich vor Gegnern in der Nähe",
 		"Ninja": "Um 20% erhöhtes Bewegungstempo",
@@ -71,11 +61,19 @@
 		"Mining": "Um 10% erhöhtes Abbautempo",
 		"ObsidianOutlaw": "Erhöht Peitschenreichweite um 30% und Geschwindigkeit um 15%\nErhöht Beschwörungsschaden um 15%",
 		"Angler": "Verringerte Feind-Spawnrate",
-		"AshWood": "Reduziert den Schaden beim Berühren von Lava"
+		"AshWood": "Reduziert den Schaden beim Berühren von Lava",
+		"CobaltRanged": "20% Chance, Munition zu sparen",
+		"MythrilCaster": "Um 17% reduzierte Manakosten",
+		"MythrilRanged": "20% Chance, Munition zu sparen",
+		"AdamantiteCaster": "Um 19% reduzierte Manakosten",
+		"AdamantiteRanged": "25% Chance, Munition zu sparen",
+		"TitaniumCaster": "Um 19% reduzierte Manakosten",
+		"TitaniumRanged": "25% Chance, Munition zu sparen",
+		"Jungle": "Um 16% reduzierte Manakosten",
+		"CobaltCaster": "Um 14% reduzierte Manakosten",
+		"Fossil": "20% Chance, Munition zu sparen"
 	},
 	"BuffDescription": {
-		"AmmoBox": "20% Chance, keine Munition zu verbrauchen",
-		"AmmoReservation": "20% Chance, keine Munition zu verbrauchen",
 		"FartMinecartRight": "{$BuffDescription.MinecartRight}",
 		"BabyDinosaur": "Ein Babydinosaurier folgt dir",
 		"BabyEater": "Ein Baby-Seelenfresser folgt dir",
@@ -417,7 +415,9 @@
 		"Spiffo": "„So bist du gestorben“",
 		"CavelingGardener": "Huk arrr gruk tu!",
 		"Shimmer": "Du bist immateriell geworden!",
-		"DirtiestBlock": "Erkennt man an all dem zusätzlichen Schmutz"
+		"DirtiestBlock": "Erkennt man an all dem zusätzlichen Schmutz",
+		"AmmoBox": "20% Chance, Munition zu sparen",
+		"AmmoReservation": "20% Chance, Munition zu sparen"
 	},
 	"BuffName": {
 		"AmmoBox": "Munitionskiste",
@@ -1020,7 +1020,6 @@
 		"npc_GoblinScout": "Die Goblin-Armee schickt einzelne Soldaten aus, die nach Kolonien suchen sollen, die sie erobern kann. Sie verwenden zur Warnung ein zerfetztes Siegel.",
 		"npc_JungleSlime": "{$CommonBestiaryFlavor.Slime}",
 		"npc_GoblinSorcerer": "So primitiv sie auch sein mögen, einige Goblins sind in der Lage, magische Schattenenergie durch eine Art Zauber zu manipulieren.",
-		"npc_GoblinSummoner": "Sie ist in der Lage, die schwärzeste aller Magie zu beherrschen. Damit beschwört sie unermessliche Schattenflammengeister.",
 		"npc_GoblinTinkerer": "Der Tüftler wurde von den Goblins verbannt, weil er ein intelligenter Pazifist war. Jetzt verkauft er Werkzeuge, mit denen man Zubehör kombinieren und stärker machen kann.",
 		"npc_Goldfish": "Dieser Goldfisch sieht ziemlich normal und langweilig aus. Bis der Regen kommt.",
 		"npc_PantlessSkeleton": "{$CommonBestiaryFlavor.Skeleton}",
@@ -1456,12 +1455,13 @@
 		"npc_TownSlimeOld": "Älter, aber nicht zwingend weiser. Trotzdem blicken die anderen Schleime zum Ältesten-Schleim auf. Wer so lange überlebt hat, kann schließlich nicht ganz doof sein!",
 		"npc_TownSlimePurple": "Dieser Schleim war etwas verwirrt, als die anderen Schleime sich mit Kopfbedeckungen und Accessoires schmückten. Er hat sich immerhin bemüht, es ihnen gleichzutun.",
 		"npc_TownSlimeRainbow": "Dieser aus den Energien des Schimmers und der Schleimkönigin geborene Schleim ist ein glibberndes Bündel aus Energie und Begeisterungsfähigkeit! Und noch dazu unglaublich schick!",
-		"npc_TownSlimeRed": "Dieser reizbare und unerträgliche Grummelschleim führt wahrscheinlich nichts Gutes im Schilde. Aber genauso wahrscheinlich wird er seine finsteren Pläne vermasseln.",
 		"npc_TownSlimeYellow": "Dieser Schleim weiß, dass große Hexen imposante Hüte tragen, fand aber leider nur ein zweitklassiges Exemplar. Das dürfte auch seinen gescheiterten Polymorph-Versuch erklären.",
-		"npc_TownSlimeCopper": "Dieser Schleim gilt unter seinesgleichen als Held. Er hat die größten in der Welt der Schleime bekannten Waffen und Rüstungen. Wie man sie benutzt, weiß er zwar nicht, aber was soll‘s.",
-		"npc_BoundTownSlimeYellow": "Ein neugieriger Frosch, der mit lustiger Kopfbedeckung durch den Dschungel hüpft. In dieser schleimigen Amphibie steckt mehr, als man auf Anhieb erkennt ...",
 		"npc_Shimmerfly": "Diese schillernden feenartigen Kreaturen werden geboren, wenn Tiere in die leuchtenden Tiefen eines Schimmerteichs wandern.",
-		"npc_ShimmerSlime": "Durch ein kurzes Bad im Schimmer wurde dieser prismatische Schleim von den Kräften der mysteriösen Flüssigkeit erfüllt."
+		"npc_ShimmerSlime": "Durch ein kurzes Bad im Schimmer wurde dieser prismatische Schleim von den Kräften der mysteriösen Flüssigkeit erfüllt.",
+		"npc_GoblinSummoner": "Sie beherrscht die dunkelsten aller Magien und beschwört unermessliche Schattenflammengeister mit einem mächtigen Zauber.",
+		"npc_TownSlimeRed": "Dieser reizbare und unerträgliche Grummelschleim führt wahrscheinlich nichts Gutes im Schilde. Aber genauso wahrscheinlich wird er seine finsteren Pläne vermasseln.",
+		"npc_TownSlimeCopper": "Dieser Schleim gilt unter seinesgleichen als Held. Er hat die besten Waffen und Rüstungen, die man in der Welt der Schleime kennt. Wie man sie benutzt, weiß er zwar nicht, aber was soll’s.",
+		"npc_BoundTownSlimeYellow": "Ein neugieriger Frosch mit einer lustigen Kopfbedeckung, umgeben von mächtiger Magie! Vielleicht lässt sich sein Fluch ja irgendwie brechen? Küssen solltest du ihn aber vermutlich nicht!"
 	},
 	"BestiaryInfo": {
 		"Attack": "Angriff",
@@ -2193,7 +2193,8 @@
 		"6": "Du kannst in deinem Inventar {InputTrigger_QuickEquip} drücken, um Gegenstände wie Rüstungen oder Zubehör direkt in einen leeren Platz auszurüsten.",
 		"7": "Halte {InputTrigger_SmartSelect} für die automatische Auswahl gedrückt. Das ist eine nützliche Funktion, die sich an deine Umgebung anpasst. So kannst du automatisch deine Fackeln in dunklen Höhlen halten, Leuchtstäbe, wenn du unter Wasser bist, oder sogar das richtige Werkzeug auswählen, um etwas zu zerbrechen.",
 		"8": "Drücke {InputTriggerUI_FavoriteItem}, um einen Gegenstand deinen Favoriten hinzuzufügen. Favoriten können nicht verkauft, weggeworfen oder abgelegt werden. So verlierst du nie wieder aus Versehen deine Lieblingsgegenstände!",
-		"9": "Drücke {InputTriggerUI_BuildFromInventory}, wenn du im Inventar bist und ein Werkzeug oder einen Block markiert hast, um damit direkt aus dem Inventar zu bauen."
+		"9": "Drücke {InputTriggerUI_BuildFromInventory}, wenn du im Inventar bist und ein Werkzeug oder einen Block markiert hast, um damit direkt aus dem Inventar zu bauen.",
+		"14": "Du kannst NPCs Häusern zuweisen oder sie aus Häusern entfernen! Im Behausungsmenü: {InputTrigger_UseOrAttack}, um sie einem Haus zuzuweisen oder {InputTrigger_InteractWithTile} auf ihr Banner, um sie rauszuwerfen!"
 	},
 	"LoadingTips_Keyboard": {
 		"0": "Wenn du die {InputTrigger_UseOrAttack}-Taste gedrückt hältst, kannst du einige Gegenstände fortlaufend benutzen.",
@@ -2203,7 +2204,8 @@
 		"4": "Fackeln kannst du mit {InputTrigger_InteractWithTile} oder mit einer Spitzhacke entfernen.",
 		"5": "Du kannst in deinem Inventar {InputTrigger_InteractWithTile} drücken, um Gegenstände wie Rüstungen oder Zubehör direkt in einen leeren Platz auszurüsten.",
 		"6": "Halte {InputTrigger_SmartSelect} für die automatische Auswahl gedrückt. Das ist eine nützliche Funktion, die sich an deine Umgebung anpasst. So kannst du automatisch deine Fackeln in dunklen Höhlen halten, Leuchtstäbe, wenn du unter Wasser bist, oder sogar das richtige Werkzeug auswählen, um etwas zu zerbrechen.",
-		"7": "Drücke {InputTriggerUI_FavoriteItem} und {InputTrigger_UseOrAttack}, um einen Gegenstand deinen Favoriten hinzuzufügen. Favoriten können nicht verkauft, weggeworfen oder abgelegt werden. So verlierst du nie wieder aus Versehen deine Lieblingsgegenstände!"
+		"7": "Drücke {InputTriggerUI_FavoriteItem} und {InputTrigger_UseOrAttack}, um einen Gegenstand deinen Favoriten hinzuzufügen. Favoriten können nicht verkauft, weggeworfen oder abgelegt werden. So verlierst du nie wieder aus Versehen deine Lieblingsgegenstände!",
+		"8": "Du kannst NPCs Häusern zuweisen oder sie aus Häusern entfernen! Im Behausungsmenü: {InputTrigger_UseOrAttack}, um sie einem Haus zuzuweisen oder {InputTrigger_InteractWithTile} auf ihr Banner, um sie rauszuwerfen!"
 	},
 	"LucyTheAxe_Idle": {
 		"1": "Hey! Hack ein paar Bäume um!",
