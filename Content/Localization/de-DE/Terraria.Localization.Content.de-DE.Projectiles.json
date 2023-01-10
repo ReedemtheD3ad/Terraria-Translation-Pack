@@ -534,7 +534,6 @@
 		"SolarFlareDrill": "Sonneneruptions-Bohrer",
 		"SolarFlareRay": "Sonneneruption",
 		"SolarWhipSword": "Sonnenausbruch",
-		"SoulDrain": "Seelensaugen",
 		"SoulscourgePirate": "Seelengeißelpirat",
 		"Spark": "Funken",
 		"Spazmamini": "Spazmamini",
@@ -924,6 +923,7 @@
 		"BouncyBoulder": "Federnder Felsbrocken",
 		"LifeCrystalBoulder": "Lebenskristall-Brocken",
 		"Waffle": "Waffel",
-		"MoonBoulder": "Mondfelsen"
+		"MoonBoulder": "Mondfelsen",
+		"SoulDrain": "Lebensentweichung"
 	}
 }
