@@ -1,0 +1,1000 @@
+{																									
+	"NPCName": {																								
+		"BlueSlime": "Kék nyálka",																							
+		"GiantWormHead": "Óriáskukac",																							
+		"SeekerTail": "Világevő",																							
+		"Clinger": "Kapaszkodó",																							
+		"AnglerFish": "Ördöghal",																							
+		"GreenJellyfish": "Zöld medúza",																							
+		"Werewolf": "Vérfarkas",																							
+		"BoundGoblin": "Megkötözött kobold",																							
+		"BoundWizard": "Megkötözött varázsló",																							
+		"GoblinTinkerer": "Kobold bütykölő",																							
+		"Wizard": "Varázsló",																							
+		"Clown": "Bohóc",																							
+		"GiantWormBody": "Óriáskukac",																							
+		"SkeletonArcher": "Csontváz íjász",																							
+		"GoblinArcher": "Kobold íjász",																							
+		"VileSpit": "Undorító köpet",																							
+		"WallofFlesh": "Húsfal",																							
+		"WallofFleshEye": "Húsfal",																							
+		"TheHungry": "Éhező",																							
+		"TheHungryII": "Éhező",																							
+		"LeechHead": "Pióca",																							
+		"LeechBody": "Pióca",																							
+		"LeechTail": "Pióca",																							
+		"GiantWormTail": "Óriáskukac",																							
+		"ChaosElemental": "Káoszlélek",																							
+		"Slimer": "Szárnyas romlásnyálka",																							
+		"Gastropod": "Röpcsiga",																							
+		"BoundMechanic": "Megkötözött mérnök",																							
+		"Mechanic": "Mérnök",																							
+		"Retinazer": "Lézerszem",																							
+		"Spazmatism": "Lángszem",																							
+		"SkeletronPrime": "Mechanikus csontkirály",																							
+		"PrimeCannon": "Hiperágyú",																							
+		"PrimeSaw": "Hiperfűrész",																							
+		"EaterofWorldsHead": "Világfaló",																							
+		"PrimeVice": "Hipersatu",																							
+		"PrimeLaser": "Hiperlézer",																							
+		"BaldZombie": "Zombi",																							
+		"WanderingEye": "Bolyongó szem",																							
+		"TheDestroyer": "Pusztító",																							
+		"TheDestroyerBody": "Pusztító",																							
+		"TheDestroyerTail": "Pusztító",																							
+		"IlluminantBat": "Ragyogó denevér",																							
+		"IlluminantSlime": "Ragyogó nyálka",																							
+		"Probe": "Szonda",																							
+		"EaterofWorldsBody": "Világfaló",																							
+		"PossessedArmor": "Megszállt páncél",																							
+		"ToxicSludge": "Mérgező salak",																							
+		"SantaClaus": "Mikulás",																							
+		"SnowmanGangsta": "Hóember huligán",																							
+		"MisterStabby": "Bökő úr",																							
+		"SnowBalla": "Hógolyózó",																							
+		"IceSlime": "Jégnyálka",																							
+		"Penguin": "Pingvin",																							
+		"PenguinBlack": "Pingvin",																							
+		"EaterofWorldsTail": "Világfaló",																							
+		"IceBat": "Jégdenevér",																							
+		"Lavabat": "Lávadenevér",																							
+		"GiantFlyingFox": "Óriás röpróka",																							
+		"GiantTortoise": "Óriásteknős",																							
+		"IceTortoise": "Jégteknős",																							
+		"Wolf": "Farkas",																							
+		"RedDevil": "Vörös ördög",																							
+		"Arapaima": "Elefánthal",																							
+		"VampireBat": "Vámpír",																							
+		"Vampire": "Vámpír",																							
+		"MotherSlime": "Anyanyálka",																							
+		"Truffle": "Szarvasgomba",																							
+		"ZombieEskimo": "Fagyott zombi",																							
+		"Frankenstein": "Frankenstein szörnye",																							
+		"BlackRecluse": "Fekete özvegy",																							
+		"WallCreeper": "Óriáspók",																							
+		"WallCreeperWall": "Óriáspók",																							
+		"SwampThing": "Mocsárlény",																							
+		"UndeadViking": "Élőholt viking",																							
+		"CorruptPenguin": "Romláspingvin",																							
+		"IceElemental": "Jéglélek",																							
+		"Merchant": "Kereskedő",																							
+		"PigronCorruption": "Sártány",																							
+		"PigronHallow": "Sártány",																							
+		"RuneWizard": "Rúnamágus",																							
+		"Crimera": "Kiméra",																							
+		"Herpling": "Hörpling",																							
+		"AngryTrapper": "Mérges bekerítő",																							
+		"MossHornet": "Mohás darázs",																							
+		"Derpling": "Dörpling",																							
+		"Steampunker": "Gőzgépész",																							
+		"CrimsonAxe": "Vérfém balta",																							
+		"Nurse": "Nővér",																							
+		"PigronCrimson": "Sártány",																							
+		"FaceMonster": "Arcszörny",																							
+		"FloatyGross": "Lebegő undor",																							
+		"Crimslime": "Vérnyálka",																							
+		"SpikedIceSlime": "Tüskés jégnyálka",																							
+		"SnowFlinx": "Hóboholy",																							
+		"PincushionZombie": "Zombi",																							
+		"SlimedZombie": "Zombi",																							
+		"SwampZombie": "Zombi",																							
+		"TwiggyZombie": "Zombi",																							
+		"ArmsDealer": "Fegyverkereskedő",																							
+		"CataractEye": "Démonszem",																							
+		"SleepyEye": "Démonszem",																							
+		"DialatedEye": "Démonszem",																							
+		"GreenEye": "Démonszem",																							
+		"PurpleEye": "Démonszem",																							
+		"LostGirl": "Elveszett leány",																							
+		"Nymph": "Nimfa",																							
+		"ArmoredViking": "Páncélozott viking",																							
+		"Lihzahrd": "Gyík",																							
+		"LihzahrdCrawler": "Gyík",																							
+		"DemonEye": "Démonszem",																							
+		"Dryad": "Druida",																							
+		"FemaleZombie": "Zombi",																							
+		"HeadacheSkeleton": "Csontváz",																							
+		"MisassembledSkeleton": "Csontváz",																							
+		"PantlessSkeleton": "Csontváz",																							
+		"SpikedJungleSlime": "Tüskés esőerdei nyálka",																							
+		"Moth": "Moly",																							
+		"IcyMerman": "Jeges habember",																							
+		"DyeTrader": "Festékkereskedő",																							
+		"PartyGirl": "Bulilány",																							
+		"Cyborg": "Kiborg",																							
+		"Skeleton": "Csontváz",																							
+		"Bee": "Méh",																							
+		"BeeSmall": "Méh",																							
+		"PirateDeckhand": "Tengerészkalóz",																							
+		"PirateCorsair": "Szablyás kalóz",																							
+		"PirateDeadeye": "Szemkötős kalóz",																							
+		"PirateCrossbower": "Íjpuskás kalóz",																							
+		"PirateCaptain": "Kalózkapitány",																							
+		"CochinealBeetle": "Piros bogár",																							
+		"CyanBeetle": "Ciánkék bogár",																							
+		"LacBeetle": "Ibolya bogár",																							
+		"Guide": "Segítő",																							
+		"SeaSnail": "Tengeri csiga",																							
+		"Squid": "Tintahal",																							
+		"QueenBee": "Méhkirálynő",																							
+		"ZombieRaincoat": "Esőkabátos zombi",																							
+		"FlyingFish": "Repülő hal",																							
+		"UmbrellaSlime": "Esernyős nyálka",																							
+		"FlyingSnake": "Repülő kígyó",																							
+		"Painter": "Festő",																							
+		"WitchDoctor": "Boszorkánydoktor",																							
+		"Pirate": "Kalóz",																							
+		"MeteorHead": "Meteorfej",																							
+		"GoldfishWalker": "Aranyhal",																							
+		"HornetFatty": "Darázs",																							
+		"HornetHoney": "Darázs",																							
+		"HornetLeafy": "Darázs",																							
+		"HornetSpikey": "Darázs",																							
+		"HornetStingy": "Darázs",																							
+		"JungleCreeper": "Esőerdőpók",																							
+		"JungleCreeperWall": "Esőerdőpók",																							
+		"BlackRecluseWall": "Fekete özvegy",																							
+		"BloodCrawler": "Vérpók",																							
+		"FireImp": "Lángmanó",																							
+		"BloodCrawlerWall": "Vérpók",																							
+		"BloodFeeder": "Vérhal",																							
+		"BloodJelly": "Vérmedúza",																							
+		"IceGolem": "Jégóriás",																							
+		"RainbowSlime": "Szivárvány nyálka",																							
+		"Golem": "Agyagóriás",																							
+		"GolemHead": "Agyagóriásfej",																							
+		"GolemFistLeft": "Bal agyagóriásököl",																							
+		"GolemFistRight": "Jobb agyagóriásököl",																							
+		"GolemHeadFree": "Agyagóriásfej",																							
+		"BurningSphere": "Lángoló gömb",																							
+		"AngryNimbus": "Mérges esőfelhő",																							
+		"Eyezor": "Lézerzombi",																							
+		"Parrot": "Papagáj",																							
+		"Reaper": "Kaszás",																							
+		"ZombieMushroom": "Spórazombi",																							
+		"ZombieMushroomHat": "Spórazombi",																							
+		"FungoFish": "Gombamedúza",																							
+		"AnomuraFungus": "Gombarák",																							
+		"MushiLadybug": "Gombakatica",																							
+		"FungiBulb": "Gombabimbó",																							
+		"GoblinPeon": "Kobold küldönc",																							
+		"GiantFungiBulb": "Óriás gombabimbó",																							
+		"FungiSpore": "Gombaspóra",																							
+		"Plantera": "Ültető",																							
+		"PlanterasHook": "Ültető kampója",																							
+		"PlanterasTentacle": "Ültető csápja",																							
+		"Spore": "Spóra",																							
+		"BrainofCthulhu": "Cthulhu agya",																							
+		"Creeper": "Agyszem",																							
+		"IchorSticker": "Vérsavlövő",																							
+		"RustyArmoredBonesAxe": "Rozsdás páncélozott csontváz",																							
+		"GoblinThief": "Kobold tolvaj",																							
+		"RustyArmoredBonesFlail": "Rozsdás páncélozott csontváz",																							
+		"RustyArmoredBonesSword": "Rozsdás páncélozott csontváz",																							
+		"RustyArmoredBonesSwordNoArmor": "Rozsdás páncélozott csontváz",																							
+		"BlueArmoredBones": "Kék páncélozott csontváz",																							
+		"BlueArmoredBonesMace": "Kék páncélozott csontváz",																							
+		"BlueArmoredBonesNoPants": "Kék páncélozott csontváz",																							
+		"BlueArmoredBonesSword": "Kék páncélozott csontváz",																							
+		"HellArmoredBones": "Pokolpáncélozott csontváz",																							
+		"HellArmoredBonesSpikeShield": "Pokolpáncélozott csontváz",																							
+		"HellArmoredBonesMace": "Pokolpáncélozott csontváz",																							
+		"GoblinWarrior": "Kobold harcos",																							
+		"HellArmoredBonesSword": "Pokolpáncélozott csontváz",																							
+		"RaggedCaster": "Rongyos mágus",																							
+		"RaggedCasterOpenCoat": "Rongyos mágus",																							
+		"Necromancer": "Halálmágus",																							
+		"NecromancerArmored": "Halálmágus",																							
+		"DiabolistRed": "Sátánista",																							
+		"DiabolistWhite": "Sátánista",																							
+		"BoneLee": "Csont lee",																							
+		"DungeonSpirit": "Kazamatalélek",																							
+		"GiantCursedSkull": "Óriás átkozott koponya",																							
+		"GoblinSorcerer": "Kobold mágus",																							
+		"Paladin": "Lovag",																							
+		"SkeletonSniper": "Csontváz mesterlövész",																							
+		"TacticalSkeleton": "Csontváz terrorelhárító",																							
+		"SkeletonCommando": "Csontváz rohamosztagos",																							
+		"AngryBonesBig": "Mérges csontváz",																							
+		"AngryBonesBigMuscle": "Mérges csontváz",																							
+		"AngryBonesBigHelmet": "Mérges csontváz",																							
+		"BirdBlue": "Kék szajkó",																							
+		"BirdRed": "Vörös pinty",																							
+		"Squirrel": "Mókus",																							
+		"Zombie": "Zombi",																							
+		"ChaosBall": "Káoszlabda",																							
+		"Mouse": "Egér",																							
+		"Raven": "Holló",																							
+		"SlimeMasked": "Nyálka",																							
+		"BunnySlimed": "Nyúl",																							
+		"HoppinJack": "Pattogó töklámpás",																							
+		"Scarecrow1": "Madárijesztő",																							
+		"Scarecrow2": "Madárijesztő",																							
+		"Scarecrow3": "Madárijesztő",																							
+		"Scarecrow4": "Madárijesztő",																							
+		"Scarecrow5": "Madárijesztő",																							
+		"AngryBones": "Mérges csontváz",																							
+		"Scarecrow6": "Madárijesztő",																							
+		"Scarecrow7": "Madárijesztő",																							
+		"Scarecrow8": "Madárijesztő",																							
+		"Scarecrow9": "Madárijesztő",																							
+		"Scarecrow10": "Madárijesztő",																							
+		"HeadlessHorseman": "Fejnélküli lovas",																							
+		"Ghost": "Szellem",																							
+		"DemonEyeOwl": "Démonszem",																							
+		"DemonEyeSpaceship": "Démonszem",																							
+		"ZombieDoctor": "Zombi",																							
+		"DarkCaster": "Csontváz mágus",																							
+		"ZombieSuperman": "Zombi",																							
+		"ZombiePixie": "Zombi",																							
+		"SkeletonTopHat": "Csontváz",																							
+		"SkeletonAstonaut": "Csontváz",																							
+		"SkeletonAlien": "Csontváz",																							
+		"MourningWood": "Gyászfa",																							
+		"Splinterling": "Forgácska",																							
+		"Pumpking": "Tökkirály",																							
+		"PumpkingBlade": "Tökkirály",																							
+		"Hellhound": "Pokolfajzat",																							
+		"WaterSphere": "Vízgömb",																							
+		"Poltergeist": "Kopogó szellem",																							
+		"ZombieXmas": "Zombi",																							
+		"ZombieSweater": "Zombi",																							
+		"SlimeRibbonWhite": "Nyálka",																							
+		"SlimeRibbonYellow": "Nyálka",																							
+		"SlimeRibbonGreen": "Nyálka",																							
+		"SlimeRibbonRed": "Nyálka",																							
+		"BunnyXmas": "Nyuszi",																							
+		"ZombieElf": "Zombimanó",																							
+		"ZombieElfBeard": "Zombimanó",																							
+		"CursedSkull": "Átkozott koponya",																							
+		"ZombieElfGirl": "Zombimanó",																							
+		"PresentMimic": "Ajándékutánzó",																							
+		"GingerbreadMan": "Mézeskalácsember",																							
+		"Yeti": "Jeti",																							
+		"Everscream": "Öröksikoly",																							
+		"IceQueen": "Jégkirálynő",																							
+		"SantaNK1": "Tankapó",																							
+		"ElfCopter": "Manókopter",																							
+		"Nutcracker": "Diótörő",																							
+		"NutcrackerSpinning": "Diótörő",																							
+		"SkeletronHead": "Csontkirály",																							
+		"ElfArcher": "Manó íjász",																							
+		"Krampus": "Krampusz",																							
+		"Flocko": "Pehely",																							
+		"Stylist": "Kozmetikus",																							
+		"WebbedStylist": "Behálózott kozmetikus",																							
+		"Firefly": "Jánosbogár",																							
+		"Butterfly": "Pillangó",																							
+		"Worm": "Kukac",																							
+		"LightningBug": "Szentjánosbogár",																							
+		"Snail": "Csiga",																							
+		"SkeletronHand": "Csontkirály",																							
+		"GlowingSnail": "Fénycsiga",																							
+		"Frog": "Béka",																							
+		"Duck": "Tőkés réce",																							
+		"Duck2": "Tőkés réce",																							
+		"DuckWhite": "Kacsa",																							
+		"DuckWhite2": "Kacsa",																							
+		"ScorpionBlack": "Fekete skorpió",																							
+		"Scorpion": "Skorpió",																							
+		"TravellingMerchant": "Utazó kereskedő",																							
+		"Angler": "Horgász",																							
+		"OldMan": "Öregember",																							
+		"DukeFishron": "Gróf haltány",																							
+		"DetonatingBubble": "Robbanó buborék",																							
+		"Sharkron": "Cápatány",																							
+		"Sharkron2": "Cápatány",																							
+		"TruffleWorm": "Szarvasgombakukac",																							
+		"TruffleWormDigger": "Gombakukac",																							
+		"SleepingAngler": "Alvó horgász",																							
+		"Grasshopper": "Szöcske",																							
+		"ChatteringTeethBomb": "Csattogó fogsorbomba",																							
+		"CultistArcherBlue": "Kék hívő íjász",																							
+		"Demolitionist": "Robbantós",																							
+		"CultistArcherWhite": "Fehér hívő íjász",																							
+		"BrainScrambler": "Agykeverő",																							
+		"RayGunner": "Sugárlövész",																							
+		"MartianOfficer": "Marslakó kutató",																							
+		"ForceBubble": "Buborékpajzs",																							
+		"GrayGrunt": "Szürke gyalogos",																							
+		"MartianEngineer": "Marslakó mérnök",																							
+		"MartianTurret": "Tesla-torony",																							
+		"MartianDrone": "Marsi drón",																							
+		"GigaZapper": "Gigasokkoló",																							
+		"BoneSerpentHead": "Csontkígyó",																							
+		"ScutlixRider": "Űrlénygyíklövész",																							
+		"Scutlix": "Űrlénygyík",																							
+		"EyeofCthulhu": "Cthulhu szeme",																							
+		"BoneSerpentBody": "Csontkígyó",																							
+		"BoneSerpentTail": "Csontkígyó",																							
+		"SolarCrawltipedeHead": "Napfény százlábú",																							
+		"SolarCrawltipedeBody": "Napfény százlábú",																							
+		"SolarCrawltipedeTail": "Napfény százlábú",																							
+		"SolarDrakomire": "Napsárkány",																							
+		"SolarDrakomireRider": "Napsárkány lovas",																							
+		"SolarSroller": "Napguruló",																							
+		"SolarCorite": "Napfény mag",																							
+		"SolarSolenian": "Szelénei",																							
+		"Hornet": "Darázs",																							
+		"ManEater": "Emberfaló",																							
+		"ArmedZombie": "Zombi",																							
+		"ArmedZombieEskimo": "Fagyott zombi",																							
+		"ArmedZombiePincussion": "Zombi",																							
+		"ArmedZombieSlimed": "Zombi",																							
+		"ArmedZombieSwamp": "Zombi",																							
+		"ArmedZombieTwiggy": "Zombi",																							
+		"ArmedZombieCenx": "Zombi",																							
+		"UndeadMiner": "Csontváz bányász",																							
+		"GoldBird": "Aranymadár",																							
+		"GoldBunny": "Aranynyúl",																							
+		"GoldButterfly": "Aranypillangó",																							
+		"GoldFrog": "Aranybéka",																							
+		"GoldGrasshopper": "Aranyszöcske",																							
+		"GoldMouse": "Aranyegér",																							
+		"GoldWorm": "Aranykukac",																							
+		"BoneThrowingSkeleton": "Csontváz",																							
+		"Tim": "Tim",																							
+		"BoneThrowingSkeleton2": "Csontváz",																							
+		"BoneThrowingSkeleton3": "Csontváz",																							
+		"BoneThrowingSkeleton4": "Csontváz",																							
+		"Bunny": "Nyúl",																							
+		"CorruptBunny": "Romlásnyúl",																							
+		"Harpy": "Hárpia",																							
+		"CaveBat": "Barlangi denevér",																							
+		"ServantofCthulhu": "Cthulhu szolgája",																							
+		"KingSlime": "Nyálkakirály",																							
+		"JungleBat": "Esőerdei denevér",																							
+		"DoctorBones": "Doktor csont",																							
+		"TheGroom": "Vőlegény",																							
+		"Clothier": "Ruhakereskedő",																							
+		"Goldfish": "Aranyhal",																							
+		"Snatcher": "Megragadó",																							
+		"CorruptGoldfish": "Romláshal",																							
+		"Piranha": "Pirája",																							
+		"LavaSlime": "Lávanyálka",																							
+		"EaterofSouls": "Lélekfaló",																							
+		"Hellbat": "Pokoldenevér",																							
+		"Vulture": "Keselyű",																							
+		"Demon": "Démon",																							
+		"BlueJellyfish": "Kék medúza",																							
+		"PinkJellyfish": "Rózsaszín medúza",																							
+		"Shark": "Cápa",																							
+		"VoodooDemon": "Vududémon",																							
+		"Crab": "Rák",																							
+		"DungeonGuardian": "Kazamataőr",																							
+		"Antlion": "Hangyaleső",																							
+		"DevourerHead": "Romlásféreg",																							
+		"SpikeBall": "Tüskelabda",																							
+		"DungeonSlime": "Kazamatanyálka",																							
+		"BlazingWheel": "Lánggyűrű",																							
+		"GoblinScout": "Kobold felfedező",																							
+		"Bird": "Madár",																							
+		"Pixie": "Tündér",																							
+		"ArmoredSkeleton": "Páncélozott csontváz",																							
+		"Mummy": "Múmia",																							
+		"DarkMummy": "Sötét múmia",																							
+		"DevourerBody": "Romlásféreg",																							
+		"LightMummy": "Világos múmia",																							
+		"CorruptSlime": "Romlásnyálka",																							
+		"Wraith": "Kísértet",																							
+		"CursedHammer": "Átkozott kalapács",																							
+		"EnchantedSword": "Elvarázsolt kard",																							
+		"Mimic": "Ládautánzó",																							
+		"Unicorn": "Egyszarvú",																							
+		"WyvernHead": "Sárkánygyík",																							
+		"WyvernLegs": "Sárkánygyík",																							
+		"WyvernBody": "Sárkánygyík",																							
+		"DevourerTail": "Romlásféreg",																							
+		"WyvernBody2": "Sárkánygyík",																							
+		"WyvernBody3": "Sárkánygyík",																							
+		"WyvernTail": "Sárkánygyík",																							
+		"GiantBat": "Óriásdenevér",																							
+		"Corruptor": "Megrontó",																							
+		"DiggerHead": "Furkáló",																							
+		"DiggerBody": "Furkáló",																							
+		"DiggerTail": "Furkáló",																							
+		"SeekerHead": "Világevő",																							
+		"SeekerBody": "Világevő",																							
+		"AncientCultistSquidhead": "Ősi látomás",																							
+		"AncientDoom": "Ősi végzet",																							
+		"AncientLight": "Ősi fény",																							
+		"BigMimicCorruption": "Romlott ládautánzó",																							
+		"BigMimicCrimson": "Vörös ládautánzó",																							
+		"BigMimicHallow": "Szent ládautánzó",																							
+		"BigMimicJungle": "Esőerdei ládautánzó",																							
+		"BloodZombie": "Vérzombi",																							
+		"Buggy": "Bogárka",																							
+		"Butcher": "Hentes",																							
+		"Crawdad": "Barlangi homár",																							
+		"Crawdad2": "Barlangi homár",																							
+		"CreatureFromTheDeep": "A mély szörnye",																							
+		"CrimsonBunny": "Vérnyúl",																							
+		"CrimsonGoldfish": "Véres aranyhal",																							
+		"CrimsonPenguin": "Vérpingvin",																							
+		"CultistBoss": "Holdkóros szektavezér",																							
+		"CultistBossClone": "Holdkóros szektavezér",																							
+		"CultistDevote": "Holdkóros hív",																							
+		"CultistDragonBody1": "Fantáziasárkány",																							
+		"CultistDragonBody2": "Fantáziasárkány",																							
+		"CultistDragonBody3": "Fantáziasárkány",																							
+		"CultistDragonBody4": "Fantáziasárkány",																							
+		"CultistDragonHead": "Fantáziasárkány",																							
+		"CultistDragonTail": "Fantáziasárkány",																							
+		"CultistTablet": "Titokzatos agyagtábla",																							
+		"DD2AttackerTest": "???",																							
+		"DD2LanePortal": "Titokzatos kapu",																							
+		"DeadlySphere": "Halálos gömb",																							
+		"DemonTaxCollector": "Megkínzott lélek",																							
+		"DesertBeast": "Baziliszkusz",																							
+		"DesertDjinn": "Sivatagi lélek",																							
+		"DesertGhoul": "Sivatagi lidérc",																							
+		"DesertGhoulCorruption": "Megrontott sivatagi lidérc",																							
+		"DesertGhoulCrimson": "Vörös sivatagi lidérc",																							
+		"DesertGhoulHallow": "Álmodozó sivatagi lidérc",																							
+		"DesertLamiaDark": "Lámia",																							
+		"DesertLamiaLight": "Lámia",																							
+		"DesertScorpionWalk": "Homokskorpió",																							
+		"DesertScorpionWall": "Homokskorpió",																							
+		"Drippler": "Csöpögő",																							
+		"DrManFly": "Dr. Légyember",																							
+		"DuneSplicerBody": "Sivatagi furkáló",																							
+		"DuneSplicerHead": "Sivatagi furkáló",																							
+		"DuneSplicerTail": "Sivatagi furkáló",																							
+		"EnchantedNightcrawler": "Elvarázsolt éjkúszó",																							
+		"FlyingAntlion": "Repülő hangyaleső",																							
+		"Fritz": "Fritz",																							
+		"GiantShelly": "Óriáscsiga",																							
+		"GiantShelly2": "Óriáscsiga",																							
+		"GoblinSummoner": "Kobold idéző",																							
+		"GraniteFlyer": "Gránitlélek",																							
+		"GraniteGolem": "Gránitóriás",																							
+		"GreekSkeleton": "Hoplita",																							
+		"Grubby": "Hernyóka",																							
+		"LunarTowerNebula": "Csillagköd torony",																							
+		"LunarTowerSolar": "Napfény torony",																							
+		"LunarTowerStardust": "Csillagpor torony",																							
+		"LunarTowerVortex": "Örvénytorony",																							
+		"MartianProbe": "Marsi szonda",																							
+		"MartianSaucer": "Marsi csészealj",																							
+		"MartianSaucerCannon": "Marsicsészealj-ágyú",																							
+		"MartianSaucerCore": "Marsi csészealj",																							
+		"MartianSaucerTurret": "Marsicsészealj-löveg",																							
+		"MartianWalker": "Marsi lépegető",																							
+		"Medusa": "Gorgó",																							
+		"MoonLordCore": "Holdúr szíve",																							
+		"MoonLordHand": "Holdúr keze",																							
+		"MoonLordHead": "Holdúr",																							
+		"Mothron": "Molyron",																							
+		"MothronEgg": "Molyrontojás",																							
+		"MothronSpawn": "Apró molyron",																							
+		"Nailhead": "Szögfej",																							
+		"NebulaBeast": "Evolúciós szörny",																							
+		"NebulaBrain": "Csillagpor légagy",																							
+		"NebulaHeadcrab": "Agyszívó",																							
+		"NebulaSoldier": "Jövendőmondó",																							
+		"PartyBunny": "Nyúl",																							
+		"Psycho": "Pszichopata",																							
+		"Salamander": "Szalamandra",																							
+		"Salamander2": "Szalamandra",																							
+		"Salamander3": "Szalamandra",																							
+		"Salamander4": "Szalamandra",																							
+		"Salamander5": "Szalamandra",																							
+		"Salamander6": "Szalamandra",																							
+		"Salamander7": "Szalamandra",																							
+		"Salamander8": "Szalamandra",																							
+		"Salamander9": "Szalamandra",																							
+		"SandElemental": "Homoklélek",																							
+		"SandShark": "Homokcápa",																							
+		"SandsharkCorrupt": "Csontcápa",																							
+		"SandsharkCrimson": "Húscápa",																							
+		"SandsharkHallow": "Kristálycápa",																							
+		"SandSlime": "Homoknyálka",																							
+		"ShadowFlameApparition": "Árnyláng kísértet",																							
+		"SlimeSpiked": "Tüskés nyálka",																							
+		"Sluggy": "Meztelen csigácska",																							
+		"SolarFlare": "Napgömb",																							
+		"SolarGoop": "Napfény töredék",																							
+		"SolarSpearman": "Sárkányi",																							
+		"SquirrelGold": "Aranymókus",																							
+		"SquirrelRed": "Rókamókus",																							
+		"StardustCellBig": "Csillagpor sejt",																							
+		"StardustCellSmall": "Csillagpor sejt",																							
+		"StardustJellyfishBig": "Csillagpor légmedúza",																							
+		"StardustSoldier": "Csillagleső",																							
+		"StardustSpiderBig": "Csillámlövő",																							
+		"StardustSpiderSmall": "Csillám",																							
+		"StardustWormHead": "Csillagpor kukac",																							
+		"TargetDummy": "Gyakorlóbábú",																							
+		"TaxCollector": "Adószedő",																							
+		"TheBride": "Menyasszony",																							
+		"ThePossessed": "A megszállt",																							
+		"TombCrawlerBody": "Sivatagi óriáskukac",																							
+		"TombCrawlerHead": "Sivatagi óriáskukac",																							
+		"TombCrawlerTail": "Sivatagi óriáskukac",																							
+		"Tumbleweed": "Mérges ördögszekér",																							
+		"VortexHornet": "Űrlénydarázs",																							
+		"VortexHornetQueen": "Űrlénykirálynő",																							
+		"VortexLarva": "Űrlénylárva",																							
+		"VortexRifleman": "Viharbúvár",																							
+		"VortexSoldier": "Örvényi",																							
+		"WalkingAntlion": "Rohamozó hangyaleső",																							
+		"Slimeling": "Apró romlásnyálka",																							
+		"Slimer2": "Szárnyvesztett romlásnyálka",																							
+		"GreenSlime": "Zöld nyálka",																							
+		"Pinky": "Rózsi",																							
+		"BabySlime": "Apró nyálka",																							
+		"BlackSlime": "Fekete nyálka",																							
+		"PurpleSlime": "Lila nyálka",																							
+		"RedSlime": "Piros nyálka",																							
+		"YellowSlime": "Citromsárga nyálka",																							
+		"JungleSlime": "Esőerdei nyálka",																							
+		"SmallRainZombie": "Zombi",																							
+		"BigRainZombie": "Zombi",																							
+		"DD2EterniaCrystal": "Etern kristály",																							
+		"DD2GoblinT3": "{$NPCName.DD2GoblinT1}",																							
+		"DD2GoblinT2": "{$NPCName.DD2GoblinT1}",																							
+		"DD2GoblinT1": "Etern kobold",																							
+		"DD2JavelinstT3": "{$NPCName.DD2JavelinstT1}",																							
+		"DD2JavelinstT2": "{$NPCName.DD2JavelinstT1}",																							
+		"DD2JavelinstT1": "Etern gerelyvető",																							
+		"DD2GoblinBomberT3": "{$NPCName.DD2GoblinBomberT1}",																							
+		"DD2GoblinBomberT2": "{$NPCName.DD2GoblinBomberT1}",																							
+		"DD2GoblinBomberT1": "Etern kobold bombázó",																							
+		"DD2WyvernT3": "{$NPCName.DD2WyvernT1}",																							
+		"DD2WyvernT2": "{$NPCName.DD2WyvernT1}",																							
+		"DD2WyvernT1": "Etern sárkánygyík",																							
+		"DD2Bartender": "Csapos",																							
+		"DD2OgreT3": "{$NPCName.DD2OgreT2}",																							
+		"DD2OgreT2": "Ogre",																							
+		"DD2WitherBeastT3": "{$NPCName.DD2WitherBeastT2}",																							
+		"DD2WitherBeastT2": "Sorvasztó bestia",																							
+		"DD2SkeletonT3": "{$NPCName.DD2SkeletonT1}",																							
+		"DD2SkeletonT1": "Az öreg csontváza",																							
+		"DD2KoboldWalkerT3": "{$NPCName.DD2KoboldWalkerT2}",																							
+		"DD2KoboldWalkerT2": "Gnóm",																							
+		"DD2DrakinT3": "{$NPCName.DD2DrakinT2}",																							
+		"DD2DrakinT2": "Sárkányvér",																							
+		"DD2DarkMageT3": "{$NPCName.DD2DarkMageT1}",																							
+		"DD2DarkMageT1": "Sötét mágus",																							
+		"DD2KoboldFlyerT3": "{$NPCName.DD2KoboldFlyerT2}",																							
+		"DD2KoboldFlyerT2": "Gnóm vitorlázó",																							
+		"DD2Betsy": "Betsy",																							
+		"DD2LightningBugT3": "Etern fénybogár",																							
+		"MoonLordFreeEye": "Cthulhu igazi szeme",																							
+		"MoonLordLeechBlob": "Holdpiócavérrög",																							
+		"SkeletonMerchant": "Csontváz kereskedő",																							
+		"PirateShip": "Bolygó hollandi",																							
+		"PirateShipCannon": "Bolygó hollandi-ágyú",																							
+		"BartenderUnconscious": "Eszméletlen férfi",																							
+		"GiantWalkingAntlion": "Óriás rohamozó hangyaleső",																							
+		"GiantFlyingAntlion": "Óriás repülő hangyaleső",																							
+		"LarvaeAntlion": "Hangyaleső lárva",																							
+		"FairyCritterPink": "Rózsaszín tündér",																							
+		"FairyCritterGreen": "Zöld tündér",																							
+		"FairyCritterBlue": "Kék tündér",																							
+		"ZombieMerman": "Zombihabember",																							
+		"EyeballFlyingFish": "Vándorló szemhal",																							
+		"Golfer": "Golfos",																							
+		"GolferRescue": "Golfos",																							
+		"TorchZombie": "Zombi",																							
+		"ArmedTorchZombie": "Zombi",																							
+		"GoldGoldfish": "Arany aranyhal",																							
+		"GoldGoldfishWalker": "Arany aranyhal",																							
+		"WindyBalloon": "Szeles lufi",																							
+		"BlackDragonfly": "Szitakötő",																							
+		"BlueDragonfly": "Szitakötő",																							
+		"GreenDragonfly": "Szitakötő",																							
+		"OrangeDragonfly": "Szitakötő",																							
+		"RedDragonfly": "Szitakötő",																							
+		"YellowDragonfly": "Szitakötő",																							
+		"GoldDragonfly": "Arany szitakötő",																							
+		"Seagull": "Sirály",																							
+		"Seagull2": "Sirály",																							
+		"LadyBug": "Katicabogár",																							
+		"GoldLadyBug": "Arany katicabogár",																							
+		"Maggot": "Féreg",																							
+		"Pupfish": "Ikrázó fogasponty",																							
+		"Grebe": "Vöcsök",																							
+		"Grebe2": "Vöcsök",																							
+		"Rat": "Patkány",																							
+		"Owl": "Bagoly",																							
+		"ExplosiveBunny": "Robbanó nyúl",																							
+		"Turtle": "Teknős",																							
+		"TurtleJungle": "Esőerdői teknős",																							
+		"WaterStrider": "Molnárpoloska",																							
+		"GoldWaterStrider": "Arany molnárpoloska",																							
+		"Gnome": "Gnóm",																							
+		"SeaTurtle": "Tengeri teknős",																							
+		"Seahorse": "Csikóhal",																							
+		"GoldSeahorse": "Arany csikóhal",																							
+		"Dolphin": "Delfin",																							
+		"BloodSquid": "Vérpolip",																							
+		"BloodEelHead": "Vérangolna",																							
+		"BloodEelBody": "Vérangolna",																							
+		"BloodEelTail": "Vérangolna",																							
+		"GoblinShark": "Vérkobold cápa",																							
+		"BloodNautilus": "Rémkagyló",																							
+		"Dandelion": "Mérges pitypang",																							
+		"IceMimic": "Jégládautánzó",																							
+		"BloodMummy": "Vérmúmia",																							
+		"RockGolem": "Kőóriás",																							
+		"MaggotZombie": "Férges zombi",																							
+		"BestiaryGirl": "Zoologist",																							
+		"SporeBat": "Spóradenevér",																							
+		"SporeSkeleton": "Spóracsontváz",																							
+		"TownCat": "Cica",																							
+		"TownDog": "Kutya",																							
+		"GemSquirrelAmethyst": "Ametisztmókus",																							
+		"GemSquirrelTopaz": "Topázmókus",																							
+		"GemSquirrelSapphire": "Zafírmókus",																							
+		"GemSquirrelEmerald": "Smaragdmókus",																							
+		"GemSquirrelRuby": "Rubinmókus",																							
+		"GemSquirrelDiamond": "Gyémántmókus",																							
+		"GemSquirrelAmber": "Borostyánmókus",																							
+		"GemBunnyAmethyst": "Ametisztnyúl",																							
+		"GemBunnyTopaz": "Topáznyúl",																							
+		"GemBunnySapphire": "Zafírnyúl",																							
+		"GemBunnyEmerald": "Smaragdnyúl",																							
+		"GemBunnyRuby": "Rubinnyúl",																							
+		"GemBunnyDiamond": "Gyémántnyúl",																							
+		"GemBunnyAmber": "Borostyánnyúl",																							
+		"HellButterfly": "Pokollepke",																							
+		"Lavafly": "Lávabogár",																							
+		"MagmaSnail": "Magmacsiga",																							
+		"TownBunny": "Nyúl",																							
+		"QueenSlimeBoss": "Nyálakkirálynő",																							
+		"QueenSlimeMinionBlue": "Kristálynyálka",																							
+		"QueenSlimeMinionPink": "Ugrálós nyálka",																							
+		"QueenSlimeMinionPurple": "Mennyei nyálka",																							
+		"HallowBoss": "Fény úrnője",																							
+		"EmpressButterfly": "Prizmafátyolka",																							
+		"PirateGhost": "Kalóz átka",																							
+		"TorchGod": "Fáklyaisten",																							
+		"Princess": "Hercegnő",																							
+		"ChaosBallTim": "{$NPCName.ChaosBall}",																							
+		"VileSpitEaterOfWorlds": "{$NPCName.VileSpit}",																							
+		"GoldenSlime": "Aranynyálka",																							
+		"Deerclops": "Agancsklopsz",																							
+		"DeerclopsLeg": "Agancsklopsz lába",																							
+	}																								
+}																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
