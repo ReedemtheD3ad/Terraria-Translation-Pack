@@ -1058,7 +1058,7 @@
 		"npc_ZombieDoctor": "{$CommonBestiaryFlavor.CostumeZombie}",
 		"npc_ZombiePixie": "{$CommonBestiaryFlavor.CostumeZombie}",
 		"npc_MartianProbe": "Wesen aus anderen Welten wurden auf den Planeten geschickt, weil sie dort eine wachsende Macht ermittelt haben. Sie sollen dort nach fortschrittlichen Lebensformen suchen.",
-		"npc_MartianSaucerCore": "Ein fortschrittliches UFO von einem Ort, jenseits dieser Welt. Die Vernichtungsmacht seiner Waffen ist unvorstellbar.",
+		"npc_MartianSaucerCore": "Ein fortschrittliches UFO von einem Ort jenseits dieser Welt. Die Vernichtungsmacht seiner Waffen ist unvorstellbar.",
 		"npc_DemonEyeSpaceship": "{$CommonBestiaryFlavor.CostumeDemonEye}",
 		"npc_TwiggyZombie": "{$CommonBestiaryFlavor.Zombie}",
 		"npc_Merchant": "Der Händler ist eine Art Gemischtwarenladen, der nützliche Anfängerwerkzeuge und Vorräte für Erkundungstouren verkauft.",
@@ -2255,6 +2255,6 @@
 		"PlayerHasColaButIsNotHoldingIt": "Was hast du da? Joja Cola? Halte sie bitte heraus! Zeig sie mir!",
 		"PlayerHasColaAndIsHoldingIt": "Dieses unnatürliche Getränk in deiner Hand hat eine Verbindung zu einer anderen Welt... Ich kann versuchen, sie zu reinigen, wenn du möchtest.",
 		"GiveColaButtonText": "Reinigen",
-		"PlayerGivesCola": "Durch die Verbindung spüre ich einen reinen Geist. Er dankt dir, für die Beseitigung der Joja Cola!"
+		"PlayerGivesCola": "Durch die Verbindung spüre ich einen reinen Geist. Er dankt dir für die Beseitigung der Joja Cola!"
 	}
 }
