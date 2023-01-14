@@ -140,7 +140,7 @@
 		"Storm1": "Komm rein aus dem Sturm! Setz dich hin und trink was.",
 		"Storm2": "Du siehst etwas fertig aus! Vielleicht beruhigt ein Krug deine angesengten Nerven.",
 		"Windy1": "Und weg ist das Dach. Dabei habe ich es doch gerade gestern neumachen lassen!",
-		"Windy2": "Schnür dein Häubchen fest, heute weht eine steife Briese."
+		"Windy2": "Schnür dein Häubchen fest, heute weht eine steife Brise."
 	},
 	"PartyGirlSpecialText": {
 		"Party_1": "Hmm? Heute nichts Besonderes... haha, Scherz! Es ist Party-Zeit und danach ist After-Party-Zeit!",
@@ -191,7 +191,7 @@
 		"Rain2": "Toll! Jetzt ist meine Uniform nass. Hör auf, mich anzustarren!",
 		"Storm1": "Ich biete keine Elektroschocktherapie an. Geh raus und stell dich unter einen Baum!",
 		"Storm2": "Bleib einfach drinnen! Ich habe heute schon genug Patienten mit Blitzschlag behandelt.",
-		"Windy1": "Die Briese weht genau richtig! Pass auf fliegende Nadeln auf.",
+		"Windy1": "Die Brise weht genau richtig! Pass auf fliegende Nadeln auf.",
 		"Windy2": "Den ganzen Tag lang jage ich meinen Instrumenten hinterher. Dieser Wind hält mich fit!"
 	},
 	"WizardSpecialText": {
@@ -278,7 +278,7 @@
 		"Rain2": "Vorhin habe ich eine Wandmalerei gemacht. Hätte lieber auf den Wetterbericht hören sollen!",
 		"Storm1": "Wenn der Donner grollt und der Blitz einschlägt... dann leuchten die Farben der Möbel richtig schön.",
 		"Storm2": "Wenn du blinzelst, verpasst du es. Die hellsten Farben kommen nur beim Blitz zur Geltung.",
-		"Windy1": "Spürst du die Briese? Sie verteilt die Farbdünste im ganzen Haus.",
+		"Windy1": "Spürst du die Brise? Sie verteilt die Farbdünste im ganzen Haus.",
 		"Windy2": "Der Sturm hat meine frische Farbe wieder von der Wand gepustet!"
 	},
 	"AnglerSpecialText": {
@@ -579,7 +579,7 @@
 		"Rain2": "Dieser blöde Regen! Ich werde mit nichts fertig, wenn es so nass ist!",
 		"Storm1": "Elektrizität? Mach dich doch nicht lächerlich! Nichts ist besser als Dampf!",
 		"Storm2": "Alles, was ich erfinde, besteht aus Metall. In der aktuellen Lage sollte ich das noch mal überdenken!",
-		"Windy1": "Ah... ein Schluck Tee, um die Briese zu genießen.",
+		"Windy1": "Ah... ein Schluck Tee, um die Brise zu genießen.",
 		"Windy2": "Nun, dieses ganze Windphänomen hat mich zu Ideen für einen neuen Jetpackmotor inspiriert.",
 		"Party": "Alle sagen, sie mögen mehrschichtige Kuchen, deswegen habe ich in meinen Schornsteine eingebaut."
 	},
