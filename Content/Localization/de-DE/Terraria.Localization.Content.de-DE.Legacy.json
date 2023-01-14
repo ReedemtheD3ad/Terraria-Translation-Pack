@@ -387,7 +387,7 @@
 		"371": "Ich wollte {Dryad} mal davon überzeugen, mich in Gefallen zu bezahlen und jetzt wächst mir Pilz an unzugänglichen Stellen.",
 		"372": "Geh zu {ArmsDealer} und sag ihm, dass er mich nicht mehr mit Munition bezahlen soll. Ich hab ja nicht mal eine Waffe.",
 		"373": "Warum versuchst DU nicht, Geld von {Demolitionist} zu besorgen und dabei keine Körperteile zu verlieren...",
-		"374": "Ich komme grade vom {Merchant}. Er wollte wissen, ob ich Kreditkarten nehme.",
+		"374": "Ich komme grade von {Merchant}. Er wollte wissen, ob ich Kreditkarten nehme.",
 		"38": "MEINE GÜTE! Ich bin gut, aber ich bin nicht SO gut.",
 		"380": "Hier ist dein Anteil von den Steuern, die ich von unseren überschüssigen Bewohnern eingenommen habe!",
 		"381": "Und schon wieder willst du mein ganzes Geld! Nimm’s dir einfach und geh mir aus den Augen!",
@@ -736,9 +736,9 @@
 		"119": "Ambient:",
 		"216": "Smarte Blockplatzierung: Deaktiviert",
 		"29": "Hardcore-Charaktere sterben für immer.",
-		"30": "Mediumcore-Charaktere lassen bei Tod Gegenstände fallen.",
+		"30": "Mediumcore-Charaktere lassen beim Tod Gegenstände fallen.",
 		"26": "Klassisch",
-		"31": "Klassische Charaktere lassen bei Tod Geld fallen.",
+		"31": "Klassische Charaktere lassen beim Tod Geld fallen.",
 		"223": "Schnelllöschen: Linke Shift-Taste",
 		"224": "Schnelllöschen: Linke Strg-Taste",
 		"253": "Schnelllöschen: Deaktiviert"
@@ -880,7 +880,7 @@
 		"46": "Du hörst plötzlichen Stimmen aus anderen Dimensionen...",
 		"47": "Der Mondherr ist erwacht!",
 		"48": "Die Zwillinge sind erwacht!",
-		"49": "Die wachst aus einem seltsamen Traum auf...",
+		"49": "Du wachst aus einem seltsamen Traum auf...",
 		"4": "Die Frost-Legion wurde besiegt!",
 		"50": "wurde besiegt",
 		"51": "Mondfragment",
@@ -1067,7 +1067,7 @@
 		"97": "Angeln",
 		"98": "Position",
 		"99": "Tiefe",
-		"9": "Accessoires",
+		"9": "Accessoire",
 		"124": "Ektonebel"
 	},
 	"LegacyChestType": {
