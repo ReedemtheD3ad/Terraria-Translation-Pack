@@ -1532,9 +1532,9 @@
 		"UndergroundMushroom": "Untergrund-Pilz",
 		"UndergroundSnow": "Untergrund-Schnee",
 		"VortexPillar": "Vortexsäule",
-		"CorruptUndergroundDesert": "Verdorbene Wüstenhöhle",
-		"CrimsonUndergroundDesert": "Purpur-Wüstenhöhle",
-		"HallowUndergroundDesert": "Heilige Wüstenhöhle"
+		"CorruptUndergroundDesert": "Verdorbene Untergrund-Wüste",
+		"CrimsonUndergroundDesert": "Purpur-Untergrund-Wüste",
+		"HallowUndergroundDesert": "Heilige Untergrund-Wüste"
 	},
 	"Bestiary_BiomeText": {
 		"biome_Blizzard": "In diesem blendenden Chaos aus markerschütternden Wind und Schnee erscheinen die widerwärtigsten, eiskältesten Wesen. Jeder Schritt ist kalt und gefährlich.",
@@ -1659,7 +1659,7 @@
 		"FungiBulb": "Wenn die glühenden Pilze sich verbreiten wollen, dann sprießen diese Knollen, um die Sporen an andere Orte und zu anderen Wirten zu bringen.",
 		"GoldCritter": "Nur selten sieht man Wesen, die ganz von Gold bedeckt sind! Ladenbesitzern sind sie eine Menge wert. Oder du kannst sie in Käfigen ausstellen!",
 		"HellArmoredBones": "Den feurigen Glanz der Geschmolzenen Legion übersieht man nicht. Mit ihren roten Waffen in der Hand brennen sie sich den Weg frei.",
-		"Lamia": "Wenn die glühenden roten Augen in der Dunkelheit der Wüstenhöhlen erscheinen, ist es schon zu spät. Die Lamias haben ihre Beute gefunden.",
+		"Lamia": "Wenn die glühenden roten Augen in der Dunkelheit der Untergrund-Wüste erscheinen, ist es schon zu spät. Die Lamias haben ihre Beute gefunden.",
 		"Mimic": "Wenn du mit einer Truhe redest, macht dich das nicht gleich verrückt. Aber wenn die Truhe dir antwortet, kann das dein Tod sein! Trotzdem enthält sie seltene Schätze!",
 		"Mummy": "Wenn der Sand von externen Mächten verwandelt wird, dann stehen diejenigen, die in der Wüste ihre letzte Ruhe gefunden haben, egal, ob gut oder böse, wieder auf und wollen töten.",
 		"MushroomZombie": "Der Pilz, der diese Zombies beherrscht, will nur eines: Gehirne! Das kommt den Zombies sehr gelegen.",
