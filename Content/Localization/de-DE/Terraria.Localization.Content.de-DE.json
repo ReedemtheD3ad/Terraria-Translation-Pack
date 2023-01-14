@@ -67,7 +67,7 @@
 		"55": "Terraria: Probier auch mal Stardew Valley aus!",
 		"56": "Terraria: Probier auch mal Core Keeper aus!",
 		"66": "Terraria: Sei still und grabe, Gaiden!",
-		"67": "Terraria: Probier auch mal Don't Starve aus!"
+		"67": "Terraria: Probier auch mal Don’t Starve aus!"
 	},
 	"Achievements": {
 		"ARCHAEOLOGIST_Description": "Töte Doktor Bones.",
@@ -163,7 +163,7 @@
 		"LIKE_A_BOSS_Name": "Wie ein Boss",
 		"LUCKY_BREAK_Description": "Überlebe einen langen Fall mit nur einem Körnchen Leben.",
 		"LUCKY_BREAK_Name": "Glück gehabt",
-		"MARATHON_MEDALIST_Description": "Lege insgesamt 26.2 Meilen zu Fuß zurück.",
+		"MARATHON_MEDALIST_Description": "Lege insgesamt 26,2 Meilen zu Fuß zurück.",
 		"MARATHON_MEDALIST_Name": "Marathon-Medaillengewinner",
 		"MASTERMIND_Description": "Besiege das Gehirn Cthulhus, ein riesiges Dämonenhirn, das das kriechende Purpur heimsucht.",
 		"MASTERMIND_Name": "Superhirn",
@@ -295,8 +295,8 @@
 		"THROW_A_PARTY_Name": "Partykönig",
 		"TURN_GNOME_TO_STATUE_Description": "Leg einen Gnom rein, damit er sich in Stein verwandelt!",
 		"TURN_GNOME_TO_STATUE_Name": "Heliophobie",
-		"GET_GOLDEN_DELIGHT_Name": "Midas‘ Festmahl",
-		"GET_GOLDEN_DELIGHT_Description": "Erlange Goldenes Vergnügen, die hochwertigste Mahlzeit aus den hochwertigsten ... Zutaten.",
+		"GET_GOLDEN_DELIGHT_Name": "Midas’ Festmahl",
+		"GET_GOLDEN_DELIGHT_Description": "Erlange Goldenes Vergnügen, die hochwertigste Mahlzeit aus den hochwertigsten... Zutaten.",
 		"GET_CELL_PHONE_Name": "Schwarzer Spiegel",
 		"GET_CELL_PHONE_Description": "Erlange das Handy. Ohne wirst du dein Zuhause nie wieder verlassen.",
 		"GET_ANKH_SHIELD_Name": "Anchumulation abgeschlossen",
@@ -662,7 +662,7 @@
 		"StartedVictoryXmas": "Der Geist von Weihnachten verbreitet Freude...",
 		"Crimstone": "Purpurstein",
 		"Ebonstone": "Ebenstein",
-		"LicenseSlimeUsed": "Die Lizenz teleportiert sich selbst zurück zum Schleimlieferdienst ...",
+		"LicenseSlimeUsed": "Die Lizenz teleportiert sich selbst zurück zum Schleimlieferdienst...",
 		"Balloon": "Ballon",
 		"PumpkinMoonScore": "Der Kürbismond ist vorbeigezogen! (Punktezahl: {0})",
 		"FrostMoonScore": "Der Frostmond ist vorbeigezogen! (Punktezahl: {0})",
@@ -710,7 +710,7 @@
 		"CannotTeleportToPylonBecauseNotEnoughNPCs": "Es gibt nicht genug Bewohner in der Nähe des Pylons, um ihn zu benutzen",
 		"PlayerIsCreativeAndWorldIsNotCreative": "Nur Nicht-Reisecharaktere können einen Nicht-Reiseserver betreten.",
 		"PlayerIsNotCreativeAndWorldIsCreative": "Nur Reisecharaktere können einen Reiseserver betreten.",
-		"ServerSavingOnExit": "Vor dem Verlassen speichern ..."
+		"ServerSavingOnExit": "Vor dem Verlassen speichern..."
 	},
 	"Social": {
 		"Joining": "Beitreten...",
@@ -927,7 +927,7 @@
 		"Teleport_2_Female": "{0}s Beine sind da aufgetaucht, wo der Kopf sein sollte.",
 		"Fell_3": "{0} hat die Schwerkraft erfunden.",
 		"Fell_4": "{0} hat die Bedeutung des Fenstersturzes entdeckt.",
-		"Fell_5": "{0} war frei ... freifallend.",
+		"Fell_5": "{0} war frei... freifallend.",
 		"Fell_6": "{0} wollte auf Schlittschuhen den Berg hochlaufen.",
 		"Fell_7": "{0} glaubte, ein Vogel zu sein.",
 		"Fell_8": "{0} hat einen Krater verlassen.",
@@ -3272,7 +3272,7 @@
 		"39": "Alexaunder “as303298” Savoy",
 		"4": "Mike “TrinityFlash” Dunn",
 		"40": "Alexander “Vandarx” Reaves",
-		"41": "QEM - “Mystery”",
+		"41": "QEM – “Mystery”",
 		"42": "Balázs “Mamaluigi” Makai",
 		"43": "Daniel “Garro” Berner",
 		"44": "Tyler “Quill” Warr",
@@ -3393,7 +3393,7 @@
 		"ReportLogsButton": "Logs",
 		"ReportLogsInitialMessage": "Es gibt noch nichts anzuzeigen.",
 		"ResourcePackName": "Name:",
-		"ResourcePackPublishDescription": "Beim Veröffentlichen eines Ressourcenpakets wird es im Steam Workshop standardmäßig als privat hochgeladen, sodass nur du es sehen kannst. Du kannst auf der Steam-Seite sein Vorschaubild und die Beschreibung ändern und den Status zu \"öffentlich\" ändern, wenn du soweit bist. Mit dem Hochladen dieses Ressourcenpakets akzeptierst du die Workshop-Nutzungsbedingungen.",
+		"ResourcePackPublishDescription": "Beim Veröffentlichen eines Ressourcenpakets wird es im Steam Workshop standardmäßig als privat hochgeladen, sodass nur du es sehen kannst. Du kannst auf der Steam-Seite sein Vorschaubild und die Beschreibung ändern und den Status zu „öffentlich“ ändern, wenn du soweit bist. Mit dem Hochladen dieses Ressourcenpakets akzeptierst du die Workshop-Nutzungsbedingungen.",
 		"SettingsPublicityFriendsOnly": "Nur Freunde",
 		"SettingsPublicityFriendsOnlyDescription": "Dein Inhalt ist nur für Freunde sichtbar und verfügbar, nachdem du ihn veröffentlicht hast.\n{$Workshop.SettingsPublicityDescriptionSharedNote}",
 		"SettingsPublicityPrivate": "Privat",
@@ -3403,7 +3403,7 @@
 		"SteamDisclaimer": "Mit dem Einreichen dieses Items akzeptierst du die Workshop-Nutzungsbedingungen.",
 		"SteamDisclaimerDescrpition": "Öffne die Seite mit den vollständigen Steam-Nutzungsbedingungen.\nBitte verhalte dich beim Hochladen von Inhalten verantwortungsbewusst.",
 		"WorldName": "Name:",
-		"WorldPublishDescription": "Beim Veröffentlichen einer Welt wird sie im Steam Workshop standardmäßig als privat hochgeladen, sodass nur du sie sehen kannst. Du kannst auf der Steam-Seite ihr Vorschaubild und die Beschreibung ändern und den Status zu \"öffentlich\" ändern, wenn du soweit bist. Mit dem Hochladen dieser Welt akzeptierst du die Workshop-Nutzungsbedingungen.",
+		"WorldPublishDescription": "Beim Veröffentlichen einer Welt wird sie im Steam Workshop standardmäßig als privat hochgeladen, sodass nur du sie sehen kannst. Du kannst auf der Steam-Seite ihr Vorschaubild und die Beschreibung ändern und den Status zu „öffentlich“ ändern, wenn du soweit bist. Mit dem Hochladen dieser Welt akzeptierst du die Workshop-Nutzungsbedingungen.",
 		"HubDescriptionUseResourcePacks": "Verwende heruntergeladene oder über den Steam Workshop abonnierte Ressourcenpakete, damit du von ihren Grafiken und Sprachpaketen profitieren kannst.",
 		"SettingsPublicityDescriptionSharedNote": "Du kannst die Sichtbarkeitseinstellung für deinen Inhalt jederzeit über die Workshop-Seite ändern.",
 		"CategoryTitlePublicity": "Sichtbarkeit"
