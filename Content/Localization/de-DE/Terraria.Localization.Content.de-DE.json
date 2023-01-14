@@ -675,8 +675,8 @@
 		"SandstormBalloon": "Sandsturmballon",
 		"CombatBookVolumeTwoUsed": "{$Misc.CombatBookUsed}",
 		"PeddlersSatchelUsed": "Die Tasche des Handelsreisenden wird größer!",
-		"CritterGuides": "Anleitung für Kreaturenbegleitung",
-		"NatureGuides": "Leitfaden für Umweltschutz"
+		"CritterGuides": "Handbuch für Tierliebhaber",
+		"NatureGuides": "Richtlinien zum Naturschutz"
 	},
 	"Net": {
 		"CheatingInvalid": "Betrugsversuch festgestellt: Ungültiger Rauswurf",
