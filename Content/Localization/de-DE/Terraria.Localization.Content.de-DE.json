@@ -165,7 +165,7 @@
 		"LUCKY_BREAK_Name": "Glück gehabt",
 		"MARATHON_MEDALIST_Description": "Lege insgesamt 26,2 Meilen zu Fuß zurück.",
 		"MARATHON_MEDALIST_Name": "Marathon-Medaillengewinner",
-		"MASTERMIND_Description": "Besiege das Gehirn Cthulhus, ein riesiges Dämonenhirn, das das kriechende Purpur heimsucht.",
+		"MASTERMIND_Description": "Besiege das Gehirn von Cthulhu, ein riesiges Dämonenhirn, das das kriechende Purpur heimsucht.",
 		"MASTERMIND_Name": "Superhirn",
 		"MATCHING_ATTIRE_Description": "Rüste in allen drei Rüstungsslots Rüstung aus: Kopf, Brust, Füße.",
 		"MATCHING_ATTIRE_Name": "Passende Kleidung",
@@ -652,7 +652,7 @@
 		"WaterSettled": "Wasser hat sich abgesetzt.",
 		"CanBePlacedInVanity": "Kann in Modeslots ausgerüstet werden",
 		"CombatBookUsed": "Das Wissen des Buchs macht deine Bewohner stärker!",
-		"EndedVictoryHalloween": "Der Geist des Halloweens ruht...",
+		"EndedVictoryHalloween": "Der Geist von Halloween ruht...",
 		"EndedVictoryXmas": "Der Geist von Weihnachten verblasst...",
 		"Fruit": "Frucht",
 		"LicenseBunnyUsed": "Die Lizenz teleportiert sich selbst zurück zum Hasenlieferdienst...",
@@ -3184,8 +3184,8 @@
 		"CreatingPlayer": "Erstellt einen Spieler",
 		"CreatingWorld": "Generiert eine Welt",
 		"InMainMenu": "Im Hauptmenü",
-		"PlayingMulti": "Spielt den Mehrspielermodus",
-		"PlayingSingle": "Spielt den Einzelspielermodus",
+		"PlayingMulti": "Spielt im Mehrspielermodus",
+		"PlayingSingle": "Spielt im Einzelspielermodus",
 		"Spaghet": "Kocht Mampfi"
 	},
 	"CreditsRollCategory_BusinessDevelopment": {
