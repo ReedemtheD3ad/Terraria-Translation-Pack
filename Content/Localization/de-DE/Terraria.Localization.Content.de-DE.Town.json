@@ -149,7 +149,7 @@
 		"Cake1": "Wo warste denn?! Hier geht voll die Party ab! Hier, nimm den Kuchen!",
 		"Cake2": "Pssst! Du darfst NIEMANDEM verraten, dass ich ihn dir gegeben habe! Das soll eine Überraschung sein!",
 		"Cake3": "Partytime! Du hast dann so voll die Verantwortung für den Kuchen, {PlayerName}!",
-		"Graveyard1": "Juhu! Es ist Zeit für Party! ... ähm, warum bewegt sich denn keiner?",
+		"Graveyard1": "Juhu! Es ist Zeit für Party! ... Ähm, warum bewegt sich denn keiner?",
 		"Graveyard2": "Wir sollten so laut Party machen, dass selbst die Toten in ihren Gräbern erwachen! Hihi!",
 		"Rain1": "Draußen regnet es! Komm rein und mach Party mit uns!",
 		"Rain2": "Oh, du bist ja ganz nass? Shake it off!",
@@ -237,7 +237,7 @@
 		"Party": "Heute solltest du vorsichtig sein. Wir Zwerge haben ziemlich explosive Partys.",
 		"AfterDD2Start": "Ich verstehe nicht, warum wir die Portale nicht einfach in die Luft sprengen können.",
 		"Graveyard1": "Der Pestgestank hier ist schlimmer als in den Skelett verseuchten Höhlen, in denen ich arbeite!",
-		"Graveyard2": "All diese Knochen- und Steinhaufen... perfekt zum in die Luft jagen!",
+		"Graveyard2": "All diese Knochen- und Steinhaufen... perfekt zum in die Luft Jagen!",
 		"Rain1": "Ein schrecklicher Tag, ein Zwerg zu sein.",
 		"Rain2": "ARGH! Schon wieder hat die Feuchtigkeit eine Zündung rausgeschossen! Im Untergrund passiert das nie!",
 		"Storm1": "WUMM! Selbst Mutter Natur ist ein Fan von anständiger Zerstörung!",
@@ -268,7 +268,7 @@
 		"Storm1": "Ich bleibe drinnen! Der Einstein-Look ist NICHT in!",
 		"Storm2": "Echt jetzt? Dieser verrückte Sturm ist schlecht fürs Geschäft!",
 		"Windy1": "Du willst vom Winde verwehtes Haar? Geh nur raus, gibt’s kostenlos!",
-		"Windy2": "Argh! ich sollte mir heute freinehmen, der Wind pustet meine ganze harte Arbeit weg!"
+		"Windy2": "Argh! Ich sollte mir heute freinehmen, der Wind pustet meine ganze harte Arbeit weg!"
 	},
 	"PainterSpecialText": {
 		"Party": "Ich hab schon mal ein Paintball-Duell ausprobiert, aber die Leute wollten lieber Essen und Dekorationen.",
@@ -880,7 +880,7 @@
 		"LikeBiome": "Ich mag {BiomeName}. Die Maschinen überhitzen hier nicht und der Stromfluss ist effizient.",
 		"LikeNPC": "Ich habe das Gefühl, {NPCName} besser als alle anderen zu verstehen.",
 		"LoveBiome": "Ich liebe {BiomeName}.",
-		"LoveNPC": "Umm... {NPCName} bringt mein Herz zum rasen. Ich sollte mal zum Arzt gehen!",
+		"LoveNPC": "Umm... {NPCName} bringt mein Herz zum Rasen. Ich sollte mal zum Arzt gehen!",
 		"LoveSpace": "Perfekt, niemand steht dem Bau der Infrastruktur im Weg.",
 		"NoHome": "Ich brauche etwas, wo durch ich diese Kabel führen kann.",
 		"LikeNPC_Princess": "{NPCName} hat eine meiner Pumpen kurzgeschlossen. Bin total beeindruckt!"
@@ -943,7 +943,7 @@
 		"DislikeNPC": "Ich glaube, {NPCName} ruiniert jede Party.",
 		"FarFromHome": "Meine Partygeschenke! Ich habe sie zuhause vergessen. Wow, das ist ganz schön weit weg!",
 		"HateBiome": "Meine Güte, {BiomeName} bringt meine Partylaune im wahrsten Sinne des Wortes in den Keller.",
-		"HateCrowded": "Wow, hier sind so viele Leute. Wie ätzend, dass sie nicht zum Party machen hier sind.",
+		"HateCrowded": "Wow, hier sind so viele Leute. Wie ätzend, dass sie nicht zum Party Machen hier sind.",
 		"HateNPC": "Ich hasse es, wie {NPCName} immer versucht, mich von After-Partys abzuhalten. So ein Griesgram!",
 		"LikeBiome": "Warum ich {BiomeName} mag? Wegen der REGENBÖGEN!",
 		"LikeNPC": "Ich mag, wie {NPCName} Party macht.",
@@ -959,7 +959,7 @@
 		"DislikeCrowded": "Fest! Zu viele Landratten, die mir die Laune verderben.",
 		"DislikeNPC": "{NPCName} hat versucht, meinen Bart zu schneiden! Ich habe schon Kehlen für weniger durchgeschnitten!",
 		"FarFromHome": "Mein Bett und mein Rum rufen von zuhause nach mir.",
-		"HateBiome": "Arr, {BiomeName} ist das fauligste Stück land, das ich je bereist habe!",
+		"HateBiome": "Arr, {BiomeName} ist das fauligste Stück Land, das ich je bereist habe!",
 		"HateCrowded": "Hast du auch das Gefühl, dass eine Meuterei ansteht? Zu viele Strolche, die meiner Kombüse zu nahe kommen!",
 		"HateNPC": "Ich werde {NPCName} über die Planke laufen lassen! Ich hasse das Verhätscheln und den üblen Gestank!",
 		"LikeBiome": "Har har har, Matrose! {BiomeName} ist mein wahres Zuhause!",

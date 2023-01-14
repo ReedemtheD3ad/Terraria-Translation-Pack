@@ -855,10 +855,10 @@
 		"Emoji_1": "/e",
 		"Help": "/hilfe",
 		"RPS": "/ssp",
-		"Death": "/Tod",
-		"PVPDeath": "/PvPtod",
+		"Death": "/tod",
+		"PVPDeath": "/pvptod",
 		"AllDeath": "/alletod",
-		"AllPVPDeath": "/allePvPtod"
+		"AllPVPDeath": "/allpvptod"
 	},
 	"Bestiary_ItemDropConditions": {
 		"NotExpert": "",
@@ -2070,7 +2070,7 @@
 		"100": "Wenn die Blocktausch-Funktion aktiviert ist, kannst du einen Block mit einem anderen ersetzen, ohne ihn erst abbauen zu müssen.",
 		"101": "Halte um Halloween herum die Augen nach Wundertüten offen. Du findest darin allerlei gruselige Gegenstände. Süßes, sonst gibt’s Saures!",
 		"102": "Wolken sind nett und weich, und du verletzt dich nicht, wenn du auf sie fällst, egal, wie tief der Fall war.",
-		"103": "Wusstest du, dass du deinen Beschwörungen befehlen kannst, ein spezielles Ziel anzugreifen? Klicke mit Rechts auf den Gegner, während du eine Beschwörungswaffe benutzt.",
+		"103": "Wusstest du, dass du deinen Beschwörungen befehlen kannst, ein spezielles Ziel anzugreifen? Klicke mit rechts auf den Gegner, während du eine Beschwörungswaffe benutzt.",
 		"104": "Drücke + oder -, um rein- oder rauszuzoomen! Konzentriere dich auf das, was wichtig ist!",
 		"105": "Du willst einem Freund etwas auf der Karte zeigen? Dann doppelklicke auf die Karte, um einen Ort für andere zu markieren!",
 		"107": "Gegner sind nicht die einzige Gefahr, die unter der Erde lauert. Pass auch auf Fallen auf!",
