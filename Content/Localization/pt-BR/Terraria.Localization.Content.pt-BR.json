@@ -20,8 +20,8 @@
 		"24": "Terraria: Agora com mais coisas querendo te matar!",
 		"25": "Terraria: Os boatos sobre a morte dos Guias foram um enorme exagero!",
 		"26": "Terraria: Tenho Pena das Ferramentas...",
-		"27": "Terraria: E os espeleólogos dizem 'o quê'?",
-		"28": "Terraria: Então eu disse 'Algo a ver com uma atualização do PC...'",
+		"27": "Terraria: E os espeleólogos dizem \"o quê\"?",
+		"28": "Terraria: Então eu disse \"Algo a ver com uma atualização do PC...\"",
 		"29": "Terraria: Que os blocos estejam com você",
 		"3": "Terraria: A Areia é Superpoderosa",
 		"30": "Terraria: Melhor que a própria vida",
@@ -351,7 +351,7 @@
 		"Exit_Command": "exit",
 		"Exit_Description": "Fecha o servidor e salva.",
 		"FPS_Command": "fps",
-		"HelpHint": "Digite 'help' para consultar uma lista de comandos.",
+		"HelpHint": "Digite \"help\" para consultar uma lista de comandos.",
 		"Help_Command": "help",
 		"Help_Description": "Exibir uma lista de comandos.",
 		"InvalidCommand": "Comando inválido.",
@@ -507,11 +507,10 @@
 		"RespawnInPrefix": "",
 		"RespawnInSuffix": "{0}",
 		"BallBounceResultGolf_Plural": "{0} acertou a {1} no buraco em {2} tacadas!",
-		"BallBounceResultGolf_Single": "{0} acertou a {1} no buraco em {2} tacada!",
+		"BallBounceResultGolf_Single": "{0} acertou a {1} no buraco com uma só tacada!"
 		"ReservedForNPC": "Reservado para {0}",
 		"DarknessDanger": "Está muito escuro... você sente que está em perigo...",
 		"DarknessSafe": "O perigo da escuridão passou.",
-		"BallBounceResultGolf_Single": "{0} acertou {1} com uma só tacada!"
 	},
 	"GameUI": {
 		"ActuationDeviceOff": "Dispositivo atuador desligado",
@@ -709,7 +708,7 @@
 		"CannotTeleportToPylonBecausePlayerIsNotNearAPylon": "Você não está perto o bastante de um pilar para se teleportar para a rede de pilares",
 		"CannotTeleportToPylonBecauseThereIsDanger": "Derrote a ameaça atual antes de usar a rede de pilares!",
 		"CannotTeleportToPylonBecauseNotEnoughNPCs": "Não há habitantes da cidade o suficiente perto do pilar para acessá-lo",
-		"PlayerIsCreativeAndWorldIsNotCreative": "Apenas personagens que não sejam do modo Jornada podem entrar em um servidor que não seja do modo Jornada.",
+		"PlayerIsCreativeAndWorldIsNotCreative": "Apenas personagens não-Jornada podem entrar em um servidor não-Jornada.",
 		"PlayerIsNotCreativeAndWorldIsCreative": "Apenas personagens do modo Jornada podem entrar em um servidor do modo Jornada.",
 		"ServerSavingOnExit": "Salvando antes de sair..."
 	},
@@ -845,7 +844,7 @@
 		"WorldDescriptionSizeMedium": "Maior e melhor para uma exploração prolongada ou para jogar com um amigo.",
 		"WorldDescriptionSizeSmall": "Ideal para uma experiência rápida para um jogador.",
 		"Creative": "Jornada",
-		"CreativeDescriptionPlayer": "Personagens “Jornada” iniciam com equipamento adicional e só podem ser usados em mundos “Jornada”.",
+		"CreativeDescriptionPlayer": "Personagens \"Jornada\" iniciam com equipamento adicional e só podem ser usados em mundos \"Jornada\".",
 		"NormalDescription": "(A experiência padrão do Terraria)",
 		"NormalDescriptionFlavor": "Sua aventura começa...",
 		"WorldDescriptionCreative": "Com grandes poderes vêm grandes reponsabilidades (desperte toda sua criatividade)",
@@ -927,8 +926,8 @@
 		"Teleport_2_Male": "{0} acabou com as pernas no lugar da cabeça.",
 		"Teleport_2_Female": "{0} acabou com as pernas no lugar da cabeça.",
 		"Fell_3": "{0} inventou a gravidade.",
-		"Fell_4": "{0} descobriu o significado de “defenestrar”.",
-		"Fell_5": "{0} fez o “cai, cai” sem o “balão”.",
+		"Fell_4": "{0} descobriu o significado de \"defenestrar\".",
+		"Fell_5": "{0} fez o \"cai, cai\" sem o \"balão\".",
 		"Fell_6": "{0} tentou patinar no gelo morro acima.",
 		"Fell_7": "{0} achou que podia voar.",
 		"Fell_8": "{0} deixou uma cratera.",
@@ -3192,7 +3191,7 @@
 		"Spaghet": "Cozinhando espaguete"
 	},
 	"CreditsRollCategory_BusinessDevelopment": {
-		"1": "Business Development",
+		"1": "Desenvolvimento de Negócios",
 		"2": "Ted “Loki” Murphy",
 		"3": "David “D-Town” Phelps"
 	},
@@ -3207,7 +3206,7 @@
 		"4": "Yorai “Yoraiz0r” Omer"
 	},
 	"CreditsRollCategory_Dialog": {
-		"1": "Dialog",
+		"1": "Diálogo",
 		"2": "James “Lazure” Hayes",
 		"3": "Jeremy “Blue” Guerrette",
 		"4": "Dustin “Splugen” Gunter"
@@ -3216,7 +3215,7 @@
 		"1": "Obrigado por jogar!"
 	},
 	"CreditsRollCategory_ExecutiveProducer": {
-		"1": "Executive Producer",
+		"1": "Produtora Executiva",
 		"2": "Whitney “Cenx” Spinks"
 	},
 	"CreditsRollCategory_Graphics": {
@@ -3240,7 +3239,7 @@
 		"2": "Scott Lloyd Shelly"
 	},
 	"CreditsRollCategory_Playtesting": {
-		"1": "Playtesting",
+		"1": "Testadores",
 		"10": "Brandon “rbrandon” Kime",
 		"11": "Clara Kane",
 		"12": "Brian “Blahblahbal” Hansen",
@@ -3326,7 +3325,7 @@
 		"8": "David “Chicken Bones” Jakes"
 	},
 	"CreditsRollCategory_PublicRelations": {
-		"1": "Public Relations",
+		"1": "Relações Públicas",
 		"2": "Amanda “safeman” Powell"
 	},
 	"CreditsRollCategory_QualityAssurance": {
@@ -3428,9 +3427,9 @@
 		"ClassicWorlds": "Clássico",
 		"ClassicWorldsDescription": "Mundos criados para a experiência padrão do Terraria.",
 		"ExpertWorlds": "Perito",
-		"ExpertWorldsDescription": "Mundos criados para a dificuldade “Perito”: fortuna e glória, jovem!",
+		"ExpertWorldsDescription": "Mundos criados para a dificuldade \"Perito\": fortuna e glória, jovem!",
 		"MasterWorlds": "Mestre",
-		"MasterWorldsDescription": "Mundos criados para a dificuldade “Mestre”: apenas para aqueles tolos que buscam os maiores desafios!",
+		"MasterWorldsDescription": "Mundos criados para a dificuldade \"Mestre\": apenas para aqueles tolos que buscam os maiores desafios!",
 		"ChallengeWorlds": "Desafio",
 		"ChallengeWorldsDescription": "Mundos que desafiam suas habilidades! Parkour, enigmas e muito mais!",
 		"CorruptionWorlds": "Corrupção",
