@@ -88,7 +88,7 @@
 		"Rain2": "O equilíbrio é tudo. Precisamos do sol e precisamos da chuva. Excesso de um ou de outro leva à ruína.",
 		"Storm1": "Do alto de toda sua majestade, os espíritos estão estrondosos hoje.",
 		"Storm2": "Relâmpagos criam sombras poderosas e sombras criam relâmpagos poderosos.",
-		"Windy1": "Não tire o olho do seu talismã em um dia como hoje... tenha certeza que está sempre o “vento”.",
+		"Windy1": "Não tire o olho do seu talismã em um dia como hoje... tenha certeza que está sempre o \"vento\".",
 		"Windy2": "O vento sopra com as folhas, as folhas sopram com o vento."
 	},
 	"ClothierSpecialText": {
@@ -103,7 +103,7 @@
 		"Windy2": "O vento está com tudo hoje!"
 	},
 	"TravellingMerchantSpecialText": {
-		"Party": "Dizem que as festão são a fonte das memórias mais valiosas. Então compre algo e torne essa uma memória valiosa!",
+		"Party": "Dizem que as festas são a fonte das memórias mais valiosas. Então compre algo e torne essa uma memória valiosa!",
 		"Graveyard1": "Ufa! Veja quantos produtos tenho! Eu NÃO os peguei dos corpos enterrados aqui, eu juro.",
 		"Graveyard2": "Em todas as minhas viagens, nunca encontrei alguém que morasse em um lugar terrível como este! Bem, desde que você tenha moedas, não tem problema...",
 		"Rain1": "Faça chuva, faça sol, venho de longe para servir você! Tem moedas?",
@@ -111,7 +111,7 @@
 		"Storm1": "Compre logo!",
 		"Storm2": "Ufa! Foi quase! Tijolo e cimento parece um bom investimento para enfrentar este clima, não é?",
 		"Windy1": "Eu vou aonde o vento me levar, mas isto já é um pouco demais!",
-		"Windy2": "Eu poderia vender meias que não deixam você ser levado pelo vento, mas seria uma solução “meia” boca para o problema."
+		"Windy2": "Eu poderia vender meias que não deixam você ser levado pelo vento, mas seria uma solução \"meia\" boca para o problema."
 	},
 	"MechanicSpecialText": {
 		"Party": "Você acha que alguém se importaria se eu usasse lâmpadas ao invés de velas em um bolo?",
@@ -155,7 +155,7 @@
 		"Rain2": "Você se molhou? É só sacudir o esqueleto que seca!",
 		"Storm1": "No meio da festa, ouvimos o som de um trovão. Eu entrei em pânico!",
 		"Storm2": "Vamos dançar! É só sacudir o esqueleto no ritmo dos trovões!",
-		"Windy1": "Alguém falou “Furacão 2000”? É o som ideal para uma festa nesta ventania...",
+		"Windy1": "Alguém falou \"Furacão 2000\"? É o som ideal para uma festa nesta ventania...",
 		"Windy2": "Hoje é um dia perfeito para, tipo, jogar confetes pro alto!",
 		"Music1": "A música está acabando com a festa? Eu mudo a playlist para você.",
 		"Music2": "Está festa está precisando de uma animada! Que tal mudar a música?",
@@ -252,7 +252,7 @@
 		"Party": "Festas são ótimas para fazer as pessoas saírem de sua zona de conforto, igual às armas de fogo.",
 		"Graveyard1": "Odeio lugares como este. Não posso matar o que já está morto!",
 		"Graveyard2": "Se você vir qualquer atividade suspeita naquela neblina, não fui eu.",
-		"Rain2": "Peixes voadores? Eu chamo de “tiro ao alvo”!",
+		"Rain2": "Peixes voadores? Eu chamo de \"tiro ao alvo\"!",
 		"Storm1": "Uma arma de relâmpagos? Não tenho tempo pra isso. Adoro os meus projéteis!",
 		"Storm2": "Se você calcular direitinho, ninguém ouve seus disparos com os trovões.",
 		"Windy1": "Eu estava experimentando minha arma nova, mas o vento não parava de me fazer errar a mira!",
@@ -329,7 +329,7 @@
 		"Quest_BloodyManowar": "Oh! Não venha para perto de mim! Levei uma picada de uma Caravela Sangrenta! Se você não for inteligente o suficiente para saber do que estou falando, é a água-viva mais perigosa de todo o {WorldName}! Vá até o carmim apodrecido e pegue uma, se tiver coragem! \n\n(Capturada no Carmim)",
 		"Quest_Bonefish": "Eu normalmente não me importo ao ver ossos de peixes flutuando na água, mas estes estavam nadando! O que foi, você achou que só esqueletos humanos podiam continuar perambulando pelo {WorldName}? Capture-o para mim, quero colocá-lo na cama de alguém!\n\n(Capturado no Submundo e nas Cavernas)",
 		"Quest_Bunnyfish": "Na floresta, eu estava pescando, certo? Adivinha só! Um coelhinho veio pulando até onde eu estava! Depois outro, e mais um... de repente eu estava rodeado de coelhinhos! Um deles até veio nadando na minha direção, saindo da água, só que sem pernas! Eu caí da minha cadeira de tanta surpresa, e todos os coelhinhos fugiram! Eu quero aquele peixe coelhinho como animal de estimação, melhor você ir buscá-lo para mim! Agora mesmo!\n\n(Capturado na Superfície)",
-		"Quest_CapnTunabeard": "Yarr, marujo! Olho de vidro e perna de pau! Parem, cães do mar! Há um capitão pirata que tinha um peixe de estimação que se chamava Capitão Barba-de-Atum, mas durante uma tempestade seu aquário virou e caiu no mar! Ele tem um gancho ao invés de uma cauda, um tapa-olho e tudo mais! Você precisa pegar esse peixe para mim, assim eu serei tão descolado quanto um pirata! Obviamente ele está em algum lugar no oceano! Dãa!\n\n(Capturado no Oceano)",
+		"Quest_CapnTunabeard": "Yarr, marujo! Olho de vidro e perna de pau! Parem, cães do mar! Há um capitão pirata que tinha um peixe de estimação que se chamava Capitão Barba-de-atum, mas durante uma tempestade seu aquário virou e caiu no mar! Ele tem um gancho ao invés de uma cauda, um tapa-olho e tudo mais! Você precisa pegar esse peixe para mim, assim eu serei tão descolado quanto um pirata! Obviamente ele está em algum lugar no oceano! Dãa!\n\n(Capturado no Oceano)",
 		"Quest_Clownfish": "Vi um peixe laranja brilhante no mar, e ele estava bem nervoso, como se estivesse procurando um membro de sua família! Vá pegá-lo para mim, assim outro nervoso como ele vai aparecer, procurando por ele!\n\n(Capturado no Oceano)",
 		"Quest_DemonicHellfish": "Ouvi dizer no submundo que o Rei de todos os demônios é, na verdade, um peixe! Imagine o poder absoluto que eu teria se você o pegasse para mim!\n\n(Capturado nas Cavernas)",
 		"Quest_Derpfish": "Os Derplings, que vivem na selva, são as criaturas mais assustadoras que eu já vi! Ainda bem que, às vezes, eles não têm pernas! Esses vivem na água e são bem menos assustadores! Pegue um para mim, assim eu saberei que gosto eles têm sem ter que morrer de medo!\n\n(Capturado na Superfície da Selva)",
@@ -340,8 +340,8 @@
 		"Quest_TundraTrout": "Você sabe por que os lagos na superfície das terras gélidas de {WorldName} nunca congelam? Eu não. Mas os peixes sabem! Um peixe feito de gelo seria uma ótima oferenda ao poderoso e incrível {Angler}! Vá, fiel servo, e traga-me rápido esta Truta da Tundra!\n\n(Capturado na Tundra da Superfície)",
 		"Quest_Slimefish": "As geleias da floresta são meio nojentas. Peixes-geleia são ainda mais! Não quero nadar com geleias, então capture um deles para mim.\n\n(Capturado na Superfície da Floresta)",
 		"Quest_AmanitaFungifin": "Encontrei este lugar espetacular, repleto de cogumelos brilhantes! Tudo era azul! EU estava pegando alguns cogumelos que encontrei perto de um lago azul brilhante quando um dos cogumelos irritou-se comigo e foi embora! Eu quero que ele prove do próprio veneno, depois vou devorá-lo! O que eu quero dizer é, vá pegar ele para mim!\n\n(Capturado em Campos de Cogumelos Brilhantes)",
-		"Quest_Dirtfish": "Eu estava puxando o grandão quando apareceu um zumbi falante engraçado do lago na floresta, dizendo algo sobre uma espécie de peixe 'feroz', feito de lama! Ele disse que o peixe era capaz de sufocar dez caras do tamanho dele, ou algo parecido... Eu quero ele! AGORA!\n\n(Capturado na Superfície e no Subterrâneo)",
-		"Quest_ScarabFish": "Li uma história antiga sobre um peixe que parece um escaravelho mágico! Ou um “besouro” pra quem tem o vocabulário mais limitado, como você. Onde o encontrar? Onde você acha? No deserto, claro! Não me olhe assim... é verdade! Tem água lá! Eu até iria, mas não quero que meus olhos sejam devorados por abutres. Sendo assim... vá você!\n\n(Capturado no Deserto)",
+		"Quest_Dirtfish": "Eu estava puxando o grandão quando apareceu um zumbi falante engraçado do lago na floresta, dizendo algo sobre uma espécie de peixe \"feroz\", feito de lama! Ele disse que o peixe era capaz de sufocar dez caras do tamanho dele, ou algo parecido... Eu quero ele! AGORA!\n\n(Capturado na Superfície e no Subterrâneo)",
+		"Quest_ScarabFish": "Li uma história antiga sobre um peixe que parece um escaravelho mágico! Ou um \"besouro\" pra quem tem o vocabulário mais limitado, como você. Onde o encontrar? Onde você acha? No deserto, claro! Não me olhe assim... é verdade! Tem água lá! Eu até iria, mas não quero que meus olhos sejam devorados por abutres. Sendo assim... vá você!\n\n(Capturado no Deserto)",
 		"Quest_ScorpioFish": "Tenho certeza que alguém, alguém bem estúpido, tentou convencer você de que não há água no deserto! Pois erraram feio! Tem uma coisa chamada \"Oásis\", que tem água! Sabe o que mais tem onde tem água?! Acertou, peixes! Peixes estranhos que tentam picar ou prender ou fazer um monte de coisas ruins com você! Um animalzinho perfeito pra mim, um trabalho perfeito pra você!\n\n(Capturado no Deserto)",
 		"Quest_Pengfish": "É uma baleia! É um golfinho! Não, é um peixe pinguim! Ah, e olha só, é você! Você que vai trazer um para mim! Você sabe que eles só gostam de água gelada, certo?\n\n(Capturado na Superfície da Tundra)",
 		"Quest_Pixiefish": "Há um tipo muito, muito raro de pixie que nasce com tantas asas que não consegue voar! Ela nada com os peixes nos lagos rodeada por aquela grama azul. Meu aquário precisa de uma lâmpada, então eu quero que você pegue aquela fada para mim!\n\n(Capturado na Superfície da Terra Consagrada)",
