@@ -2173,7 +2173,7 @@
 		"99": "Wenn dir ein Gegner Geld stiehlt, nachdem du im Experten-Modus gestorben bist, dann jage ihn! Besiegst du ihn, erhältst du dein Geld zurück.",
 		"106": "Die Leere-Tasche ist ein magisches Artefakt, das Gegenstände für dich lagert, wenn dein Inventar voll ist.",
 		"32": "Nachts können Sternschnuppen erscheinen. Sammle 5 davon, um einen Mana-Kristall zu fertigen, mit dem du dein Mana erhöhen kannst.",
-		"13": "Mit einem Glückshufeisen erleidest du keinen Sturzschaden. Suche in Truhen auf schwimmenden Inseln nach ihnen."
+		"13": "Mit einem Glückshufeisen erleidest du keinen Fallschaden. Suche in Truhen auf schwimmenden Inseln nach ihnen."
 	},
 	"WorldGeneration": {
 		"OceanSand": "Meeressand wird generiert",
