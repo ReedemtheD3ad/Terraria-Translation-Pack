@@ -1624,17 +1624,17 @@
 		"NightTime": "Nachts"
 	},
 	"ChatCommandDescription": {
-		"Emote": "{$ChatCommand.Emote} Nachricht: Schicke die Nachricht in der dritten Person",
+		"Emote": "{$ChatCommand.Emote} Nachricht: Schickt die Nachricht in der dritten Person",
 		"Help": "{$ChatCommand.Help}: Listet alle Befehle auf, die du benutzen kannst",
-		"Party": "{$ChatCommand.Party} Nachricht: Schicke die Nachricht an deine Gruppenmitglieder",
+		"Party": "{$ChatCommand.Party} Nachricht: Schickt die Nachricht an deine Gruppenmitglieder",
 		"Playing": "{$ChatCommand.Playing_0}: Listet die Namen aller Spieler auf dem Server auf",
-		"Roll": "{$ChatCommand.Roll}: Würfle eine Zahl zwischen 1 und 100",
+		"Roll": "{$ChatCommand.Roll}: Würfelt eine Zahl zwischen 1 und 100",
 		"RPS": "{$ChatCommand.RPS}: Zeigt nach Zufallsprinzip entweder Schere, Stein oder Papier an",
-		"Emoji": "{$ChatCommand.Emoji_1} #: Zeige ein Emoji",
-		"Death": "{$ChatCommand.Death}: Zeigt die Todesanzahl",
-		"PVPDeath": "{$ChatCommand.PVPDeath}: Zeigt die PvP-Todesanzahl",
-		"AllDeath": "{$ChatCommand.AllDeath}: Zeigt bei allen die Anzahl der Tode an",
-		"AllPVPDeath": "{$ChatCommand.AllPVPDeath}: Zeigt bei allen die Anzahl der PvP-Tode an"
+		"Emoji": "{$ChatCommand.Emoji_1} #: Zeigt ein Emoji",
+		"Death": "{$ChatCommand.Death}: Zeigt die Anzahl deiner Tode",
+		"PVPDeath": "{$ChatCommand.PVPDeath}: Zeigt die Anzahl deiner PvP-Tode",
+		"AllDeath": "{$ChatCommand.AllDeath}: Zeigt die Anzahl der Tode von allen Spielern an",
+		"AllPVPDeath": "{$ChatCommand.AllPVPDeath}: Zeigt die Anzahl der PvP-Tode von allen Spielern an"
 	},
 	"CommonBestiaryFlavor": {
 		"DemonEye": "Im Dunkel der Nacht kann das komische Gefühl, dass einen jemand beobachtet, wirklich wahr werden, wenn die Günstlinge Cthulhus durch die Lüfte streifen.",
