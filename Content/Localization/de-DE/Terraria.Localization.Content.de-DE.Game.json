@@ -2181,10 +2181,10 @@
 	},
 	"LoadingTips_GamePad": {
 		"0": "Du kannst deine Lieblingsgegenstände deinem DPad zuweisen, damit du sie über die DPad-Schnellleiste schneller benutzen kannst.",
-		"1": "Wenn du die {InputTrigger_UseOrAttack}-Taste gedrückt hältst, kannst du einige Gegenstände fortlaufend benutzen.",
+		"1": "Wenn du die Taste {InputTrigger_UseOrAttack} gedrückt hältst, kannst du einige Gegenstände fortlaufend benutzen.",
 		"10": "Halte {InputTrigger_RadialQuickbar} und {InputTrigger_RadialHotbar} gedrückt, um die Ring-Schnellleisten anzuzeigen. Damit hast du schnelleren Zugriff auf Tränke, Reittiere und die Gegenstände in der Schnellleiste.",
 		"11": "Im Menü sind verschiedene Gamepad-Steuerungen verfügbar. Du kannst du Redigits Auswahl, Yoraiz0rs Auswahl, Xbox, Playstation oder eine ganz eigene Version aussuchen.",
-		"12": "Wenn du dich für das DPad Cursoreinrasten in den Gamepad-Einstellungen entscheidest, kannst du das DPad für mehr Präzision beim Abbauen oder beim Bauen verwenden.",
+		"12": "Wenn du dich für das DPad-Cursoreinrasten in den Gamepad-Einstellungen entscheidest, kannst du das DPad für mehr Präzision beim Abbauen oder beim Bauen verwenden.",
 		"13": "Wenn du ein Gamepad verwendest, kannst du mit {InputTrigger_LockOn} auf Gegner zielen. Gegner, die du so anvisiert hast, sind mit einem rotierenden Fadenkreuz markiert. Fernkampfwaffen zielen automatisch auf das Ziel!",
 		"2": "Drücke {InputTrigger_SmartCursor}, um zwischen den Cursormodi zu wechseln.",
 		"3": "Wenn dein Inventar voll ist, kannst du {InputTriggerUI_Trash} drücken, um Gegenstände wegzuwerfen.",
@@ -2197,7 +2197,7 @@
 		"14": "Du kannst NPCs Häusern zuweisen oder sie aus Häusern entfernen! Im Behausungsmenü: {InputTrigger_UseOrAttack}, um sie einem Haus zuzuweisen oder {InputTrigger_InteractWithTile} auf ihr Banner, um sie rauszuwerfen!"
 	},
 	"LoadingTips_Keyboard": {
-		"0": "Wenn du die {InputTrigger_UseOrAttack}-Taste gedrückt hältst, kannst du einige Gegenstände fortlaufend benutzen.",
+		"0": "Wenn du die Taste {InputTrigger_UseOrAttack} gedrückt hältst, kannst du einige Gegenstände fortlaufend benutzen.",
 		"1": "Drücke {InputTrigger_SmartCursor}, um zwischen den Cursormodi zu wechseln.",
 		"2": "Wenn dein Inventar voll ist, kannst du {InputTriggerUI_Trash} und {InputTrigger_UseOrAttack} drücken, um Gegenstände wegzuwerfen.",
 		"3": "Wenn du mit einem Verkäufer sprichst, kannst du Gegenstände aus deinem Inventar mit {InputTriggerUI_Trash} und {InputTrigger_UseOrAttack} verkaufen.",
