@@ -2252,9 +2252,9 @@
 		"1": "Wenn man mal darüber nachdenkt, sind Kakteen auch nur stachelige Bäume!"
 	},
 	"StardewTalk": {
-		"PlayerHasColaButIsNotHoldingIt": "Was hast du da? Joja Cola? Halte sie bitte heraus! Zeig sie mir!",
+		"PlayerHasColaButIsNotHoldingIt": "Was hast du da? Joja-Cola? Halte sie bitte heraus! Zeig sie mir!",
 		"PlayerHasColaAndIsHoldingIt": "Dieses unnatürliche Getränk in deiner Hand hat eine Verbindung zu einer anderen Welt... Ich kann versuchen, sie zu reinigen, wenn du möchtest.",
 		"GiveColaButtonText": "Reinigen",
-		"PlayerGivesCola": "Durch die Verbindung spüre ich einen reinen Geist. Er dankt dir für die Beseitigung der Joja Cola!"
+		"PlayerGivesCola": "Durch die Verbindung spüre ich einen reinen Geist. Er dankt dir für die Beseitigung der Joja-Cola!"
 	}
 }
