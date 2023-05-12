@@ -3473,14 +3473,14 @@
 	"ItemVariant": {
 		"Stronger": "Stärker",
 		"Weaker": "Schwächer",
-		"Rebalanced": "Neu gewichtet",
+		"Rebalanced": "Neu austariert",
 		"Enabled": "Aktiviert",
 		"DisabledBossSummon": "Bossbeschwörung deaktiviert"
 	},
 	"ItemVariantCondition": {
-		"RemixWorld": "Remix-Samen",
-		"GetGoodWorld": "„Get Good“-Samen",
-		"EverythingWorld": "Universalsamen"
+		"RemixWorld": "„Remix“-Seed",
+		"GetGoodWorld": "„Get Good“-Seed",
+		"EverythingWorld": "„Everything“-Seed"
 	},
 	"CaptureBiomeChoice": {
 		"2": "{$Bestiary_Biomes.TheCorruption}",
