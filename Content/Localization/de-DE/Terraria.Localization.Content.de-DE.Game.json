@@ -415,7 +415,7 @@
 		"Spiffo": "„So bist du gestorben“",
 		"CavelingGardener": "Huk arrr gruk tu!",
 		"Shimmer": "Du bist immateriell geworden!",
-		"DirtiestBlock": "Erkennt man an all dem zusätzlichen Schmutz",
+		"DirtiestBlock": "Erkennt man an all dem zusätzlichen Dreck",
 		"AmmoBox": "20% Chance, Munition zu sparen",
 		"AmmoReservation": "20% Chance, Munition zu sparen"
 	},
@@ -763,7 +763,7 @@
 		"Spiffo": "Spiffo",
 		"CavelingGardener": "Höhlengärtner",
 		"Shimmer": "Schimmern",
-		"DirtiestBlock": "Der schmutzigste Block"
+		"DirtiestBlock": "Der dreckigste Block"
 	},
 	"MapObject": {
 		"Adamantite": "Adamantit",
@@ -1356,7 +1356,7 @@
 		"npc_PirateCorsair": "Einst waren die Korsaren Söldner eines fernen Landes. Heute führen sie ihre tödlichen Krummsäbel mit Genauigkeit und halsschneiderischer Absicht.",
 		"npc_PirateCrossbower": "Einigen Frauen reicht es nicht, am Hafen auf die Rückkehr ihrer Männer von einem Überfall zu warten. Deswegen haben sie sich dem tödlichen Spaß angeschlossen!",
 		"npc_PirateDeadeye": "Niemand weiß, ob sich „Jungfer“ tatsächlich von den Rüsteisenjungfern am Schiff ableitet oder sich auf ihren Körperzustand bezieht.",
-		"npc_PirateDeckhand": "Entweder schrubben sie das Schiffsdeck, um es von Seetang und Bier zu befreien, oder sie putzen den Schmutz mit den Gesichtern überraschter Terraner weg.",
+		"npc_PirateDeckhand": "Entweder schrubben sie das Schiffsdeck, um es von Seetang und Bier zu befreien, oder sie putzen den Dreck mit den Gesichtern überraschter Terraner weg.",
 		"npc_Plantera": "Eine schlafender, mächtige Blumenwächterom, die durch Cthulhus zerstörte Maschinen erwacht ist. Ihre Reichweite umfasst den gesamten Dschungel.",
 		"npc_Poltergeist": "Die extreme, hasserfüllte Energie, die diese Geister ausstrahlen, gibt ihnen die Möglichkeit, Gegenstände zu bewegen. Einzig zum Morden.",
 		"npc_PossessedArmor": "Was könnte nur in diese Rüstung gefahren sein, dass sie dazu bewegt hat, rumzulaufen und alle zu ermorden? Sie hat keinen materiellen Körper.",
@@ -1432,7 +1432,7 @@
 		"npc_WindyBalloon": "Einige geschäftstüchtige Schleime reiten mit Ballons durch die Windströme, um Futter zu finden. Lasse ihre Ballons zerplatzen, um sie wieder auf die Erde zu holen.",
 		"npc_Wizard": "Der Zauberer ist ein alter Mann, der gedankenverloren ist, und mit den arkanen Mächten rumtüddelt. Er verkauft magischen Schmuck, um neue Lehrlinge auszubilden.",
 		"npc_Wolf": "Diese wilden Wölfe leben in den rausten Bedingungen. Auf ihrer verzweifelten Suche nach Nahrung jagen sie nachts.",
-		"npc_Worm": "Ein glattes, wirbelloses Tier, das sich zwischen Steinen, Schmutz und Gras versteckt. Es liebt den Regen. Fische sind verrückt danach.",
+		"npc_Worm": "Ein glattes, wirbelloses Tier, das sich zwischen Steinen, Dreck und Gras versteckt. Es liebt den Regen. Fische sind verrückt danach.",
 		"npc_WyvernHead": "Eine kolossale drachenähnliche Kreatur, die zusammen mit den alten Geistern entfesselt wurde. Mit unvergleichlicher Macht beherrscht sie den Himmel.",
 		"npc_Yeti": "Ein übellauniger Affe aus den kalten Schneeregionen des Nordens. Er mag keine Festlichkeiten, deswegen will er allen den Spaß verderben.",
 		"npc_ZombieEskimo": "Zombies in Schneebiomen sind oft in Winterkleidung gehüllt. Es hilft ihnen aber nicht, denn sie sind trotzdem eiskalt.",
