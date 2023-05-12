@@ -680,10 +680,10 @@
 	},
 	"Net": {
 		"CheatingInvalid": "Betrugsversuch festgestellt: Ungültiger Rauswurf",
-		"CheatingLiquidSpam": "Betrugsversuch festgestellt: Ständiger Spam",
-		"CheatingProjectileSpam": "Betrugsversuch festgestellt: Gezielter Spam",
-		"CheatingTileRemovalSpam": "Betrugsversuch festgestellt: Feldspam entfernen",
-		"CheatingTileSpam": "Betrugsversuch festgestellt: Feldspam hinzufügen",
+		"CheatingLiquidSpam": "Betrugsversuch festgestellt: Spam von Flüssigkeiten",
+		"CheatingProjectileSpam": "Betrugsversuch festgestellt: Spam von Projektilen",
+		"CheatingTileRemovalSpam": "Betrugsversuch festgestellt: Spam (Entfernen von Feldern)",
+		"CheatingTileSpam": "Betrugsversuch festgestellt: Spam (Hinzufügen von Feldern)",
 		"ClientConnecting": "{0} stellt eine Verbindung her...",
 		"ClientPlaying": "({0}) {1} spielt",
 		"ClientRequestedWorldInfo": "({0}) {1} hat Informationen über die Welt angefordert",
@@ -699,7 +699,7 @@
 		"RequestingTileData": "Felddaten werden angefordert",
 		"RequestingWorldInformation": "Informationen über die Welt werden angefordert",
 		"SendingPlayerData": "Spielerdaten werden verschickt",
-		"ServerAutoShutdown": "Lokaler Spieler ist gegangen. Automatischer Shutdown beginnt.",
+		"ServerAutoShutdown": "Lokaler Spieler hat die Welt verlassen. Automatischer Shutdown beginnt.",
 		"StatusComplete": "{0}: Fertig!",
 		"WaitingForClients": "Auf Clients warten...",
 		"CannotTeleportToPylonBecauseAccessingLihzahrdTempleEarly": "Uralte Mächte halten dich davon ab, diesen Ort zu betreten...",
@@ -715,8 +715,8 @@
 	"Social": {
 		"Joining": "Beitreten...",
 		"JoiningFriend": "{0} beitreten...",
-		"StatusInGame": "Online spielen.",
-		"StatusJoining": "Spiel beitreten."
+		"StatusInGame": "Spielt online.",
+		"StatusJoining": "Tritt Spiel bei."
 	},
 	"UI": {
 		"Achievements": "Erfolge",
