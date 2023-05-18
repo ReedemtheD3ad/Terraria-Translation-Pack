@@ -719,7 +719,7 @@
         "DataSentAfterConnectionLost": "A essayé d'envoyer des données à un client après avoir perdu la connexion",
         "Error": "Erreur",
         "ExceptionNormal": "   Exception normale : {0}",
-        "InvalidLobbyFlag": "-lobby flag used without \"{0}\" or \"{1}\". Ignoring it.",
+        "InvalidLobbyFlag": "Option -lobby utilisée sans \"{0}\" ou \"{1}\". Option ignorée.",
         "LaunchFromSteam": "Veuillez lancer le jeu depuis votre client Steam.",
         "LoadFailed": "Échec du chargement !",
         "LoadFailedNoBackup": "Échec du chargement ! Aucune sauvegarde trouvée.",
@@ -872,7 +872,7 @@
         "BuyWithValue": "Acheter ({0})",
         "Cancel": "Annuler",
         "Change": "Changer",
-        "Clear": "Effacer",
+        "Clear": "Clair",
         "ClearAllNotifications": "Tout effacer",
         "Cloudy": "Nuageux",
         "CompassCenter": "Centre",
@@ -998,7 +998,7 @@
     },
     "ItemVariantCondition": {
         "EverythingWorld": "Graine Tout",
-        "GetGoodWorld": "Graine Devient bon",
+        "GetGoodWorld": "Graine Sois meilleur",
         "RemixWorld": "Graine Remix"
     },
     "Key": {
@@ -3310,8 +3310,8 @@
         "MinimapFrame_TwigLeaf": "Feuilles",
         "MinimapFrame_Valkyrie": "Valkyrie",
         "More": "plus",
-        "MoveOffCloud": "Retirer du nuage",
-        "MoveToCloud": "Déplacer vers le nuage",
+        "MoveOffCloud": "Retirer du Cloud",
+        "MoveToCloud": "Déplacer vers le Cloud",
         "NPCCheckHappiness": "Bonheur",
         "New": "Nouveau",
         "Normal": "Classique",
