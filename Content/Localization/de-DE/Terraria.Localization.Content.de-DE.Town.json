@@ -192,7 +192,10 @@
 		"Storm1": "Ich biete keine Elektroschocktherapie an. Geh raus und stell dich unter einen Baum!",
 		"Storm2": "Bleib einfach drinnen! Ich habe heute schon genug Patienten mit Blitzschlag behandelt.",
 		"Windy1": "Die Brise weht genau richtig! Pass auf fliegende Nadeln auf.",
-		"Windy2": "Den ganzen Tag lang jage ich meinen Instrumenten hinterher. Dieser Wind hält mich fit!"
+		"Windy2": "Den ganzen Tag lang jage ich meinen Instrumenten hinterher. Dieser Wind hält mich fit!",
+		"DeathCountLow": "Was?! Du schon wieder?! Anscheinend sehen wir uns oft! Lass mich einen Blick auf deine Tabelle werfen... Jepp, du wurdest {TotalDeathsCount} Mal getötet.",
+		"DeathCountMedium": "Die Monster von {WorldName} haben dich schon {TotalDeathsCount} Mal getötet? Ich frage mich, welcher von ihnen dein Banner aufgesammelt hat...",
+		"DeathCountHigh": "Wow, du wurdest {TotalDeathsCount} Mal besiegt? Hast du schon mal über einen Berufswechsel nachgedacht? Vielleicht in die Landwirtschaft?"
 	},
 	"WizardSpecialText": {
 		"Party": "Keine Frage, ich schmeiße die magischsten Partys.",
@@ -243,10 +246,7 @@
 		"Storm1": "WUMM! Selbst Mutter Natur ist ein Fan von anständiger Zerstörung!",
 		"Storm2": "Du hättest dabei sein sollen, als ein Blitz in einen meiner Wagen, der voller Sprengstoff war, gefahren ist!",
 		"Windy1": "Jetzt ist vielleicht nicht der beste Zeitpunkt, um auf der Oberfläche mit Granaten rumzuwerfen, mein großer Freund!",
-		"Windy2": "Du willst Bumerang-Bomben? Wirf einfach welche in den Wind, die kommen dann schon zurück!",
-		"DeathCountLow": "Was?! Du schon wieder?! Anscheinend sehen wir uns oft! Lass mich einen Blick auf deine Tabelle werfen ... Jepp, du wurdest {TotalDeathsCount}-mal getötet.",
-		"DeathCountMedium": "Die {WorldName}-Monster haben dich schon {TotalDeathsCount}-mal getötet? Ich frage mich, wer sich dir angeschlossen hat ...",
-		"DeathCountHigh": "Wow, du wurdest {TotalDeathsCount}-mal besiegt? Du solltest vielleicht einen anderen Beruf probieren. Wie wäre es mit der Landwirtschaft?"
+		"Windy2": "Du willst Bumerang-Bomben? Wirf einfach welche in den Wind, die kommen dann schon zurück!"
 	},
 	"ArmsDealerSpecialText": {
 		"Party": "Partys sind toll dafür, Leute aus ihrem Schneckenhaus zu locken.",
