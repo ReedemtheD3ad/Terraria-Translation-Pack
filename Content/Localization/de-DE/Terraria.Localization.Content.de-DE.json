@@ -115,7 +115,7 @@
 		"FASHION_STATEMENT_Name": "Fashion Statement",
 		"FAST_AND_FISHIOUS_Description": "Schließe deine 50. Quest für den Angler ab.",
 		"FAST_AND_FISHIOUS_Name": "Schnell und fischig",
-		"FISH_OUT_OF_WATER_Description": "Besiege Herzog Firschron, Mutantenschreck des Ozeans.",
+		"FISH_OUT_OF_WATER_Description": "Besiege Herzog Fischron, Mutantenschreck des Ozeans.",
 		"FISH_OUT_OF_WATER_Name": "Wie ein Fisch aus dem Wasser",
 		"FREQUENT_FLYER_Description": "Gib mehr als 1 Gold aus, um von der Krankenschwester behandelt zu werden.",
 		"FREQUENT_FLYER_Name": "Flugmeilen",
@@ -513,8 +513,8 @@
 		"BallBounceResultGolf_Single": "{0} hat {1} per Hole-in-One versenkt!"
 	},
 	"GameUI": {
-		"ActuationDeviceOff": "Aktuatoraparat AUS",
-		"ActuationDeviceOn": "Aktuatoraparat EIN",
+		"ActuationDeviceOff": "Aktorapparat AUS",
+		"ActuationDeviceOn": "Aktorapparat EIN",
 		"BaitPower": "{0}% Köderkraft",
 		"BaitRequired": "Benötigt Köder, um Fische zu fangen",
 		"Bright": "Hell",
@@ -787,7 +787,7 @@
 		"HoverControlSettingIsClick": "Schwebesteuerung: Klicken",
 		"HoverControlSettingIsHold": "Schwebesteuerung: Gedrückt halten",
 		"Info": "InfoInfo",
-		"ItemCannotBePlacedInsideItself": "In sich selbst platzieren ist blockiert",
+		"ItemCannotBePlacedInsideItself": "In sich selbst Platzieren ist blockiert",
 		"Master": "Meister",
 		"MinimapFrame_Default": "Standard",
 		"MinimapFrame_Golden": "Gold",
