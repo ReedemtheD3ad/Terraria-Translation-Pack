@@ -192,7 +192,10 @@
 		"Storm1": "Ich biete keine Elektroschocktherapie an. Geh raus und stell dich unter einen Baum!",
 		"Storm2": "Bleib einfach drinnen! Ich habe heute schon genug Patienten mit Blitzschlag behandelt.",
 		"Windy1": "Die Brise weht genau richtig! Pass auf fliegende Nadeln auf.",
-		"Windy2": "Den ganzen Tag lang jage ich meinen Instrumenten hinterher. Dieser Wind hält mich fit!"
+		"Windy2": "Den ganzen Tag lang jage ich meinen Instrumenten hinterher. Dieser Wind hält mich fit!",
+		"DeathCountLow": "Was?! Du schon wieder?! Anscheinend sehen wir uns oft! Lass mich einen Blick auf deine Tabelle werfen... Jepp, du wurdest {TotalDeathsCount} Mal getötet.",
+		"DeathCountMedium": "Die Monster von {WorldName} haben dich schon {TotalDeathsCount} Mal getötet? Ich frage mich, welcher von ihnen dein Banner aufgesammelt hat...",
+		"DeathCountHigh": "Wow, du wurdest {TotalDeathsCount} Mal besiegt? Hast du schon mal über einen Berufswechsel nachgedacht? Vielleicht in die Landwirtschaft?"
 	},
 	"WizardSpecialText": {
 		"Party": "Keine Frage, ich schmeiße die magischsten Partys.",
@@ -243,10 +246,7 @@
 		"Storm1": "WUMM! Selbst Mutter Natur ist ein Fan von anständiger Zerstörung!",
 		"Storm2": "Du hättest dabei sein sollen, als ein Blitz in einen meiner Wagen, der voller Sprengstoff war, gefahren ist!",
 		"Windy1": "Jetzt ist vielleicht nicht der beste Zeitpunkt, um auf der Oberfläche mit Granaten rumzuwerfen, mein großer Freund!",
-		"Windy2": "Du willst Bumerang-Bomben? Wirf einfach welche in den Wind, die kommen dann schon zurück!",
-		"DeathCountLow": "Was?! Du schon wieder?! Anscheinend sehen wir uns oft! Lass mich einen Blick auf deine Tabelle werfen ... Jepp, du wurdest {TotalDeathsCount}-mal getötet.",
-		"DeathCountMedium": "Die {WorldName}-Monster haben dich schon {TotalDeathsCount}-mal getötet? Ich frage mich, wer sich dir angeschlossen hat ...",
-		"DeathCountHigh": "Wow, du wurdest {TotalDeathsCount}-mal besiegt? Du solltest vielleicht einen anderen Beruf probieren. Wie wäre es mit der Landwirtschaft?"
+		"Windy2": "Du willst Bumerang-Bomben? Wirf einfach welche in den Wind, die kommen dann schon zurück!"
 	},
 	"ArmsDealerSpecialText": {
 		"Party": "Partys sind toll dafür, Leute aus ihrem Schneckenhaus zu locken.",
@@ -283,7 +283,7 @@
 	},
 	"AnglerSpecialText": {
 		"Party": "Was, du glaubst, ich mag Partys, weil ich noch so jung bin? Tja, da hast du recht, also let’s party!",
-		"BloodMoonFishing2": "Am besten gehst du Angeln, wenn das Wasser ganz blutig ist! Einfach herrlich!",
+		"BloodMoonFishing2": "Am besten gehst du angeln, wenn das Wasser ganz blutig ist! Einfach herrlich!",
 		"Graveyard1": "Jetzt habe ich total Schiss! Und das ist alles DEINE Schuld!",
 		"Graveyard2": "Wie soll ich denn da angeln?! Bist du verrückt oder einfach nur doof im Kopf?!",
 		"Rain1": "Juhu, es regnet! Jetzt kann ich zusehen, wie du pitschnass wirst, während du für mich angelst!",
@@ -310,7 +310,7 @@
 		"Quest_Catfish": "Endlich habe ich eine Dschungelkatze gefunden, die Wasser mag. Vermutlich, weil sie halb Fisch ist. Ich weiß nicht, warum es so gekommen ist, und ich will es auch nicht wissen. Ich will das Viech einfach nur haben, und zwar zackig!\n\n(Auf der Dschungel-Oberfläche geangelt)",
 		"Quest_Cloudfish": "Gerüchten zufolge gibt es Inseln, die hoch oben am Himmel schweben, und dort sollen unglaubliche Schätze zu holen sein! Aber wen interessiert das schon, wenn es noch viel cooler ist, dass sich manchmal Seen in den Wolken bilden, in denen Fische aus Wolken schwimmen! Ich will wissen, wie die Dinger schmecken, also solltest du einen für mich fangen!\n\n(In den Himmelsseen geangelt)",
 		"Quest_Cursedfish": "In den Gewässern der tiefsten Verderbtheit schwimmt ein verfluchter Fisch! Er entstand aus den verfluchten Flammen, die von den gefallenen Schrecken ausgehen, die dort unten lauern. Angeblich kann nicht einmal Wasser diese Flammen löschen, heißt es, denn sie brennen auf ewig. Mit einem solchen Fisch könnte man die tollsten Sachen anstellen! Und du wirst ihn mir doch holen, oder bist du zu feige?\n\n(Im Verderben geangelt)",
-		"Quest_DynamiteFish": "Der Abreißer hat wegen einer verlorenen Dynamitstange im Waldsee rumgeheult. Dabei hat er doch so viele davon, da kommt es auf eine doch nicht an. Aber offenbar, weil ihr Flossen wuchsen und sie einfach davonschwamm! Keine Ahnung, woher er das Zeug bekommt, um so was hinzukriegen, aber die ist eindeutig besessen! Zieh sie an Land und bring sie mir. Ich wollte schon immer einen Selbstmordattentat-Fisch besitzen. Frag nicht, warum.\n\n(Auf der Oberfläche geangelt)",
+		"Quest_DynamiteFish": "Der Sprengmeister hat wegen einer verlorenen Dynamitstange im Waldsee rumgeheult. Dabei hat er doch so viele davon, da kommt es auf eine doch nicht an. Aber offenbar, weil ihr Flossen wuchsen und sie einfach davonschwamm! Keine Ahnung, woher er das Zeug bekommt, um so was hinzukriegen, aber die ist eindeutig besessen! Zieh sie an Land und bring sie mir. Ich wollte schon immer einen Selbstmordattentat-Fisch besitzen. Frag nicht, warum.\n\n(Auf der Oberfläche geangelt)",
 		"Quest_EaterofPlankton": "Ich wette, du hast nicht den Mumm, den Planktonfresser zu besorgen. Er ist ein pervertierter Fisch, der aus einem abgetrennten Stück des Weltenfressers mutierte. Fang ihn ein und bring ihn mir. Zeig mir, dass du kein Weichei bist!\n\n(Im Verderben geangelt)",
 		"Quest_TheFishofCthulu": "Offenbar können Dämonenaugen manchmal amphibisch sein. Sie fliegen nicht, sie schwimmen! Ich würd gern mal das Gesicht von jemandem sehen, in dessen Badewanne sie auftauchen! Die hängen in derselben Gegend ab. Das heißt, du wirst einen für mich an Land ziehen!\n\n(In den Himmelsseen & auf der Oberfläche geangelt)",
 		"Quest_Fishotron": "Ich weiß nicht, was schlimmer ist, ein Knochenfisch oder ein Knochenfisch mit HÄNDEN. Dieser Fisch-o-Tron tief in den Höhlen macht mich wahnsinnig! Ich glaube, er ist von denselben bösen Geistern besessen, die auch in den alten Mann am Verlies gefahren sind! Ich fordere dich hiermit auf, ihn zu erwischen!\n\n(In den Höhlen geangelt)",
@@ -534,7 +534,7 @@
 		"Help_1134": "Wenn du ein Marmorbiom findest, dann sei ja vorsichtig! Es heißt, dort wohnen echt gefährliche Kreaturen!",
 		"Help_1135": "In Granitbiomen ist der Stein selber schon eine Bedrohung, denn er erwacht zum Leben und greift Eindringlinge an!",
 		"Help_1136": "Du willst etwas mit Erzen herstellen, die du in {WorldName} nicht findest? Dann probiere, nach Kisten zu angeln, oder Schlick und Schlacke in den Extraktinator zu tun!",
-		"Help_1137": "Falls du mal eine Pause von den ganzen Abenteuern brauchst, dann könntest du immer noch Angeln gehen.",
+		"Help_1137": "Falls du mal eine Pause von den ganzen Abenteuern brauchst, dann könntest du immer noch angeln gehen.",
 		"Help_1138": "Wenn du den Untergrund erkundest, begegnen dir manchmal hilfreiche Feen. Wenn du ihnen folgst, könnten sie dich zu Schätzen führen.",
 		"Help_1141": "Der Purpurstein im Purpur kann durch Verwendung von etwas Pulver einer Dryade gereinigt werden, oder er kann mit Sprengstoff zerstört werden.",
 		"Help_1142": "Versuche etwas Obsidian zu sammeln. Es entsteht, wo Wasser und Lava aufeinandertreffen. Du kannst es nutzen, um dich gegen starke Hitze zu schützen.",
@@ -554,7 +554,7 @@
 		"Help_1156": "Legenden sprechen von einem verfluchten Geschenk, das selbst die festlichste aller Nächte in eine Invasion des Schreckens verwandeln kann!",
 		"Help_1157": "Außerhalb des Verlieses lungern seltsame Menschen in Umhängen herum. Vielleicht solltest du dir das mal ansehen?",
 		"Help_1158": "Wo zum Teufel kommen diese Säulen her?! Du solltest die Gegner in ihrer Nähe lieber beseitigen!",
-		"Help_1140": "Als Nächstes solltest du die Höhlen des Purpur erkunden. Finde und vernichte alle Purpurherzen, die du findest.",
+		"Help_1140": "Als Nächstes solltest du die Höhlen des Purpurs erkunden. Finde und vernichte alle Purpurherzen, die du findest.",
 		"Help_1160": "Mitten in der Nacht an verschneiten Abenden ist aus der Wildnis ein angsteinflößendes Brüllen zu hören! Irgendetwas ist da draußen!"
 	},
 	"SantaSpecialText": {
@@ -914,7 +914,7 @@
 		"LikeBiome": "Mir gefällt, dass {BiomeName} so wunderschön ist. Hier treibe ich jeden Tag Sport.",
 		"LikeNPC": "{NPCName} ist schlau und ein bisschen albern.",
 		"LoveBiome": "Ich liebe {BiomeName}.",
-		"LoveNPC": "Was? {NPCName}? Ich bin nicht verknappt! Bin ich nicht! Sei still!",
+		"LoveNPC": "Was? {NPCName}? Ich bin nicht verknallt! Bin ich nicht! Sei still!",
 		"LoveSpace": "Die Bude ist super! Eigener Raum ist klasse.",
 		"NoHome": "Ts, kein Haus zu haben, macht mich ECHT stinkig.",
 		"LikeNPC_Princess": "Ich habe {NPCName} bei einer Untersuchung die Schulter ausgekugelt, und SIE hat sich bei MIR für die Unannehmlichkeiten entschuldigt!"
@@ -1133,7 +1133,7 @@
 		"LikeNPC": "Ich mag {NPCName}.",
 		"LoveBiome": "Ich liebe {BiomeName}.",
 		"LoveNPC": "Ich liebe {NPCName}.",
-		"LoveNPC_Angler": "{NPCName} ist ein richtig netter Junge und bietet mir immer an, mit ihm Angeln zu gehen!",
+		"LoveNPC_Angler": "{NPCName} ist ein richtig netter Junge und bietet mir immer an, mit ihm angeln zu gehen!",
 		"LoveNPC_ArmsDealer": "{NPCName} ist eigentlich ein totaler Softie!",
 		"LoveNPC_BestiaryGirl": "{NPCName} lässt mich immer mit ihren Haustieren spielen, was ich total nett finde!",
 		"LoveNPC_Clothier": "{NPCName} wirkt manchmal todtraurig, ist zu mir aber immer sehr nett!",
@@ -1647,7 +1647,8 @@
 		"Rattles Magoo": "Rattles Magoo",
 		"Mandible Calavera": "Mandible Calavera",
 		"Mika": "Mika",
-		"No-Eyed Wiley": "No-Eyed Wiley"
+		"No-Eyed Wiley": "No-Eyed Wiley",
+		"Victor": "Victor"
 	},
 	"TaxCollectorNames": {
 		"McKinly": "McKinly",
@@ -1718,7 +1719,8 @@
 		"Name_17": "Mollie",
 		"Name_18": "Lizzy",
 		"Name_19": "Daphne",
-		"Name_20": "Ellen"
+		"Name_20": "Ellen",
+		"Name_21": "Lilith"
 	},
 	"PrincessNames": {
 		"Ai": "Ai",
