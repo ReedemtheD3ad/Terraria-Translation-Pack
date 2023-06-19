@@ -798,7 +798,7 @@
 		"ForceWaterSettling": "迫使水沉降。",
 		"WaterSettled": "水已完成沉降。",
 		"ResolutionChanged": "分辨率更改为：{0}×{1}。",
-		"ShortDays": "删除",
+		"ShortDays": "天",
 		"ShortHours": "时",
 		"ShortMinutes": "分",
 		"ShortSeconds": "秒",
