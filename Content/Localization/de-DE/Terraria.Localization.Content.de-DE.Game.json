@@ -405,7 +405,7 @@
 		"ThornWhipPlayerBuff": "Peitschentempo ist erhöht",
 		"SwordWhipPlayerBuff": "Peitschentempo ist erhöht",
 		"ScytheWhipPlayerBuff": "Peitschentempo ist erhöht",
-		"DualSlimePet": "Die letzte Autorität, sie wird die Königreiche vereinen!",
+		"DualSlimePet": "Die ultimative Autorität. Sie werden die Königreiche vereinen!",
 		"BiomeSight": "Zeigt die Position von infizierten Blöcken",
 		"BloodButcherer": "Verblutet schnell",
 		"JunimoPet": "Hüter des Waldes",
@@ -1093,7 +1093,7 @@
 		"npc_ArmedZombiePincushion": "{$CommonBestiaryFlavor.Zombie}",
 		"npc_Probe": "Eine einzige Sonde, die vom sich vom Körper des Zerstörers trennt, dient als ferngesteuerte Laserbatterie. Meist ist sie inmitten eines Schwarms aus Sonden versteckt.",
 		"npc_GiantFungiBulb": "{$CommonBestiaryFlavor.FungiBulb}",
-		"npc_Pumpking": "Der Kürbis kann viele Gesichter tragen. Ein Kürbis kann alle mit vielen scharfen Klingen ermorden. Ein Kürbis ist der König der Ernte.",
+		"npc_Pumpking": "Ein Kürbis kann viele Gesichter tragen. Ein Kürbis kann alle mit vielen scharfen Klingen ermorden. Ein Kürbis ist der König der Ernte.",
 		"npc_Pupfish": "Diese Fische bevorzugen abgelegene, extreme Witterungen, wo es nur wenig Wettbewerb gibt. Das könnten zum Beispiel die Seebetten einer Wüstenoase sein.",
 		"npc_QueenSlimeBoss": "Heilige Schleime haben sich zu einer stolzen, vernichtenden Macht zusammengetan, die mit schicken Kristallen geschmückt ist. Angeblich sprießen ihr sogar Flügel.",
 		"npc_QueenSlimeMinionBlue": "Diese Kristallschleime aus dem blauen Spektrum sind darauf spezialisiert, spitze Kristallsplitter zu erzeugen und sie aus ihren Gelatinekörpern zu verschießen.",
@@ -1276,7 +1276,7 @@
 		"npc_FairyCritterPink": "Glühende, humanoide Wesen mit Flügeln, die so groß wie ein Schmetterling sind. Sie haben eine besondere Verbindung mit der Welt um sich herum und sind besonders gut darin, glänzende Dinge zu finden.",
 		"npc_FireImp": "Ein niederer Dämon, erfüllt von Höllenmagie. Er kann sich teleportieren und Phantomfeuerbälle auf seine Gegner schleudern.",
 		"npc_FloatyGross": "Diese lebhaften Schrecken der dunkelsten Tiefen des Purpurs sind definitiv, ohne Zweifel, sowohl schwebend als auch eklig.",
-		"npc_Flocko": "Diese grimmigen Flocken sind die gefrorenen Günstlinge der Eiskönigin. Wo dieser düstere Schnee fällt, richtet sie eisig über das Land.",
+		"npc_Flocko": "Diese grimmigen Flocken sind die frostigen Günstlinge der Eiskönigin. Wo dieser düstere Schnee fällt, richtet sie eisig über das Land.",
 		"npc_FlyingFish": "Bestimmte Fischspezies erhalten die merkwürdigsten Eigenschaften, wenn es regnet. Das einzige, was ihnen an Landbewohnern gefällt: ihr Fleisch.",
 		"npc_FlyingSnake": "Die Lihzahrds haben die fliegenden Schlangen als Haustiere und Wächter gehalten. Sie greifen jeden an, der das geheiligte Land des Tempels betritt.",
 		"npc_Frankenstein": "Dieses stämmige Monster besteht aus Teilen verstorbener Terraner. Sein Schöpfer war ein Irrer, der mit eigenen Händen Leben erschaffen wollte.",
@@ -1378,7 +1378,7 @@
 		"npc_ScorpionBlack": "Trotz seines bedrohlichen Aussehens ist er relativ friedlich, es sei denn, er wird bedroht oder kämpft gegen kleinere Beute. Manchmal kann man damit Fische anlocken.",
 		"npc_Scutlix": "Diese Wesen leben eigentlich auf dem Mars. Sie funktionieren so ähnlich wie Pferde. Naja, wenn Pferde Laser aus ihren Augen verschießen könnten.",
 		"npc_ScutlixRider": "Diese Wesen werden oftmals von Elite-Strahlenschützen als Kavallerie in den Kampf geritten. Wenn ihr Reittier stirbt, gehen sie zu Fuß weiter.",
-		"npc_Seahorse": "Ein sanftmütiges Wesen, das harmlos durch die Tiefen des Meeres schwimmt.",
+		"npc_Seahorse": "Ein sanftmütiges Wesen, das harmlos durch die Tiefen des Ozeans schwimmt.",
 		"npc_SeekerHead": "Eine uralte Magie hat die Dunkelheit entfesselt, die den Weltenfresser geboren hat. Außerdem hat sie kleinere, aber genauso tödliche Würmer geboren.",
 		"npc_ServantofCthulhu": "Junge Dämonenaugen, die vom Auge von Cthulhu geboren wurden. Sie sind gekommen, um ihren Herren um jeden Preis zu schützen.",
 		"npc_ShadowFlameApparition": "Bei der Schattenflammen-Magie handelt es sich um mächtige, geistige Überreste der wirren Goblinvorfahren, die eine mächtige Beschwörung hervorgerufen hat.",
@@ -2190,7 +2190,7 @@
 		"3": "Wenn dein Inventar voll ist, kannst du {InputTriggerUI_Trash} drücken, um Gegenstände wegzuwerfen.",
 		"4": "Wenn du mit einem Verkäufer sprichst, kannst du Gegenstände aus deinem Inventar mit {InputTriggerUI_SellItem} verkaufen.",
 		"5": "Fackeln kannst du mit {InputTrigger_InteractWithTile} oder mit einer Spitzhacke entfernen.",
-		"6": "Du kannst in deinem Inventar {InputTrigger_QuickEquip} drücken, um Gegenstände wie Rüstungen oder Zubehör direkt in einen leeren Platz auszurüsten.",
+		"6": "Du kannst in deinem Inventar {InputTrigger_QuickEquip} drücken, um Gegenstände wie Rüstungen oder Zubehör direkt in einen leeren Slot auszurüsten.",
 		"7": "Halte {InputTrigger_SmartSelect} für die automatische Auswahl gedrückt. Das ist eine nützliche Funktion, die sich an deine Umgebung anpasst. So kannst du automatisch deine Fackeln in dunklen Höhlen halten, Leuchtstäbe, wenn du unter Wasser bist, oder sogar das richtige Werkzeug auswählen, um etwas zu zerbrechen.",
 		"8": "Drücke {InputTriggerUI_FavoriteItem}, um einen Gegenstand deinen Favoriten hinzuzufügen. Favoriten können nicht verkauft, weggeworfen oder abgelegt werden. So verlierst du nie wieder aus Versehen deine Lieblingsgegenstände!",
 		"9": "Drücke {InputTriggerUI_BuildFromInventory}, wenn du im Inventar bist und ein Werkzeug oder einen Block markiert hast, um damit direkt aus dem Inventar zu bauen.",
@@ -2202,7 +2202,7 @@
 		"2": "Wenn dein Inventar voll ist, kannst du {InputTriggerUI_Trash} und {InputTrigger_UseOrAttack} drücken, um Gegenstände wegzuwerfen.",
 		"3": "Wenn du mit einem Verkäufer sprichst, kannst du Gegenstände aus deinem Inventar mit {InputTriggerUI_Trash} und {InputTrigger_UseOrAttack} verkaufen.",
 		"4": "Fackeln kannst du mit {InputTrigger_InteractWithTile} oder mit einer Spitzhacke entfernen.",
-		"5": "Du kannst in deinem Inventar {InputTrigger_InteractWithTile} drücken, um Gegenstände wie Rüstungen oder Zubehör direkt in einen leeren Platz auszurüsten.",
+		"5": "Du kannst in deinem Inventar {InputTrigger_InteractWithTile} drücken, um Gegenstände wie Rüstungen oder Zubehör direkt in einen leeren Slot auszurüsten.",
 		"6": "Halte {InputTrigger_SmartSelect} für die automatische Auswahl gedrückt. Das ist eine nützliche Funktion, die sich an deine Umgebung anpasst. So kannst du automatisch deine Fackeln in dunklen Höhlen halten, Leuchtstäbe, wenn du unter Wasser bist, oder sogar das richtige Werkzeug auswählen, um etwas zu zerbrechen.",
 		"7": "Drücke {InputTriggerUI_FavoriteItem} und {InputTrigger_UseOrAttack}, um einen Gegenstand deinen Favoriten hinzuzufügen. Favoriten können nicht verkauft, weggeworfen oder abgelegt werden. So verlierst du nie wieder aus Versehen deine Lieblingsgegenstände!",
 		"8": "Du kannst NPCs Häusern zuweisen oder sie aus Häusern entfernen! Im Behausungsmenü: {InputTrigger_UseOrAttack}, um sie einem Haus zuzuweisen oder {InputTrigger_InteractWithTile} auf ihr Banner, um sie rauszuwerfen!"
@@ -2212,7 +2212,7 @@
 		"2": "Wir haben perfektes Wetter zum Hacken.",
 		"3": "Hack hack hack. Hehe.",
 		"4": "Wir geben ein gutes Team ab!",
-		"5": "Finden wir einen kleinen Hain und toben wir uns aus!"
+		"5": "Finden wir ein kleines Wäldchen und toben wir uns aus!"
 	},
 	"LucyTheAxe_Storage": {
 		"1": "Das ist ätzend.",
@@ -2253,7 +2253,7 @@
 	},
 	"StardewTalk": {
 		"PlayerHasColaButIsNotHoldingIt": "Was hast du da? Joja-Cola? Halte sie bitte heraus! Zeig sie mir!",
-		"PlayerHasColaAndIsHoldingIt": "Dieses unnatürliche Getränk in deiner Hand hat eine Verbindung zu einer anderen Welt... Ich kann versuchen, sie zu reinigen, wenn du möchtest.",
+		"PlayerHasColaAndIsHoldingIt": "Dieses unnatürliche Getränk in deiner Hand hat eine Verbindung zu einer anderen Welt... Ich kann versuchen, es zu reinigen, wenn du möchtest.",
 		"GiveColaButtonText": "Reinigen",
 		"PlayerGivesCola": "Durch die Verbindung spüre ich einen reinen Geist. Er dankt dir für die Beseitigung der Joja-Cola!"
 	}
