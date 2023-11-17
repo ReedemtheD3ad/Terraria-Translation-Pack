@@ -417,13 +417,13 @@
 		"Chatter_1": "Ich habe {Bartender} einen kostenlosen Schnitt angeboten, aber er wollte nicht. Immerhin hätte er mich was mit seinem Bart machen lassen können!"
 	},
 	"TownNPCHousingFailureReasons": {
-		"HoleInWallIsTooBig": "In diesem Zimmer fehlt eine Wand",
+		"HoleInWallIsTooBig": "Diesem Haus fehlt eine Wand.",
 		"RoomCheckStartedInASolidTile": "Das ist ein fester Block!",
-		"RoomIsTooBig": "Dieser Raum ist zu groß",
-		"RoomIsTooSmall": "Dieser Raum ist zu klein",
+		"RoomIsTooBig": "Dieses Haus ist zu groß.",
+		"RoomIsTooSmall": "Dieses Haus ist zu klein.",
 		"TooCloseToWorldEdge": "We need better text for this!!!",
-		"RoomHasAStinkbug": "Dieser Raum ist von einem Stinkkäfer befallen!",
-		"RoomHasAnEchoStinkbug": "Dieser Raum ist von einem geisterhaften Stinkkäfer befallen!"
+		"RoomHasAStinkbug": "Dieses Haus ist von einem Stinkkäfer befallen!",
+		"RoomHasAnEchoStinkbug": "Dieses Haus ist von einem gespenstigen Stinkkäfer befallen!"
 	},
 	"AnglerQuestChatter": {
 		"Chatter_1": "Boah, du hast mich jetzt schon locker {AnglerCompletedQuestsCount} Mal gestört! Würdest du mir nicht jedes Mal einen coolen Fisch bringen, wäre ich echt sauer!",
