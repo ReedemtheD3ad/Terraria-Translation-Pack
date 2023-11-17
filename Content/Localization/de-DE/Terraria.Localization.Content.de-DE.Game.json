@@ -1193,7 +1193,7 @@
 		"npc_Bird": "Ein einfacher, weißer Vogel, der sich an einem ruhigen Sonnentag erfreut.",
 		"npc_BirdRed": "Ein seltener Rotschopffreund des Waldes.",
 		"npc_BloodCrawlerWall": "Die meisten Spinnen sind alleine unterwegs, doch diejenigen, die mit dem Purpur in Berührung gekommen sind, vereinen sich zu einem Schwarm, um gemeinsam Leben zu verschlingen.",
-		"npc_BloodEelHead": "Ein großer, wurmähnlicher Dämon, von dem das Blut nur so runtertropft – sein eigenes und das seines Opfers. Ein absoluter Albtraumgegner.",
+		"npc_BloodEelHead": "Ein großer, wurmähnlicher Dämon, von dem das Blut nur so runtertropft – sein eigenes und das seines Opfers. Ein absoluter Albtraumgegner.",
 		"npc_BloodFeeder": "Diese Fischschwärme ähneln Piranhas in ihrer Lust nach Blut. Sie selbst wurden aus verdorbenem Blut geboren und ihr Hunger ist wahrlich gewaltig.",
 		"npc_BloodJelly": "Quallen, die im blutigen Wasser des Purpurs schwimmen, werden davon infiziert und schließen sich seinem verzehrenden Zweck an.",
 		"npc_BloodNautilus": "Ein enormer Wasserdämon mit Panzer, der sich von der negativen Energie eines Blutmonds ernährt. Reagiert brutal, wenn man ihn nervt.",
@@ -1596,7 +1596,7 @@
 		"biome_UndergroundHallow": "Das Böse ist entfesselt und macht auch vor den Tiefen der Welt nicht halt. Das Heiligtum stemmt sich mit mächtigen Lichtgünstlingen dagegen.",
 		"biome_UndergroundJungle": "Die verworrene Welt unter dem sumpfigen Dschungel ist für jeden Abenteurer eine Herausforderung. Halte die Augen nach gefräßigen Pflanzen und Insekten offen.",
 		"biome_UndergroundSnow": "Tunnel, die sich durch das kühle Eis gegraben haben, sorgen für rutschige Fallen und gefrierende Wasserstellen. Bewacht natürlich von den minusgradigen Bewohnern der Tiefe.",
-		"biome_WindyDay": "Lass dich nicht davonwehen! Die Natur schmeißt eine Party und will alle – und alles – im Sturm erobern!"
+		"biome_WindyDay": "Lass dich nicht davonwehen! Die Natur schmeißt eine Party und will alle – und alles – im Sturm erobern!"
 	},
 	"Bestiary_Events": {
 		"Blizzard": "Schneesturm",
@@ -1646,7 +1646,7 @@
 		"LavaBat": "Was könnte schlimmer sein, als ein tollwütiges, schnellfliegendes, lästiges Nagetier? Natürlich eines, das auch noch brennt!",
 		"Penguin": "Pinguine sind in den kältesten Regionen der Welt beheimatet. Dort watscheln sie umher und suchen nach leckerem Fisch.",
 		"Pigron": "Diese scheue Drache-Schwein-Kreuzung hat sehr gute Tarnfähigkeiten, obwohl es so rundlich gebaut ist. Niemand weiß so genau, wie sie entstanden ist.",
-		"Slime": "Eine simple, gelatineartige Kreatur, die alles verschluckt – im Ganzen! Es dauert aber sehr lange, bis sie es verdaut hat.",
+		"Slime": "Eine simple, gelatineartige Kreatur, die alles verschluckt – im Ganzen! Es dauert aber sehr lange, bis sie es verdaut hat.",
 		"AngryBones": "Die einstigen Bewohner des Verlieses wurden mit dem ewigen Untod verflucht und streifen jetzt durch seine Hallen auf der Suche nach Opfern für ihre niemals endende Wut.",
 		"AntlionCharger": "Ameisenlöwenläufer sind die Soldaten der Ameisenlöwen. Sie jagen mit überraschender Geschwindigkeit hinter jedem Eindringling her.",
 		"AntlionSwarmer": "Der Ameisenlöwenschwärmer patrouilliert sein Nest mit wachsamem Auge. Sollte jemand seine Eier bedrohen, wird er sie mit aller Kraft verteidigen.",
