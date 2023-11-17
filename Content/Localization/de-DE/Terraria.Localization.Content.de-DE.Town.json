@@ -632,7 +632,7 @@
 		"HateNPC": "Arghl! NEIN, {NPCName}. HASSE. WUT. EKEL!!",
 		"LikeNPC": "{NPCName}. Rrr... GUT. FÜHLEN.",
 		"LoveNPC": "LIEBE. STRARK... {NPCName}. Jaja!",
-		"LoveSpace": "Rrrrr... viel Raum. GLÜCKLICH.",
+		"LoveSpace": "Rrrrr... viel Platz. GLÜCKLICH.",
 		"NoHome": "GRAH! Brauche ZUHAUSE! JETZT!",
 		"LikeBiome": "In {BiomeName}... Guter LAUF! SPIELEN! JAGEN! Jipie!",
 		"HateBiome": "Gughhh. {BiomeName}... ICH HASSE. SCHLECHTE. AUSSICHTEN.",
@@ -690,12 +690,12 @@
 		"HateBiome": "Ich hasse {BiomeName} – Jagen macht nicht halb so viel Spaß, wenn man selbst die Beute ist!",
 		"HateCrowded": "Hey, ich kann mein Ding nicht machen, wenn mir so viele Leute dabei zusehen.",
 		"HateNPC": "Ich würde ja {NPCName} WIRKLICH gerne mal als Fernschussziel nehmen.",
-		"LikeBiome": "Weisste, {BiomeName} ist abgelegen und gut für’s Geschäft, wenn du weißt, was ich meine.",
+		"LikeBiome": "Weißte, {BiomeName} ist abgelegen und gut für’s Geschäft, wenn du weißt, was ich meine.",
 		"LikeNPC": "Ja, {NPCName} ist schon cool. Abgefahren.",
 		"LoveBiome": "Ich liebe {BiomeName}.",
-		"LoveNPC": "Meinste {NPCName} interessiert sich ansatzweise für mich?",
+		"LoveNPC": "Meinste, {NPCName} interessiert sich ansatzweise für mich?",
 		"LoveSpace": "So ist das richtig mit der Privatsphäre!",
-		"NoHome": "Meister, ich hab nicht’s wo ich wohnen kann!",
+		"NoHome": "Meister, ich hab nichts, wo ich wohnen kann!",
 		"LikeNPC_Princess": "Ich hätte das zwar nie erwartet, aber {NPCName} kennt sich echt gut mit Knarren aus!"
 	},
 	"TownNPCMood_BestiaryGirl": {
@@ -951,7 +951,7 @@
 		"LoveNPC": "Ich liebe es, dass {NPCName} auf meinen Partys immer so strahlt.",
 		"LoveSpace": "Das gehört alles mir? Ich werde die GRÖSSTE Party aller Zeiten geben – für mich!",
 		"NoHome": "Ich hab alles für die Party, aber ich habe kein Haus für die After-Party.",
-		"LikeNPC_Princess": "JA, {NPCName} liebt pinke, knallige und glitzernde Dinge. UND SIE LIEBT PARTYS! "
+		"LikeNPC_Princess": "JA, {NPCName} liebt pinke, knallige und glitzernde Dinge. UND SIE LIEBT PARTYS!"
 	},
 	"TownNPCMood_Pirate": {
 		"Content": "Yarr. Mein Schiff ist in Topform!",
