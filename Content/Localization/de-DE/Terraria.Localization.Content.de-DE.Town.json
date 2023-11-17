@@ -2277,9 +2277,9 @@
 		"Shortie": "Shortie"
 	},
 	"SlimeBlueChatter": {
-		"Chatter_1": "Gurgelblase? Hrm!",
-		"Chatter_2": "Brabbel, brabbel, blubb... Schluck!",
-		"Chatter_3": "Kaplunk! Hmm... Bleb. Oha."
+		"Chatter_1": "Gurgel, blubber? Hrm!",
+		"Chatter_2": "Brabbel, brabbel, blubb... schluck!",
+		"Chatter_3": "Kaplunk! Hmm... bleb, mhmm. Oha."
 	},
 	"SlimeGreenChatter": {
 		"Chatter_1": "Tropf!",
@@ -2288,13 +2288,13 @@
 	},
 	"SlimeOldChatter": {
 		"Chatter_1": "Brummelgrummel!",
-		"Chatter_2": "Pruuut, ähem!",
+		"Chatter_2": "Pruuut... ähem!",
 		"Chatter_3": "Gluck, gluck? Pah!"
 	},
 	"SlimeRainbowChatter": {
 		"Chatter_1": "Sabberblabber!",
-		"Chatter_2": "Sprinkelpinkel!",
-		"Chatter_3": "Kräusel? Blipblop!"
+		"Chatter_2": "Sprinkeltinkel!",
+		"Chatter_3": "Klipper? Blipblop!"
 	},
 	"SlimePurpleChatter": {
 		"Chatter_1": "Berp.",
@@ -2307,7 +2307,7 @@
 		"Chatter_3": "Rülps... hehe."
 	},
 	"SlimeYellowChatter": {
-		"Chatter_1": "Blubber, blubber! Gubbelkoch!",
+		"Chatter_1": "Blubber, blubber! Gubbel-koch!",
 		"Chatter_2": "Tropfra kadopfra!",
 		"Chatter_3": "Kasplusch!"
 	},
