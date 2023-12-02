@@ -129,7 +129,7 @@
 		"Crimson": "猩红",
 		"EnterWorldName": "输入世界名称： ",
 		"EnterServerPassword": "服务器密码（按enter表示不设置）： ",
-		"ClientWasBooted": "{0}已启动：{1}",
+		"ClientWasBooted": "{0}已被踢出：{1}",
 		"ServerStarted": "服务器已启动",
 		"EnterSeed": "输入种子（留空则随机）：",
 		"NoValidSeed": "此世界是在不支持种子的较旧版本中生成的。",
