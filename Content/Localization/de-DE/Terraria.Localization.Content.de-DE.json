@@ -1025,7 +1025,7 @@
 	},
 	"DungeonDefenders2": {
 		"BartenderWarning": "Der Eternia-Kristall sträubt sich gegen dieses Gebiet und teleportiert sich sofort weg. Der Tavernenwirt hatte erwähnt, dass er in einem großen, flachen und offenen Gebiet aufgestellt werden sollte...",
-		"CantSummonTower": "It doesn't seem to work without an Etheria Crystal nearby...",
+		"CantSummonTower": "Ohne einen Eternia-Kristall in der Nähe scheint das nicht zu funktionieren...",
 		"InvasionProgressTitle": "Armee des Alten",
 		"InvasionStart": "Die Armee des Alten nähert sich!",
 		"InvasionWin": "Die Armee des Alten wurde besiegt!",
