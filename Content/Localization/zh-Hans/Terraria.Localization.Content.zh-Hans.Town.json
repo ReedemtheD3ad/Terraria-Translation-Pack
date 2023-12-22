@@ -1177,13 +1177,13 @@
 		"Chatter_11": "我不知道我是怎么来到这里的，但这感觉太棒了。"
 	},
 	"BestiaryGirlLycantropeChatter": {
-		"Chatter_1": "嗷！！走开。站住。马上！",
+		"Chatter_1": "嗷！！距离。保持。马上！",
 		"Chatter_2": "离开！快跑！危险。我。怒！"
 	},
 	"PrincessChatter": {
 		"Chatter_1": "我非常感谢你为这片土地所做的一切！谢谢！",
 		"Chatter_2": "哥布林真可爱！矮矮的小个子，长着尖尖的小耳朵，肤色也不同！",
-		"Chatter_3": "{?GolemDefeated}我曾经尝试抚摸丛林蜥蜴。呃……它们根本不在乎！",
+		"Chatter_3": "{?GolemDefeated}我曾经尝试抚摸丛林蜥蜴。嗯……它们一点也不介意！",
 		"Chatter_4": "{?MartiansDefeated}要是火星人能再友善一点就好了。我们的世界通常没什么访客！",
 		"Chatter_5": "喜欢我的裙子吗？哇，谢谢！刚刚缝好的。",
 		"Chatter_6": "我真是太感谢我的臣民了！",
@@ -1191,9 +1191,9 @@
 		"Chatter_8": "嗯……你觉得{Pirate}还能救赎他的一些老同伙吗？",
 		"Chatter_9": "{?IceQueenDefeated}与冰雪女王的外事交往恐怕不大顺利。她相当冷漠！呵呵！",
 		"Chatter_10": "{?PumpkingDefeated}南瓜王似乎真是个两面派。我不会放弃与他那些令人毛骨悚然的人民达成和平的！",
-		"Chatter_11": "粉红色是任何人都梦寐以求的最佳颜色！ ",
+		"Chatter_11": "粉红色是任何人都梦寐以求的最佳颜色！",
 		"Chatter_12": "{?DukeFishronDefeated}我曾经在海滩上遇到一位公爵。他看上去有点可疑，而且没什么礼貌！",
-		"Chatter_13": "呃……当公主有时候挺平淡的，所以我养成了许多爱好！ ",
+		"Chatter_13": "呃……当公主有时候挺平淡的，所以我养成了许多爱好！",
 		"Chatter_14": "我很高兴终于能环游世界，结交新朋友了！",
 		"Chatter_15": "尽管我很爱人民，但我特别害羞。我花了很长时间才打破僵局……",
 		"Chatter_16": "{?BloodMoon}河流泛起红波，所有人看上去都非常紧张不安，嗯……这真是个难熬的夜晚！",
@@ -1412,7 +1412,7 @@
 		"Chatter_1": "{Bartender}为什么一点麦芽酒都不卖给我？我想尝一尝！真是个满腹牢骚的人！",
 		"Chatter_2": "什……么？！难道你没看见我在收钓鱼线吗？？",
 		"Chatter_3": "我的鱼够了！我现在不需要你的帮助！",
-		"Chatter_4": "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！ ",
+		"Chatter_4": "整个{WorldName}中都没有厨师，所以我不得不自己烹鱼！",
 		"Chatter_5": "嘿！当心！我设了许多陷阱，用来实施史上最大的恶作剧！没人会发觉！你敢告诉别人试试！",
 		"Chatter_6": "听听小孩的忠告吧，永远不要用舌头碰冰块！等一下，就当我没说，我就想看你这样做！",
 		"Chatter_7": "听说过会叫的鱼吗？！我没听说过，只是想知道你听说过没！",
@@ -1633,7 +1633,7 @@
 	},
 	"CyborgSpecialText": {
 		"Party": "这个派对真是疯了，可能都算是癫了！",
-		"Graveyard1": "有意思。这好像是给受伤和残障人类使用的储存装置。",
+		"Graveyard1": "有意思。这好像是存放损坏和失灵人类的储存元件。",
 		"Graveyard2": "我的感应器显示能量粒子的密度在增加。我的视觉接收器无法识别它们。",
 		"Windy1": "感应器显示气压出现了强烈变化。建议保持谨慎。",
 		"Windy2": "检测到高压和低压之间的压差大。",
@@ -1928,7 +1928,7 @@
 		"LoveNPC": "我喜欢{NPCName}在我的派对上总是光彩夺目。",
 		"DislikeNPC": "我觉得{NPCName}在派对上很扫兴。",
 		"HateNPC": "我讨厌{NPCName}总是千方百计地破坏我的余兴派对。真是让人窝火！",
-		"LikeNPC_Princess": "是的，{NPCName}喜欢粉红色和闪闪发亮的东西，她超级喜欢派对！ "
+		"LikeNPC_Princess": "是的，{NPCName}喜欢粉红色和闪闪发亮的东西，她超级喜欢派对！"
 	},
 	"TownNPCMood_Angler": {
 		"Content": "我很好，现在给我去弄条鱼来！",
@@ -2064,7 +2064,7 @@
 		"LoveNPC": "我非常喜欢和{NPCName}在一起。",
 		"DislikeNPC": "我不喜欢{NPCName}的做法。用金属和玻璃是做不到真正地治愈的。",
 		"HateNPC": "愤怒侵占了我的身体，就像邪恶的种子从污秽的大地中萌芽——我说的是{NPCName}。",
-		"LikeNPC_Princess": "{NPCName}对我的人很好。我非常感谢。 "
+		"LikeNPC_Princess": "{NPCName}对我的人很好。我非常感谢。"
 	},
 	"TownNPCMood_Clothier": {
 		"Content": "到底什么才算正常？",
@@ -2200,7 +2200,7 @@
 		"LoveNPC": "我非常喜欢和{NPCName}在一起。",
 		"DislikeNPC": "我不喜欢和{NPCName}在一起。",
 		"HateNPC": "我讨厌不相信我的人。比如{NPCName}，这是我见过的最淘气的家伙！",
-		"LikeNPC_Princess": "嗬嗬嗬，{NPCName}无疑是头号乖乖仔。 "
+		"LikeNPC_Princess": "嗬嗬嗬，{NPCName}无疑是头号乖乖仔。"
 	},
 	"TownNPCMood_Golfer": {
 		"Content": "我很好！",
