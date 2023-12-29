@@ -7887,8 +7887,8 @@
 		"LuminiteVariant": "„Ein verbotenes Baumaterial aus dem Jenseits“"
 	},
 	"BuffDescription": {
-		"WellFed_Expert": "Kleinere Verbesserungen bei allen Werten und erhöhte Lebensregeneration",
-		"WellFed2_Expert": "Mittlere Verbesserungen bei allen Werten und erhöhte Lebensregeneration",
-		"WellFed3_Expert": "Große Verbesserungen bei allen Werten und erhöhte Lebensregeneration"
+		"WellFed_Expert": "Geringe Verbesserung aller Werte und erhöhte Lebensregeneration",
+		"WellFed2_Expert": "Mittlere Verbesserung aller Werte und erhöhte Lebensregeneration",
+		"WellFed3_Expert": "Große Verbesserung aller Werte und erhöhte Lebensregeneration"
 	}
 }
