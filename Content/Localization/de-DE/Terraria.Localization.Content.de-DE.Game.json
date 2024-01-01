@@ -855,10 +855,10 @@
 		"Emoji_1": "/e",
 		"Help": "/hilfe",
 		"RPS": "/ssp",
-		"Death": "/tod",
-		"PVPDeath": "/pvptod",
-		"AllDeath": "/alletod",
-		"AllPVPDeath": "/allepvptod"
+		"Death": "/tode",
+		"PVPDeath": "/pvptode",
+		"AllDeath": "/alletode",
+		"AllPVPDeath": "/allepvptode"
 	},
 	"Bestiary_ItemDropConditions": {
 		"NotExpert": "",
