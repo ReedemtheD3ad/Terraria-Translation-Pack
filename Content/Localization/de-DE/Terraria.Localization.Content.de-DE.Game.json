@@ -1630,9 +1630,9 @@
 		"Playing": "{$ChatCommand.Playing_0}: Listet die Namen aller Spieler auf dem Server auf",
 		"Roll": "{$ChatCommand.Roll}: Würfelt eine Zahl zwischen 1 und 100",
 		"RPS": "{$ChatCommand.RPS}: Zeigt nach Zufallsprinzip entweder Schere, Stein oder Papier an",
-		"Emoji": "{$ChatCommand.Emoji_1} #: Zeigt ein Emoji",
-		"Death": "{$ChatCommand.Death}: Zeigt die Anzahl deiner Tode",
-		"PVPDeath": "{$ChatCommand.PVPDeath}: Zeigt die Anzahl deiner PvP-Tode",
+		"Emoji": "{$ChatCommand.Emoji_1} #: Zeigt ein Emoji an",
+		"Death": "{$ChatCommand.Death}: Zeigt die Anzahl deiner Tode an",
+		"PVPDeath": "{$ChatCommand.PVPDeath}: Zeigt die Anzahl deiner PvP-Tode an",
 		"AllDeath": "{$ChatCommand.AllDeath}: Zeigt die Anzahl der Tode von allen Spielern an",
 		"AllPVPDeath": "{$ChatCommand.AllPVPDeath}: Zeigt die Anzahl der PvP-Tode von allen Spielern an"
 	},
