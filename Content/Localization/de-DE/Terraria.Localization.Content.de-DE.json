@@ -886,7 +886,7 @@
 	"DeathSource": {
 		"NPC": "{0} von {1}.",
 		"Player": "{0} durch {2} von {1}.",
-		"Projectile": "{0} von {1}."
+		"Projectile": "{0} durch {1}."
 	},
 	"DeathText": {
 		"Default": "{0}.",
@@ -908,7 +908,7 @@
 		"Stabbed": "{0} wurde erstochen.",
 		"Teleport_1": "{0} wurde nicht materialisiert.",
 		"TriedToEscape": "{0} versuchte zu fliehen.",
-		"Inferno": "{0} wurde von dem Inferno verschlungen.",
+		"Inferno": "{0} wurde vom Inferno verschlungen.",
 		"Petrified_2": "{0} kann nicht wieder zusammengesetzt werden.",
 		"DiedInTheDark": "{0} wurde von etwas in der Dunkelheit getötet!",
 		"Suffocated_1": "{0} konnte nicht atmen.",
@@ -948,7 +948,7 @@
 	"DeathTextGeneric": {
 		"ArmTornOff": "{0} wurden die Arme ausgerissen",
 		"Chopped": "{0} wurde zerkleinert",
-		"Cut": "{0} wurde in der Mittel durchgesäbelt",
+		"Cut": "{0} wurde in der Mitte durchgesäbelt",
 		"Decapitated": "{0} wurde geköpft",
 		"Destroyed": "{0} wurde zerstört",
 		"Dissected": "{0} wurde brutal seziert",
@@ -963,12 +963,12 @@
 		"Mangled": "Der Körper von {0} wurde verstümmelt",
 		"Massacred": "{0} wurde massakriert",
 		"Murdered": "{0} wurde ermordet",
-		"PileOfFlesh": "{0} hat sich in einen unansehnlichen Fleischhaufen verwandelt",
+		"PileOfFlesh": "{0} wurde in einen unansehnlichen Fleischhaufen verwandelt",
 		"Removed": "{0} wurde aus {1} entfernt",
 		"Ripped": "Das Fleisch wurde {0} von den Knochen gerissen",
 		"Ruptured": "Die lebensnotwendigen Organe von {0} wurden zerfetzt",
 		"SkullCrushed": "Der Schädel von {0} wurde eingeschlagen",
-		"Slain": "{0} wurde ermordet",
+		"Slain": "{0} wurde umgebracht",
 		"Snapped": "{0} wurde in zwei Teile geteilt",
 		"TornInHalf": "{0} wurde in zwei Hälften gerissen",
 		"Plead": "Die Bitte um den Tod von {0} wurde erhört",
