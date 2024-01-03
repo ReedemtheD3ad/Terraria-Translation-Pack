@@ -77,7 +77,7 @@
 		"Storm1": "Ich arbeite an einer Erfindung, die die Energie einsetzt, die um uns herum freigegeben wird!",
 		"Storm2": "Die meisten Goblins hassen Gewitter. Vermutlich, weil sie so viele Dornenbälle bei sich haben.",
 		"Windy1": "Das Wetter ist der Grund dafür, warum ich eine Schutzbrille trage! Ich darf keinen Sand und Staub in die Augen kriegen.",
-		"Windy2": "Jetzt wäre die richtige Zeit, ein Windradaccessoire zu erfinden."
+		"Windy2": "Jetzt wäre die richtige Zeit, ein Windrad-Accessoire zu erfinden."
 	},
 	"WitchDoctorSpecialText": {
 		"Party": "Ich wollte nur mal sehen, wie dein Volk feiert. Enttäuscht bin ich nicht.",
@@ -505,7 +505,7 @@
 	},
 	"GuideHelpTextSpecific": {
 		"Help_1159": "Wenn du Linsen an einem Purpur-Altar kombinierst, kannst du vielleicht eine Möglichkeit finden, einen mächtigen Gegner herbeizurufen. Du solltest jedoch bis zur Nacht warten, bevor du das tust.",
-		"Help_1100": "Ich habe mal von einem Echsenvolk gehört, das im Dschungel lebt. Vielleicht kannst du eine Echse anlocken, wenn du die riesige Bestie des Dschungels umhaust?",
+		"Help_1100": "Ich habe mal von einem Eidechsenvolk gehört, das im Dschungel lebt. Vielleicht kannst du eine Echse anlocken, wenn du die riesige Bestie des Dschungels umhaust?",
 		"Help_1101": "Ich habe gehört, da draußen gibt es eine Frau, die sehr fähig ist, wenn es darum geht, die Mächte zurückzuschlagen, die du gerade entfesselt hast. Vielleicht erweckst du ihre Aufmerksamkeit, wenn du dich würdig erweist?",
 		"Help_1102": "Maschinen sind schon irgendwie okay. Vielleicht können wir selbst eine bauen, wenn wir nur ein paar explosive Waffen aus dem Dschungel hätten...",
 		"Help_1103": "Irgendwo hier bin ich mal auf eine Stylistin getroffen. Sie ist auf ein Abenteuer in den Untergrund aufgebrochen, danach habe ich sie nicht wieder gesehen. Ich frage mich, was aus ihr geworden ist.",
@@ -540,7 +540,7 @@
 		"Help_1142": "Versuche etwas Obsidian zu sammeln. Es entsteht, wo Wasser und Lava aufeinandertreffen. Du kannst es nutzen, um dich gegen starke Hitze zu schützen.",
 		"Help_1143": "Einige sagen, es gäbe riesige Bienenwaben, die im Untergrund-Dschungel begraben sind. Ich hätte ja nichts gegen etwas Honig.",
 		"Help_1144": "Du hast alte Fossilien in der Wüste gefunden?! Ich frage mich, ob man sie irgendwie aus den Steinen holen kann.",
-		"Help_1145": "Es wird Zeit, den alten Schmelzofen zu verbessern! Suche in der Unterwelt nach einer Höllenschmiede. Nur so kannst du Höllenstein-Barren schmieden.",
+		"Help_1145": "Es wird Zeit, den alten Schmelzofen zu verbessern! Suche in der Unterwelt nach einer Höllenschmiede. Nur so kannst du Höllensteinbarren schmieden.",
 		"Help_1146": "Hast du mal die Lindwürmer gesehen, wie sie hoch oben in den Wolken fliegen? Wenn ich doch nur so fliegen könnte...",
 		"Help_1147": "Versuche, eine Höllenschmiede mit Adamantiterz zu kombinieren. Ich wette, da kriegst du was echt Starkes bei raus!",
 		"Help_1148": "Versuche, eine Höllenschmiede mit Titanerz zu kombinieren. Ich wette, da kriegst du was echt Starkes bei raus!",
@@ -1081,7 +1081,7 @@
 		"HateBiome": "Die Abscheulichkeiten in {BiomeName} beunruhigen mich, als wären sie die dunkelste Form der Magie.",
 		"HateCrowded": "Diese Überfüllung hier schlägt sich langsam auf meine Magie nieder! Glaube ich.",
 		"HateNPC": "{NPCName} ist widerlich und eine Abscheulichkeit im Angesicht meiner Magie!",
-		"LikeBiome": "Was sollte ich an {BiomeName} nicht mögen? Hier gibt es Einhörner und Regenbögen.",
+		"LikeBiome": "Was sollte ich an {BiomeName} nicht mögen? Hier gibt es Einhörner und Regenbogen.",
 		"LikeNPC": "{NPCName} und ich kennen uns schon sehr lange. Wir beide sind sehr weise.",
 		"LoveBiome": "Ich liebe {BiomeName}.",
 		"LoveNPC": "Ich finde es toll, dass ich mit {NPCName} soviel zu sprechen habe.",
