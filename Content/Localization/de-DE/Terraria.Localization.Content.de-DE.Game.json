@@ -62,16 +62,16 @@
 		"ObsidianOutlaw": "Erhöht Peitschenreichweite um 30% und -tempo um 15%\nErhöht Beschwörungsschaden um 15%",
 		"Angler": "Verringerte Erscheinungsrate von Gegnern",
 		"AshWood": "Reduziert den Schaden beim Berühren von Lava",
-		"CobaltRanged": "20% Chance, Munition zu sparen",
+		"CobaltRanged": "20% Chance, keine Munition zu verbrauchen",
 		"MythrilCaster": "Um 17% reduzierte Manakosten",
-		"MythrilRanged": "20% Chance, Munition zu sparen",
+		"MythrilRanged": "20% Chance, keine Munition zu verbrauchen",
 		"AdamantiteCaster": "Um 19% reduzierte Manakosten",
-		"AdamantiteRanged": "25% Chance, Munition zu sparen",
+		"AdamantiteRanged": "25% Chance, keine Munition zu verbrauchen",
 		"TitaniumCaster": "Um 19% reduzierte Manakosten",
-		"TitaniumRanged": "25% Chance, Munition zu sparen",
+		"TitaniumRanged": "25% Chance, keine Munition zu verbrauchen",
 		"Jungle": "Um 16% reduzierte Manakosten",
 		"CobaltCaster": "Um 14% reduzierte Manakosten",
-		"Fossil": "20% Chance, Munition zu sparen"
+		"Fossil": "20% Chance, keine Munition zu verbrauchen"
 	},
 	"BuffDescription": {
 		"FartMinecartRight": "{$BuffDescription.MinecartRight}",
@@ -416,8 +416,8 @@
 		"CavelingGardener": "Huk arrr gruk tu!",
 		"Shimmer": "Du bist immateriell geworden!",
 		"DirtiestBlock": "Erkennt man an all dem zusätzlichen Dreck",
-		"AmmoBox": "Chance von 20%, Munition zu sparen",
-		"AmmoReservation": "Chance von 20%, Munition zu sparen"
+		"AmmoBox": "Chance von 20%, keine Munition zu verbrauchen",
+		"AmmoReservation": "Chance von 20%, keine Munition zu verbrauchen"
 	},
 	"BuffName": {
 		"AmmoBox": "Munitionskiste",
