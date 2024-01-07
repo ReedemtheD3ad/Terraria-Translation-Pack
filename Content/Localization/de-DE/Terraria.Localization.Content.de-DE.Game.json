@@ -62,16 +62,16 @@
 		"ObsidianOutlaw": "Erhöht Peitschenreichweite um 30% und -tempo um 15%\nErhöht Beschwörungsschaden um 15%",
 		"Angler": "Verringerte Erscheinungsrate von Gegnern",
 		"AshWood": "Reduziert den Schaden beim Berühren von Lava",
-		"CobaltRanged": "20% Chance, keine Munition zu verbrauchen",
+		"CobaltRanged": "Chance von 20%, keine Munition zu verbrauchen",
 		"MythrilCaster": "Um 17% reduzierte Manakosten",
-		"MythrilRanged": "20% Chance, keine Munition zu verbrauchen",
+		"MythrilRanged": "Chance von 20%, keine Munition zu verbrauchen",
 		"AdamantiteCaster": "Um 19% reduzierte Manakosten",
-		"AdamantiteRanged": "25% Chance, keine Munition zu verbrauchen",
+		"AdamantiteRanged": "Chance von 25%, keine Munition zu verbrauchen",
 		"TitaniumCaster": "Um 19% reduzierte Manakosten",
-		"TitaniumRanged": "25% Chance, keine Munition zu verbrauchen",
+		"TitaniumRanged": "Chance von 25%, keine Munition zu verbrauchen",
 		"Jungle": "Um 16% reduzierte Manakosten",
 		"CobaltCaster": "Um 14% reduzierte Manakosten",
-		"Fossil": "20% Chance, keine Munition zu verbrauchen"
+		"Fossil": "Chance von 20%, keine Munition zu verbrauchen"
 	},
 	"BuffDescription": {
 		"FartMinecartRight": "{$BuffDescription.MinecartRight}",
