@@ -39,7 +39,7 @@
 		"WizardHatDuringAnniversary": "仆从数量上限增加1",
 		"MechSummonDuringEverything": "“套装中的一件”",
 		"MechdusaSummonNotDuringEverything": "“它在这个世界中没有任何作用”",
-		"LuminiteVariant": "'来自域外的禁忌建筑材料'"
+		"LuminiteVariant": "“来自域外的禁忌建筑材料”"
 	},
 	"PaintingArtist": {
 		"Crowno": "'V. Costa Moura'",
@@ -7335,7 +7335,7 @@
 		"IvyGuitar": "可演奏的乐器\n“死人毛衣乐队的东西”",
 		"CarbonGuitar": "可演奏的乐器\n“这些小过门很劲爆”",
 		"DrumStick": "在鼓组旁可演奏\n“咖啡浓烈……且乡土”",
-		"GlowPaint": "完全照亮所涂覆的物体\n可以与任何其它漆或涂料组合使用\n'真是个好主意！'",
+		"GlowPaint": "完全照亮所涂覆的物体\n可以与任何其它漆或涂料组合使用\n“真是个好主意！”",
 		"WetRocket": "碰撞时泼洒水",
 		"LavaRocket": "碰撞时泼洒熔岩",
 		"HoneyRocket": "碰撞时泼洒蜂蜜",
@@ -7823,11 +7823,11 @@
 		"GummyWorm": "永久提高钓鱼技能",
 		"Ambrosia": "永久提高采矿速度和建造速度",
 		"PeddlersSatchel": "永久增加旅商售卖的物品",
-		"EchoCoating": "所涂覆的物体只在回声视觉下可见\n可以与任何其它漆或涂料组合使用\n'现在全都通透了。'",
+		"EchoCoating": "所涂覆的物体只在回声视觉下可见\n可以与任何其它漆或涂料组合使用\n“现在全都通透了。”",
 		"GasTrap": "当容器打开时，释放有毒气体",
 		"ReflectiveShades": "对黑暗和石化免疫",
 		"EchoMonolith": "开启回声视觉，显示隐藏物块",
-		"ShimmerMonolith": "'一窥以太之伟力。'\n可用来显现或掩匿以太",
+		"ShimmerMonolith": "“一窥以太之伟力。”\n可用来显现或掩匿以太",
 		"ShimmerArrow": "向上坠落",
 		"ShimmerCloak": "对微光相位化免疫\n当淹没在微光中时按住向下键可以相位化",
 		"Shellphone": "显示所有信息\n可随意回家\n<right>切换目的地\n“仔细听，你会听到一些关于你汽车保修的事情”",
