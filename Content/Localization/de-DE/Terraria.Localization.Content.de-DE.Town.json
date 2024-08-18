@@ -9,7 +9,7 @@
 		"WorldStatusCorruptCrimson": "{0} ist {1}% verdorben und {2}% purpur.",
 		"WorldStatusCorrupt": "{0} ist {1}% verdorben.",
 		"WorldStatusCrimson": "{0} ist {1}% purpur.",
-		"WorldStatusHallow": "{0} ist {1}% heilig",
+		"WorldStatusHallow": "{0} ist {1}% heilig.",
 		"WorldStatusPure": "{0} ist vollkommen rein. Das hast du toll gemacht!",
 		"WorldDescriptionBalanced": "Die Welt ist im Gleichgewicht.",
 		"WorldDescriptionFairyTale": "Wir leben in einem Märchen.",
@@ -19,7 +19,7 @@
 		"Graveyard2": "Dieser Ort... Ich höre, wie die Natur die, die hier gefallen sind, anschreit.",
 		"Rain1": "Mit dem Wasser vom Himmel kann die Natur den Schlamm in unseren Flüssen fortwaschen.",
 		"Storm1": "Unsere Mutter ist wütend und will den Schmutz wegbrennen, indem sie ihre zerstörerische Macht auf unsere Baumwipfel regnen lässt.",
-		"Storm2": "Es ist unschlau, unter den blitzenden Gefahren von oben ohne Schutz herumzulaufen.",
+		"Storm2": "Es ist unklug, unter den blitzenden Gefahren von oben ohne Schutz herumzulaufen.",
 		"Windy1": "Der Wind... so pustet die Natur den Staub aus dem Land.",
 		"Windy2": "An diesem Tag reißt die Wut der Natur die Blätter von den Bäumen.",
 		"AfterDD2Tier1": "Als ich in Etheria war, fühlte ich mich völlig isoliert von {WorldName}. Es ist schön, wieder hier zu sein.",
@@ -363,7 +363,7 @@
 		"Chatter_1": "Mach doch nicht so ein bierernstes Gesicht! Kapierst du? Bierernst? Nein?",
 		"Chatter_10": "Glaubst du, dass {Steampunker} noch eine zweite davon hat? Ich kenne eine Hexe, die sowas gern hätte.",
 		"Chatter_11": "Kein Wunder, dass {Demolitionist} ständig in so viele Unfälle verwickelt ist. Du kannst dir nicht vorstellen, wie viel Bier er von mir kauft.",
-		"Chatter_12": "Normalerweise bin ich kein Fan von GOblins, aber {GoblinTinkerer} scheint ganz okay zu sein.",
+		"Chatter_12": "Normalerweise bin ich kein Fan von Goblins, aber {GoblinTinkerer} scheint ganz okay zu sein.",
 		"Chatter_13": "{?Day}Hat jemand gesehen, wo die Dryade hin ist?",
 		"Chatter_14": "{?!Day}Echt still hier draußen. Etwas zu still...",
 		"Chatter_15": "{?!Day}Schau bei mir vorbei und mach deinen Job.",
@@ -400,7 +400,7 @@
 		"Chatter_1": "Weißt du, diese etherischen Goblins sind ganz anders als mein Volk. Ein ganz wilder Haufen. Nicht, dass meine Leute besser wären..."
 	},
 	"GuideHelpText": {
-		"Help_1063": "Normalerweise würde ich dir ja alles mögliche über die Armee des Alten erzählen, aber vermutlich solltest du lieber {Bartender} fragen.",
+		"Help_1063": "Normalerweise würde ich dir ja alles Mögliche über die Armee des Alten erzählen, aber vermutlich solltest du lieber {Bartender} fragen.",
 		"Help_1064": "Wenn der Mond rot wird, sieht das Wasser wie Blut aus. Wesen, die sich darin befinden, werden manchmal grotesk und bösartig.",
 		"Help_1065": "Über das Behausungsmenü kannst du Personen aus ihren Häusern entfernen! <right> auf das Banner in ihrem Haus, um sie zu entfernen. <left>, um sie einem neuen Haus zuzuweisen."
 	},
@@ -490,7 +490,7 @@
 		"3": "Du bist unter Par. Das ist was Gutes!"
 	},
 	"GolferSpecialText": {
-		"Graveyard1": "Friedhöfe sind mir zu gruselig. Ich übe meinen Schwünge nicht gerne auf Familie und Freunden.",
+		"Graveyard1": "Friedhöfe sind mir zu gruselig. Ich übe meine Schwünge nicht gerne auf Familie und Freunden.",
 		"Graveyard2": "Spiel ja nicht auf dem Friedhof Golf. Das Gras wächst einfach zu gut, das verdirbt den ganzen Platz.",
 		"Rain1": "Golfen im Regen macht nicht so Spaß. Alles ist glatt!",
 		"Rain2": "Wasserhindernisse sind viel größer, wenn es regnet. Dann wird es schwerer, das Green zu erreichen!",
@@ -1026,7 +1026,7 @@
 		"DislikeBiome": "Wie irritierend ist denn {BiomeName} bitte? So ein Mumpitz!",
 		"DislikeCrowded": "Nur damit du es weißt, ich hasse Nachbarn!",
 		"DislikeNPC": "{NPCName} ist einfach zu laut. Fort mit solchen Nachbarn!",
-		"FarFromHome": "Bah! Ich versuche zurück nach Hause zu gelangen, um mein Geld zu zählen. Fort mit dir!",
+		"FarFromHome": "Bah! Ich versuche, zurück nach Hause zu gelangen, um mein Geld zu zählen. Fort mit dir!",
 		"HateBiome": "Selbst für meinen Standard ist {BiomeName} einfach nur übel! Bah!",
 		"HateCrowded": "Geh und sag den miesen Nutznießern, dass sie verschwinden sollen. Ich hasse Menschenmengen!",
 		"HateNPC": "Ich hasse die reine Existenz von {NPCName}! Was für ein Irrer verschenkt denn einfach Sachen?",
@@ -1070,7 +1070,7 @@
 		"LoveNPC": "Ich liebe es, in der Nähe von {NPCName} zu sein.",
 		"LoveSpace": "Starke Energie fließt ungestört von benachbarten Präsenzen. Sehr angenehm.",
 		"NoHome": "Eine Hütte würde reichen. Nicht alle in meiner Umgebung praktizieren Ruhe.",
-		"LikeNPC_Princess": "{NPCName} ist nett zu meinem Volk. Das weiß ich zu schätzen. "
+		"LikeNPC_Princess": "{NPCName} ist nett zu meinem Volk. Das weiß ich zu schätzen."
 	},
 	"TownNPCMood_Wizard": {
 		"Content": "Ich fühle mich magisch.",
@@ -1569,13 +1569,13 @@
 		"Red Beard": "Red Beard",
 		"Jack": "Jack",
 		"Black Beard": "Black Beard",
-		"Captain Morgan": "Captain Morgan",
+		"Captain Morgan": "Käpt’n Morgan",
 		"Wet Beard": "Wet Beard",
 		"James T. Beard": "James T. Beard",
 		"Gunpowder Garry": "Gunpowder Garry",
-		"Captain Stoney Dirt": "Captain Stoney Dirt",
+		"Captain Stoney Dirt": "Käpt’n Stoney Dirt",
 		"Jake": "Jake",
-		"Captain Bullywort": "Captain Bullywort"
+		"Captain Bullywort": "Käpt’n Bullywort"
 	},
 	"StylistNames": {
 		"Bri": "Bri",
