@@ -7519,7 +7519,7 @@
 		"DirtStickyBomb": "会散布土的小爆炸",
 		"DiggingMoleMinecart": "如果携带有矿车轨道，会挖开物块并铺设新轨道\n只在地下挖掘",
 		"CrystalNinjaHelmet": "暴击率提高5%\n魔力消耗降低10%",
-		"CrystalNinjaChestplate": "远程伤害提高5%\n10%几率省下弹药",
+		"CrystalNinjaChestplate": "伤害提高5%\n10%几率省下弹药",
 		"CrystalNinjaLeggings": "移动速度提高20%\n近战速度提高10%",
 		"QueenSlimeMountSaddle": "召唤可骑乘的羽翼史莱姆坐骑",
 		"QueenSlimeBossBag": "{$CommonItemTooltip.RightClickToOpen}",
