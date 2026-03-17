@@ -194,8 +194,8 @@
 		"FireworkFountainRed": "烟花喷泉",
 		"FireworkFountainYellow": "烟花喷泉",
 		"FishHook": "鱼钩",
-		"Flairon": "猪龙鱼链球",
-		"FlaironBubble": "猪龙鱼链球泡泡",
+		"Flairon": "猪鲨链球",
+		"FlaironBubble": "猪鲨链球泡泡",
 		"Flamarang": "烈焰回旋镖",
 		"Flamelash": "烈焰火鞭",
 		"Flames": "火焰",
@@ -958,7 +958,7 @@
 		"Ghoulder": "鬼魂巨石",
 		"BouldyTheBoulder": "博尔迪巨石",
 		"BoulderThatSpawnsPet": "巨石",
-		"FlaironFlail": "猪龙鱼链球",
+		"FlaironFlail": "猪鲨链球",
 		"BluePhaseblade": "蓝陨石光剑",
 		"RedPhaseblade": "红陨石光剑",
 		"GreenPhaseblade": "绿陨石光剑",
@@ -1006,6 +1006,10 @@
 		"ObsidianFire": "黑曜石之火",
 		"ObsidianFire2": "{$ProjectileName.ObsidianFire}",
 		"ObsidianFire3": "{$ProjectileName.ObsidianFire}",
-		"SkyDragonsFuryElectrosphere": "{$ProjectileName.Electrosphere}"
+		"SkyDragonsFuryElectrosphere": "{$ProjectileName.Electrosphere}",
+		"PalworldMinionCattiva": "捣蛋猫",
+		"PalworldMinionFoxsparks": "火绒狐",
+		"PalworldMinionFoxsparksFlames": "火绒狐的火焰",
+		"PalworldMinionFoxsparksFireball": "火绒狐的火球"
 	}
 }
