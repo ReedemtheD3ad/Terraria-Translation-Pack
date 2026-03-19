@@ -30,7 +30,7 @@
 		"GolfPutter": "专门用于最后进洞的高尔夫球杆\n高尔夫球会紧贴地面滚过较短距离，以实现精确击球",
 		"GolfWedge": "专门用于沙坑或高障碍物的高尔夫球杆\n高尔夫球会具有很大的垂直倾角，但不会飞得很远",
 		"GolfDriver": "针对长距离的强力高尔夫球杆\n高尔夫球会飞得很远，垂直倾角很小",
-		"Kite": "大风天可以放风筝\n用{InputTrigger_InteractWithTile}收线",
+		"Kite": "大风天可以放风筝\n用{InputTrigger_InteractWithTile}来收卷风筝线",
 		"LavaFishing": "可以在熔岩中钓鱼",
 		"CreativeSacrificeNeeded": "再研究{0}个即可解锁复制功能",
 		"CreativeSacrificeComplete": "复制功能已解锁",
@@ -61,7 +61,7 @@
 		"RollerSkate": "滑行速度与放置速度相匹配",
 		"Wireable": "可接入电路",
 		"Container": "接收到信号时会收集附近的掉落物品",
-		"WireTrigger": "放置后用{InputTrigger_InteractWithTile}来发出信号",
+		"WireTrigger": "放置状态下{InputTrigger_InteractWithTile}可以发出信号",
 		"LogicGate": "当此条件开始或停止满足时发出信号：",
 		"Fountain": "改变附近水的颜色"
 	},
