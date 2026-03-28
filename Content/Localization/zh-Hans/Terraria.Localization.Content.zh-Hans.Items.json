@@ -8614,7 +8614,7 @@
 		"DeadCellsSwarmGrenade": "召唤宠物咬咬虫群\n“小心，听说它们会咬人！”",
 		"DeadCellsRamRune": "按住向下键跳跃即可向下猛击\n猛击地面会对附近的敌人造成伤害\n“像古代的英雄一样猛击地面”",
 		"DeadCellsDisplayJar": "{InputTrigger_InteractWithTile}将物品放入物品瓶中\n{$CommonItemTooltip.PlacementStyle}\n“将你最珍贵的财产保存在粘稠液体中”",
-		"DeadCellsBarnacleSummonItem": "hanging{$CommonItemTooltip.Sentry}\n召唤悬空藤壶来毒害敌人",
+		"DeadCellsBarnacleSummonItem": "{$CommonItemTooltip.Sentry}\n召唤悬空藤壶来毒害敌人",
 		"DeadCellsPotionStation": "{$CommonItemTooltip.UseableWhenPlaced}\n{$BuffDescription.DeadCellsPotionStation}\n“来自远方的神秘瓶子”",
 		"CrystalBall": "{$CommonItemTooltip.UseableWhenPlaced}\n{$BuffDescription.Clairvoyance}",
 		"DeadMansSweater": "陷阱造成的伤害和减益时间减少50%",
