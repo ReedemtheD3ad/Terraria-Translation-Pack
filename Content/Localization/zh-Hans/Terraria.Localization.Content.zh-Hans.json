@@ -2,7 +2,7 @@
 	"Error": {
 		"Error": "错误",
 		"LaunchFromSteam": "请从 Steam 客户端启动游戏。",
-		"ServerCrash": "服务器崩溃：{0}\n{1}\n请将 crashlog.txt 发送至 support@terraria.org",
+		"ServerCrash": "服务器崩溃：{0}\n{1}\n\n请将 crashlog.txt 发送至 support@terraria.org",
 		"LoadFailed": "加载失败！",
 		"LoadFailedNoBackup": "加载失败！找不到备份。",
 		"InvalidLobbyFlag": "-使用了lobby标志，但没有\"{0}\"或\"{1}\"。忽略之。",
@@ -11,7 +11,7 @@
 		"UnableToWritePreferences": "无法在以下位置写入文件：{0}",
 		"UnableToLoadWorld": "无法加载世界：",
 		"BadHeaderBufferOverflow": "标头错误导致读取缓冲区溢出。",
-		"ExceptionNormal": "   普通异常：{0}",
+		"ExceptionNormal": "普通异常：{0}",
 		"TriedToRunServerTwice": "尝试在同一台计算机上运行两个服务器",
 		"DataSentAfterConnectionLost": "尝试在失去连接后将数据发送至客户端",
 		"NetMessageError": "消息 {0} 出错",
@@ -272,7 +272,7 @@
 		"SmartDoorsEnabled": "智能门: 启用",
 		"SmartDoorsGamepad": "智能门: 仅限游戏手柄",
 		"CannotDeleteFavorited": "无法删除（已收藏）",
-		"NPCCheckHappiness": "快乐度",
+		"NPCCheckHappiness": "快乐",
 		"QuickUseItem": "快速使用",
 		"TilesSwayInWindOn": "环境风效: 启用",
 		"TilesSwayInWindOff": "环境风效: 禁用",
@@ -326,7 +326,7 @@
 		"Seed_Remix_Title": "Remix",
 		"Seed_NoTraps": "哇，陷阱。你讨厌它们，对吧？我自己也讨厌它们！这个世界毫无疑问去掉了一切机关……应该是这样的。也许吧。",
 		"Seed_NoTraps_Title": "No Traps",
-		"Seed_ForTheWorthy": "你够格吗？这是一个毫不留情的世界。忘掉过去的一切，磨炼你的本领，否则等待你的只有审视、衡量与淘汰…… ",
+		"Seed_ForTheWorthy": "你够格吗？这是一个毫不留情的世界。忘掉过去的一切，磨炼你的本领，否则等待你的只有审视、衡量与淘汰……",
 		"Seed_ForTheWorthy_Title": "For the Worthy",
 		"Seed_TheConstant": "将《饥荒》冒险融入到泰拉瑞亚中，你能否在战胜持续饥饿的同时找到泰拉瑞亚的拯救之道？哦，还有别忘了待在光明处！",
 		"Seed_TheConstant_Title": "The Constant",
@@ -620,8 +620,8 @@
 		"Cloudy": "多云",
 		"PartlyCloudy": "局部多云",
 		"Clear": "晴朗",
-		"WestWind": "（西风 {0} mph）",
-		"EastWind": "（东风 {0} mph）",
+		"WestWind": "（{0} mph 西风）",
+		"EastWind": "（{0} mph 东风）",
 		"FullMoon": "满月",
 		"WaningGibbous": "亏凸月",
 		"ThirdQuarter": "下弦月",
@@ -681,8 +681,8 @@
 		"NotEnoughMaterials": "材料不足",
 		"CraftFromNearbyChestsOn": "从附近的箱子制作（开）",
 		"CraftFromNearbyChestsOff": "从附近的箱子制作（关）",
-		"QuickStackToNearby": "快速堆叠至附近宝箱\n{InputTrigger_InteractWithTile}切换堆叠方式",
-		"SmartStackToNearby": "相似堆叠至附近宝箱\n{InputTrigger_InteractWithTile}切换堆叠方式",
+		"QuickStackToNearby": "快速堆叠至附近宝箱\n按{InputTrigger_InteractWithTile}切换堆叠方式",
+		"SmartStackToNearby": "相似堆叠至附近宝箱\n按{InputTrigger_InteractWithTile}切换堆叠方式",
 		"SortInventory": "物品栏排序",
 		"PlayerDistance": "（{0}英尺）",
 		"Bright": "明亮",
@@ -748,8 +748,8 @@
 		"BannersTitle": "旗帜",
 		"ScreenShake": "屏幕震动：{0}",
 		"CraftingWindowClassic": "经典制作窗口",
-		"CraftingWindowClassicTip": "经典制作窗口\n{InputTrigger_InteractWithTileUI}可切换样式",
-		"CraftingWindowTip": "制作窗口\n{InputTrigger_InteractWithTileUI}可切换样式"
+		"CraftingWindowClassicTip": "经典制作窗口\n按{InputTrigger_InteractWithTileUI}切换样式",
+		"CraftingWindowTip": "制作窗口\n按{InputTrigger_InteractWithTileUI}切换样式"
 	},
 	"Controls": {
 		"LeftClick": "左键点击",
@@ -829,7 +829,7 @@
 		"BallBounceResultGolf_Plural": "{0}以{2}杆击{1}入洞！",
 		"DarknessDanger": "非常黑暗……你觉得有危险……",
 		"DarknessSafe": "黑暗的危险已经过去了。",
-		"RespawnSkip": "{InputTrigger_Jump}跳过"
+		"RespawnSkip": "按{InputTrigger_Jump}跳过"
 	},
 	"Enemies": {
 		"TheTwins": "双子魔眼",
